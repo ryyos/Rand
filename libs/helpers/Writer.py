@@ -11,3 +11,7 @@ class Writer:
     def exstr(self, path: str, content: any) -> None:
         with open(path, 'w', encoding="utf-8") as file:
             file.writelines(content)
+
+    def eby(self, path: str, media: any) -> None:
+        with open(path, 'wb') as file:
+            file.write(media.content)

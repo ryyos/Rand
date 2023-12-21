@@ -21,15 +21,13 @@ class Research:
         }
 
 
-    def filter_data(self, page_url: str):
+    def exstract_url(self, page_url: str):
         urls = []
         response = requests.get(url="https://www.rand.org/pubs.html?page=5", headers=self.__headers)
         ic(response)
         html = PyQuery(response.text)
         table = html.find(selector='#results > ul')
 
-        # self.__writer.exstr(path='private/line.html', content=str(line))
-        ic(len(table.find('li')))
         for line in table.find('li'):
             
             results = {
@@ -44,10 +42,11 @@ class Research:
                     "desc": self.__parser.ex(html=line, selector='div.img-wrap a img').attr('alt'),
                 }
             }
+
             self.__results['datas'].append(results)
         
-        self.__writer.ex(path='private/result1.json', content=self.__results)
-
+            urls.append(results.get('url'))
+        # self.__writer.ex(path='private/result1.json', content=self.__results)
 
 
     def execute(self):
