@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-21 22:18:31.955229",
+  "crawling_time_epoch": 1703171911,
+  "type": "Commentary",
+  "title": "Can NATO Supercharge Military Greening?",
+  "url": "https://www.rand.org/pubs/commentary/2023/12/can-nato-supercharge-military-greening.html",
+  "descriptions": "NATO has taken significant steps to reduce environmental impacts of military activities and has set voluntary emissions reduction targets for its member states. By leveraging its existing standardization processes to encompass a wider range of equipment, supplies, and practices, NATO can solidify its role as the preeminent military leader on climate.",
+  "posted": "Dec 1, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/12/can-nato-supercharge-military-greening/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1701470075526.jpeg",
+    "desc": "NATO Secretary General Jens Stoltenberg participates in the U.N. Climate Change Conference (COP28) in Dubai, United Arab Emirates, December 1, 2023, photo courtesy of NATO"
+  },
+  "content": {
+    "source": "(The RAND Blog)",
+    "author": {
+      "name": "Paul Cormarie Scott R. Stephenson",
+      "profil": "https://www.rand.org/about/people/c/cormarie_paul.html",
+      "position": "Policy Analyst Physical Scientist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@CormariePaul @SRStephenson",
+      "contact": "https://www.twitter.com/CormariePaul"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.alternative-and-renewable-energy.html",
+        "tag": "Alternative and Renewable Energy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.global-climate-change.html",
+        "tag": "Global Climate Change"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.military-strategy.html",
+        "tag": "Military Strategy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.military-technology.html",
+        "tag": "Military Technology"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.north-atlantic-treaty-organization.html",
+        "tag": "North Atlantic Treaty Organization"
+      }
+    ],
+    "Article": "The United Nations climate talks, known as COP28, convene in Dubai November 30 to December 12 amid growing recognition of the world's militaries' contribution to climate change. An expanded NATO leadership role in limiting emissions and conserving energy could spur progress. While military emissions are largely exempted from reporting requirements under the Paris Agreement, the defense and security sectors are increasingly seen as critical partners in climate mitigation efforts. Looking beyond individual member states, intergovernmental alliances can play a strong role in shaping and strengthening collective action among allied militaries. NATO, in particular, has taken significant steps to reduce environmental impacts of military activities and has set voluntary emissions reduction targets for its member states. But the alliance has a unique opportunity to scale up its ambition as a climate leader by expanding the number and scope of the technical standards under which its militaries operate. NATO has taken significant steps to reduce environmental impacts of military activities and has set voluntary emissions reduction targets for its member states. NATO has made climate change a top concern. The organization's Climate Change and Security Action Plan is prioritizing climate mitigation as well as adaptation and climate security planning. NATO's Smart Energy Programme has also institutionalized the sharing of energy-efficient microgrid bases in order to both improve operational efficiency and promote less carbon-intensive solutions in energy management across the alliance. Other initiatives to convert lighting in NATO's organizational infrastructure to LEDs are saving up to 80 percent in energy costs relative to incandescent lights and establishing key best practices in energy efficiency for NATO members to follow. And logistical exercises such as Capable Logistician have facilitated the development of Smart Energy camps that utilize solar panels, tent insulation, and waste-to-energy systems among alliance members. Beyond NATO's demonstrated action on climate to date, there remains enormous potential for the alliance to increase its mitigation impact if it were to expand the scope of standardization agreements (STANAGs) to include more-ambitious climate goals. STANAGs are common sets of rules or guidelines among NATO members encompassing numerous domains, from ammunition to communication, and have been important drivers of collective action among NATO members for decades. As part of NATO's recent focus on smart energy, some STANAGs aim to increase energy efficiency across the alliance. For example, STANAG 7237 (PDF) standardizes the procedures and organization of a Modular Combined Petroleum Unit, guaranteeing an efficient stockage and distribution of fuel for alliance members. But STANAGs also can continue to push potential change in the armed forces. STANAG 4015 regulates battery size and usage: It covers specifically batteries used to start tactical ground vehicles and regulates the placement of spare batteries in land vehicles. Further agreements on batteries such as this one could serve as a benchmark for the adoption of heavy electric vehicles in the future. As NATO is looking to reduce operational fuel use, technological improvement will further reinforce this trend. In the same way, new standards in the area of smart microgrids could quickly reduce fuel consumption (PDF) of field camps, and serve as benchmarks for better, and cleaner, energy usage in military operations beyond the alliance. NATO can also expand on its existing fuel standards to encourage wider adoption of low-carbon technologies. The Single Fuel Concept (SFC) has already enabled the standardization of a common fuel infrastructure within NATO, simplifying the fuel supply chain and reducing demand for fuel transport and storage, which account for the bulk of military emissions in Europe. The SFC could be expanded to accommodate and accelerate shifts toward broader use of alternative fuels, allowing logistics technology based on biofuels or synthetic fuels to proliferate quickly once it becomes operationally more effective. NATO standards may increasingly be adopted as global practice if multinational defense supply chains continue to prioritize the European and North American markets. Expanding the alliance offers yet more opportunities to increase climate ambition. The accession of Finland and Sweden extends the reach of NATO standards to new militaries. As both countries are already leaders in climate diplomacy and green technology, NATO's climate agenda stands to benefit from working with its newest members to promote technological innovation and enhance the rigor of existing standards. Finally, NATO can look for ways for its standards to have “spillover effects” beyond the alliance. This is happening already—for example, STANAG 4370 was used as the best practice (PDF), along with other STANAGs, for informing environmental training standards at the European Defense Agency. Because of their track record and NATO's market of more than 30 countries as a gauge for quality, NATO STANAGs have strong support (PDF) in the international logistics and manufacturing communities. Therefore, NATO standards may increasingly be adopted as global practice if multinational defense supply chains continue to prioritize the European and North American markets. By leveraging its existing standardization processes to encompass a wider range of equipment, supplies, and practices, NATO can solidify its role as the preeminent military leader on climate. Much as the “Brussels Effect” represented a proliferation of European regulatory standards around the world, an emerging “NATO Effect” could signal the potential of NATO in greening of militaries within and beyond the alliance. Paul Cormarie is a policy analyst and Scott Stephenson is an environmental and political geographer at the nonprofit, nonpartisan RAND Corporation. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}
