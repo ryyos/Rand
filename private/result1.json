@@ -1,0 +1,246 @@
+{
+  "categories": "research",
+  "times": "2023-12-21 14:26:11.618925",
+  "datas": [
+    {
+      "type": "Testimony",
+      "title": "Enhancing Security in a Changing Arctic",
+      "url": "https://www.rand.org/pubs/testimonies/CTA3097-1.html",
+      "descriptions": "Testimony submitted to the U.S. House Committee on Homeland Security on November 29, 2023.",
+      "posted": "Nov 29, 2023",
+      "authors": "Abbie Tingstad",
+      "image": {
+        "thumb": "/content/rand/pubs/testimonies/CTA3097-1/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701267603138.jpeg",
+        "desc": "The 23rd Space Operations Squadron, Det. 1 is located more than 700 miles north of the Arctic Circle, Photo by Airman Jonathan Whitely"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "The Limits of Russian Manipulation: National Identity and the Origins of the War in Ukraine",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2061-1.html",
+      "descriptions": "Using the concept of national identity as a starting point, RAND researchers developed a framework in an effort to illuminate the underlying causes of Russian manipulation, Ukrainian resistance, and the Russia-Ukraine war.",
+      "posted": "Nov 29, 2023",
+      "authors": "Clint Reach, Ryan Bauer, Alyssa Demus, Khrystyna Holynska",
+      "image": {
+        "thumb": "/content/rand/pubs/research_reports/RRA2061-1/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1702306123757.jpeg",
+        "desc": "Ukrainian servicemen at a ceremony where President Zelenskyy honored troops on the first anniversary of Russia's invasion, in St. Sophia's Square, Kyiv, Ukraine, February 24, 2023, photo by the Office of the President of Ukraine via Reuters"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "U.S.-Japan Alliance Conference: The U.S.-Japan Alliance in an Era of Strategic Competition",
+      "url": "https://www.rand.org/pubs/conf_proceedings/CFA2839-1.html",
+      "descriptions": "These proceedings present insights that experts of Europe, Japan, Taiwan, and U.S. security policies presented at RAND Corporation–hosted virtual conferences that explored relevant issues on the U.S.-Japan alliance regarding strategic competition.",
+      "posted": "Nov 29, 2023",
+      "authors": "Jeffrey W. Hornung",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/report.b590e4a.svg",
+        "desc": "Report"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "Growth in Suicide Rates Among Children During the Illicit Opioid Crisis",
+      "url": "https://www.rand.org/pubs/external_publications/EP70318.html",
+      "descriptions": "This paper shows how the transition of the opioid crisis to illicit opioids increased suicide rates among children.",
+      "posted": "Nov 29, 2023",
+      "authors": "David Powell",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/journal-article.b590e4a.svg",
+        "desc": "Journal Article"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "Insurance Coverage During Transitions: Evidence from Medicaid Automatic Enrollment for Children Receiving Supplemental Security Income",
+      "url": "https://www.rand.org/pubs/external_publications/EP70319.html",
+      "descriptions": "We examine the relationship between SSI-Medicaid automatic enrollment and insurance coverage. Medicaid automatic enrollment policies are associated with increased insurance coverage for SSI children, particularly when transitioning into the program.",
+      "posted": "Nov 29, 2023",
+      "authors": "Stephanie Rennane, Danielle Sobol, Bradley D. Stein, Andrew W. Dick",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/journal-article.b590e4a.svg",
+        "desc": "Journal Article"
+      }
+    },
+    {
+      "type": "Research Brief",
+      "title": "Greater Conflict-Phase Access to Asia: U.S. Policies for Five Indo-Pacific Countries",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA1742-1.html",
+      "descriptions": "This research brief addresses how U.S. allies and partners are likely to make decisions about granting approval for U.S. military access during a conflict and what U.S. policies in peacetime could affect those decisions.",
+      "posted": "Nov 28, 2023",
+      "authors": "Bryan Frederick, Kristen Gunness, Gabrielle Tarini, Andrew Stravers, Michael J. Mazarr, Emily Ellinger, Jonah Blank, Shawn Cochran, Jeffrey W. Hornung, Lyle J. Morris, Jordan Ernstsen, Lydia Grek, Howard Wang, Lev Navarre Chao",
+      "image": {
+        "thumb": "/content/rand/pubs/research_briefs/RBA1742-1/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701135157867.jpeg",
+        "desc": "A pilot walks toward a lineup of F-16 Fighting Falcons before a flight at Clark Air Base, Philippines. Photo by Airman 1st Class Sebastian Romawac/Pacific Air Forces Public Affairs"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "Improving Conflict-Phase Access: Identifying U.S. Policy Levers",
+      "url": "https://www.rand.org/pubs/research_reports/RRA1742-1.html",
+      "descriptions": "This report explores how U.S. allies and partners in the Indo-Pacific are likely to respond to military access requests in the event of a conflict with China and what policy levers the United States might use in peacetime to affect those responses.",
+      "posted": "Nov 28, 2023",
+      "authors": "Bryan Frederick, Kristen Gunness, Gabrielle Tarini, Andrew Stravers, Michael J. Mazarr, Emily Ellinger, Jonah Blank, Shawn Cochran, Jeffrey W. Hornung, Lyle J. Morris, Jordan Ernstsen, Lydia Grek, Howard Wang, Lev Navarre Chao",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/report.b590e4a.svg",
+        "desc": "Report"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "Designing A Strange Game: A Nuclear Wargame for the 21st Century",
+      "url": "https://www.rand.org/pubs/research_reports/RRA1204-1.html",
+      "descriptions": "This report details the theoretical motivation and design of a wargame meant to address the lack of serious games that consider nuclear weapon employment and tools available to teach stakeholders about the challenges of nuclear weapon employment.",
+      "posted": "Nov 28, 2023",
+      "authors": "Stephen M. Worman, David R. Frelinger, David A. Shlapak, Katherine Pfrommer, Kelly Elizabeth Eusebi, Jenny Oberholtzer",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/report.b590e4a.svg",
+        "desc": "Report"
+      }
+    },
+    {
+      "type": "Tool",
+      "title": "A Toolkit for Community-Police Dialogue",
+      "url": "https://www.rand.org/pubs/tools/TLA615-1.html",
+      "descriptions": "This guide provides background on the purpose for the development of the RAND Corporation’s community-police dialogue exercise, guidance for planning and implementing the dialogue, and materials to help carry out the dialogue effectively.",
+      "posted": "Nov 27, 2023",
+      "authors": "Dionne Barnes-Proby, Samuel Peterson, Alexandra Mendoza-Graf, Pierrce Holmes, Danielle Sobol, Nipher Malika, Meagan Cahill",
+      "image": {
+        "thumb": "/content/rand/pubs/tools/TLA615-1/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1700690582127.jpeg",
+        "desc": "Interim Minneapolis Police Chief Huffman arrives at George Floyd Square for a Community Conversation on pubic safety, August 3, 2022, photo by Chad Davis"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "Can Scenarios Help Policymakers Be Both Bold and Careful?",
+      "url": "https://www.rand.org/pubs/external_publications/EP70313.html",
+      "descriptions": "Low-probability and high-impact events have the potential to escalate into systemic crises. Developing the tools to anticipate and manage these scenarios is the focus of this volume.",
+      "posted": "Nov 27, 2023",
+      "authors": "Robert J. Lempert",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/journal-article.b590e4a.svg",
+        "desc": "Journal Article"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "Estimating the Lifetime Prevalence of Incarceration in the U.S. Veteran Population",
+      "url": "https://www.rand.org/pubs/external_publications/EP70316.html",
+      "descriptions": "This brief report estimates the lifetime prevalence of incarceration among U.S. military veterans using data from three nationally representative U.S. samples.",
+      "posted": "Nov 27, 2023",
+      "authors": "Jack Tsai, Robert H. Pietrzak, Stephanie Brooks Holliday, Shoba Sreenivasan",
+      "image": {
+        "thumb": "/content/rand/pubs/external_publications/EP70316/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701291547136.jpeg",
+        "desc": "Prison interior. Jail cells and shadows, photo by Rawf8/Getty Images"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "A Comparative Look at Various Countries' Legal Regimes Governing Automated Vehicles",
+      "url": "https://www.rand.org/pubs/external_publications/EP70317.html",
+      "descriptions": "This article summarizes the makeup of AV legal regimes of Australia, China, France, Germany, Japan, and the United Kingdom, with a focus on law and policy relating to highly to fully automated vehicles.",
+      "posted": "Nov 27, 2023",
+      "authors": "Brittany Eastman, Shay Collins, Ryan Jones, J.J. Martin, Marjory S. Blumenthal, Karlyn D. Stanley",
+      "image": {
+        "thumb": "/content/rand/pubs/external_publications/EP70317/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701197828990.jpeg",
+        "desc": "Smart car (HUD) and Autonomous self-driving mode vehicle on metro city road with graphic sensor signal, photo by zapp2photo/Adobe Stock"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "Testing the Efficacy of Pretrial Diversion: A Randomized Trial at the San Francisco Neighborhood Courts",
+      "url": "https://www.rand.org/pubs/research_reports/RRA3059-1.html",
+      "descriptions": "An evaluation of Neighborhood Court, a restorative justice diversion program, indicates a statistically insignificant reduction in recidivism, positive perceptions of the program among stakeholders, and a public willingness to pay for its features.",
+      "posted": "Nov 27, 2023",
+      "authors": "Melissa M. Labriola, Jessie Coe, Isaac M. Opper, Danielle Sobol, Amy Mahler",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/report.b590e4a.svg",
+        "desc": "Report"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "Written Evidence Submitted by RAND Europe: MIN0040 Critical Minerals",
+      "url": "https://www.rand.org/pubs/external_publications/EP70314.html",
+      "descriptions": "This document provides RAND Europe’s submission of evidence in relation to the UK House of Commons Foreign Affairs Committee’s Call for Evidence on Critical Minerals and draws upon previous RAND research on critical minerals and supply chains.",
+      "posted": "Nov 22, 2023",
+      "authors": "Jacopo Bellasio, Kristin Thue, Maria Chiara Aquilino, Sarah Winder, James Black",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/journal-article.b590e4a.svg",
+        "desc": "Journal Article"
+      }
+    },
+    {
+      "type": "Journal Article",
+      "title": "Within‐Physician Differences in Patient Sharing Between Primary Care Physicians and Cardiologists Who Treat White and Black Patients With Heart Disease",
+      "url": "https://www.rand.org/pubs/external_publications/EP70315.html",
+      "descriptions": "Within-physician Black-White differences in patient sharing exist and may contribute to disparities in cardiac care.",
+      "posted": "Nov 22, 2023",
+      "authors": "Luke J. Matthews, Cheryl L. Damberg, Shiyuan Zhang, Jose J. Escarce, C. Ben Gibson, Megan S. Schuler, Ioana Popescu",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/journal-article.b590e4a.svg",
+        "desc": "Journal Article"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "International approaches to police performance measurement",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2790-1.html",
+      "descriptions": "This study is an international review of approaches to police performance measurement which examines how police performance is measured in a selection of countries and assesses how police performance measurement in the Netherlands could be improved.",
+      "posted": "Nov 21, 2023",
+      "authors": "Emma Zürcher, Lana Eekelschot, Annalena Wolcke, Lucy Strang",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/report.b590e4a.svg",
+        "desc": "Report"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "Revisiting RAND's Russia Wargames After the Invasion of Ukraine: Summary and Implications",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2031-1.html",
+      "descriptions": "This report summarizes reexamined RAND tabletop exercises involving Russia from the past eight years in a review of wargaming methods and analysis and presents implications for future potential conflicts involving major powers.",
+      "posted": "Nov 21, 2023",
+      "authors": "Gian Gentile, John C. Jackson, Karl P. Mueller, D. Sean Barnett, Mark Hvizda, Bradley Martin, David A. Ochmanek, Clint Reach, Barry Wilson",
+      "image": {
+        "thumb": "/etc/rand/designs/common/placeholders/teasers/report.b590e4a.svg",
+        "desc": "Report"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "Independent Assessment of the ICE Body-Worn Camera Pilot Program",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2014-2.html",
+      "descriptions": "This report summarizes the findings from a mixed-methods analysis of a U.S. Immigration and Customs Enforcement pilot program of body-worn cameras for personnel assigned to Homeland Security Investigations and Enforcement and Removal Operations.",
+      "posted": "Nov 21, 2023",
+      "authors": "Richard H. Donohue, John S. Hollywood, Samuel Peterson, Bob Harrison, Daniel Tapia, Sunny D. Bhatt, Candace Strickland",
+      "image": {
+        "thumb": "/content/rand/pubs/research_reports/RRA2014-2/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701288167054.jpeg",
+        "desc": "A close up image of a Motorola Body Worn Camera"
+      }
+    },
+    {
+      "type": "Report",
+      "title": "The United States and China—Designing a Shared Future: The Potential for Track 2 Initiatives to Design an Agenda for Coexistence",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2850-1.html",
+      "descriptions": "The U.S.-China rivalry is intensifying, causing a high level of mistrust and stifling the impacts of Track 1.5 and Track 2 dialogues. A new Track 2 initiative is needed to design a shared future and stem the decline in U.S.-China relations.",
+      "posted": "Nov 21, 2023",
+      "authors": "Amanda Kerrigan, Lydia Grek, Michael J. Mazarr",
+      "image": {
+        "thumb": "/content/rand/pubs/research_reports/RRA2850-1/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1700674396967.jpeg",
+        "desc": "USA flag and China flag print screen on pawn chess with black background.It is symbol of tariff trade war tax barrier between United States of America and China, photo by Dilok/Adobe Stock"
+      }
+    },
+    {
+      "type": "Multimedia",
+      "title": "Launch of the RAND REACH Center: A Virtual Center for Collaborative Research in Complementary and Integrative Health",
+      "url": "https://www.rand.org/pubs/presentations/PTA3086-1.html",
+      "descriptions": "This presentation shows the official launch of the RAND REACH Center, which leverages RAND’s research infrastructure to help build complementary and integrative health (CIH) research capacity and promote collaboration across institutions that graduate licensed CIH practitioners.",
+      "posted": "Nov 21, 2023",
+      "authors": "",
+      "image": {
+        "thumb": "/content/rand/pubs/presentations/PTA3086-1/_jcr_content/par/teaser.crop.250x187.cm.png/1700242701055.png",
+        "desc": ""
+      }
+    }
+  ]
+}

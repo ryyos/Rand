@@ -5,8 +5,8 @@ class Writer:
         pass
 
     def ex(self, path: str, content: any) -> None:
-        with open(path, 'w') as file:
-            json.dump(content, file, indent=2)
+        with open(path, 'w', encoding= "utf-8") as file:
+            json.dump(content, file, ensure_ascii=False, indent=2, default=str)
 
     def exstr(self, path: str, content: any) -> None:
         with open(path, 'w', encoding="utf-8") as file:
