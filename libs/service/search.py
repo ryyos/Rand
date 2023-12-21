@@ -53,8 +53,7 @@ class Research:
             "Article": self.__parser.ex(html=footer, selector="div.body-text p").text()
         }
 
-        self.__writer.ex(path='private/artc.json', content=results)
-        ic(results)
+        return results
         
 
     def exstract_data(self, pieces_table: str):
@@ -72,8 +71,6 @@ class Research:
             "content": self.exstract_article(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
         }
 
-        self.__writer.ex(path='private/results.json', content=results)
-
         return results
 
     def execute(self):
@@ -84,3 +81,6 @@ class Research:
 
         for line in table.find('li'):
             results = self.exstract_data(pieces_table=line)
+            self.__writer.ex(path=f'private/{results.get("title").replace(" ", "_")}.json', content=results)
+            break
+
