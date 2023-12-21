@@ -34,6 +34,34 @@ class Search:
         return [input_string[i:i+many] for i in range(0, len(input_string), many)]
 
 
+    def essay(self, url_artc) -> dict:
+        response = requests.get(url=url_artc, headers=self.__headers)
+        html = PyQuery(response.text)
+
+        body = html.find(selector="#srch > article")
+        side = html.find(selector="#srch > article > div.constrain-width > div.blog-column-right")
+
+        results = {
+            "article": self.__parser.ex(html=body, selector="div.body-text p").text(),
+            "overview": self.__parser.ex(html=body, selector="div.overview > p").text(),
+            "topine": self.__parser.ex(html=body, selector="div.topline > div > ul > li").text(),
+            "topics": [
+                {
+                    "tag": self.__parser.ex(html=tag, selector="a").text(),
+                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                } for tag in side.find(selector="aside.related-topics > ul > li")
+            ],
+            "image": [
+                {
+                    "url_image": self.complement_url(pieces_url=self.__parser.ex(html=img, selector="img").attr("src")),
+                    "width": self.__parser.ex(html=img, selector="img").attr("width"),
+                    "height": self.__parser.ex(html=img, selector="img").attr("height"),
+                    "desc": self.__parser.ex(html=img, selector="img").attr("alt"),
+                }for img in body.find(selector='div.body-text div[data-cmp-hook-image="imageV3"] > picture')
+            ]
+        }
+
+
     def article(self, url_artc) -> dict:
         response = requests.get(url=url_artc, headers=self.__headers)
         html = PyQuery(response.text)
@@ -154,7 +182,8 @@ class Search:
             "Article": self.__parser.ex(html=html, selector="#srch > article > div > div > div:first-child > p").text(),
         }
 
-        return results
+        # return results
+        ic(results)
 
 
     def commentary(self, url_artc: str) -> dict:
@@ -225,6 +254,11 @@ class Search:
             case "ARTICLE":
                 results.update({
                     "content": self.article(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+                })
+
+            case "ESSAY":
+                results.update({
+                    "content": self.essay(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
             case _:
