@@ -34,6 +34,31 @@ class Search:
         return [input_string[i:i+many] for i in range(0, len(input_string), many)]
 
 
+    def media_advisory(self, url_artc: str) -> dict:
+        response = requests.get(url=url_artc, headers=self.__headers)
+        html = PyQuery(response.text)
+
+        side_right = html.find('#srch > article > div > div > div:last-child')
+        
+        results = {
+            "media_relations": {
+                "contact1": self.split_string(self.__parser.ex(html=side_right, selector="aside.media-contact > p").text(), 15)[0].replace("\n", ""),
+                "contact2": self.split_string(self.__parser.ex(html=side_right, selector="aside.media-contact > p").text(), 15)[1].replace("\n", ""),
+                "email": self.split_string(self.__parser.ex(html=side_right, selector="aside.media-contact > p").text(), 15)[2],
+            },
+            "sub_content": [{
+                self.__parser.ex(html=sub, selector="h2").text(): self.__parser.ex(html=sub, selector="p").text()
+            }for sub in self.__parser.ex(html=html, selector="#srch > article > div > div > div.eight.columns div")],
+            "topics": [{
+              "url": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+              "tag": self.__parser.ex(html=tag, selector="a").text()
+            }for tag in self.__parser.ex(html=side_right, selector="aside:last-child > ul > li")],
+            "Article": self.__parser.ex(html=html, selector="#srch > article > div > div > div:first-child > p").text(),
+        }
+
+        return results
+
+
     def essay(self, url_artc) -> dict:
         response = requests.get(url=url_artc, headers=self.__headers)
         html = PyQuery(response.text)
@@ -182,8 +207,7 @@ class Search:
             "Article": self.__parser.ex(html=html, selector="#srch > article > div > div > div:first-child > p").text(),
         }
 
-        # return results
-        ic(results)
+        return results
 
 
     def commentary(self, url_artc: str) -> dict:
@@ -259,6 +283,11 @@ class Search:
             case "ESSAY":
                 results.update({
                     "content": self.essay(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+                })
+
+            case "MEDIA ADVISORY":
+                results.update({
+                    "content": self.media_advisory(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
             case _:
