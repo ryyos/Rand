@@ -1,1 +1,2 @@
-from .service.research import Research
+from .service.search import Research
+from .service.downloader import Downloader
