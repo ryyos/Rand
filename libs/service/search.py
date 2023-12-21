@@ -25,12 +25,57 @@ class Research:
 
 
     def complement_url(self, pieces_url: str) -> str:
-        if self.__base_url not in pieces_url:
-            return self.__base_url+pieces_url
-        return pieces_url
+        try:
+            if self.__base_url not in pieces_url:
+                return self.__base_url+pieces_url
+            return pieces_url
+        except Exception:
+            return pieces_url
 
 
-    def exstract_article(self, url_artc: str) -> dict:
+    def split_string(self, input_string: str, many: int):
+        return [input_string[i:i+many] for i in range(0, len(input_string), many)]
+
+
+    def news_release(self, url_artc: str) -> dict:
+        response = requests.get(url=url_artc, headers=self.__headers)
+        html = PyQuery(response.text)
+
+        side_left = html.find('#srch > article > div > div > div:first-child > p')
+        side_right = html.find('#srch > article > div > div > div:last-child')
+        
+        results = {
+            "media_relations": {
+                "contact1": self.split_string(self.__parser.ex(html=side_right, selector="aside.media-contact > p").text(), 15)[0],
+                "contact2": self.split_string(self.__parser.ex(html=side_right, selector="aside.media-contact > p").text(), 15)[1],
+                "email": self.split_string(self.__parser.ex(html=side_right, selector="aside.media-contact > p").text(), 15)[2],
+            },
+            "spotlight": {
+                "name": self.__parser.ex(html=side_right, selector="aside.researcher-spotlight > ul > li > div.researcher-titles > h3").text(),
+                "profession": self.__parser.ex(html=side_right, selector="aside.researcher-spotlight > ul > li > div.researcher-titles > h4").text(),
+                "biography": self.__parser.ex(html=side_right, selector="aside.researcher-spotlight > ul > li > p").text(),
+                "profile_picture": {
+                    "url_pict": self.__parser.ex(html=side_right, selector="#image-65562d69f8 > a > picture > img").attr("src"),
+                    "width": self.__parser.ex(html=side_right, selector="#image-65562d69f8 > a > picture > img").attr("width"),
+                    "height": self.__parser.ex(html=side_right, selector="#image-65562d69f8 > a > picture > img").attr("height"),
+                    "desc": self.__parser.ex(html=side_right, selector="#image-65562d69f8 > a > picture > img").attr("alt"),
+                },
+            },
+            "researcher": [{
+                "research": self.__parser.ex(html=res, selector="a").text(),
+                "profile": self.__parser.ex(html=res, selector="a").attr('href')
+            }for res in self.__parser.ex(html=side_right, selector="aside:nth-child(3) > ul:nth-child(7) > li")],
+            "topics": [{
+              "url": self.__parser.ex(html=tag, selector="a").attr('href'),
+              "tag": self.__parser.ex(html=tag, selector="a").text()
+            }for tag in self.__parser.ex(html=side_right, selector="aside:nth-child(3) > ul:nth-child(5) > li")],
+            "Article": self.__parser.ex(html=html, selector="#srch > article > div > div > div:first-child > p").text(),
+        }
+
+        return results
+
+
+    def commentary(self, url_artc: str) -> dict:
         response = requests.get(url=url_artc, headers=self.__headers)
         html = PyQuery(response.text)
 
@@ -48,7 +93,7 @@ class Research:
             },
             "topic": [{
                 "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
-                "tags": self.__parser.ex(html=tag, selector="a").text(),
+                "tag": self.__parser.ex(html=tag, selector="a").text(),
             } for tag in self.__parser.ex(html=footer, selector="div.blog-column-right ul > li")],
             "Article": self.__parser.ex(html=footer, selector="div.body-text p").text()
         }
@@ -67,20 +112,35 @@ class Research:
             "image": {
                 "thumb": self.complement_url(self.__parser.ex(html=pieces_table, selector='div.img-wrap a img').attr('src')),
                 "desc": self.__parser.ex(html=pieces_table, selector='div.img-wrap a img').attr('alt'),
-            },
-            "content": self.exstract_article(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+            }
         }
+
+        match self.__parser.ex(html=pieces_table, selector='div.text p.type').text():
+            case "Commentary":
+                results.update({
+                    "content": self.commentary(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+                    })
+                
+            case "News Release":
+                results.update({
+                    "content": self.news_release(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+                })
+
+            case _:
+                ic("hehe")
+
 
         return results
 
     def execute(self):
         response = requests.get(url="https://www.rand.org/news.html", headers=self.__headers)
-
+        ic(response)
         html = PyQuery(response.text)
         table = html.find(selector='#results > ul')
 
         for line in table.find('li'):
             results = self.exstract_data(pieces_table=line)
-            self.__writer.ex(path=f'private/{results.get("title").replace(" ", "_")}.json', content=results)
-            break
+            ic(results.get("title").replace(" ", "_"))
+            self.__writer.ex(path=f'dumps/{results.get("title").replace(" ", "_").replace(":", "").replace("?", "")}.json', content=results)
+            
 
