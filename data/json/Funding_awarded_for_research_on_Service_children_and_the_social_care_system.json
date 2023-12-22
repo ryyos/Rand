@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:53:48.952453",
+  "crawling_time_epoch": 1703231628,
+  "type": "Announcement",
+  "title": "Funding awarded for research on Service children and the social care system",
+  "url": "https://www.rand.org/randeurope/about/news/2023/research-on-service-children-and-social-care-funding.html",
+  "descriptions": "King’s College London (KCL) has successfully secured the Ministry of Defence (MoD) contract to deliver professional military education at the Defence Academy of the United Kingdom. RAND Europe and Cranfield University will be collaborating with KCL to deliver this contract over the next few years.",
+  "posted": "Feb 24, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/randeurope/about/news/2023/research-on-service-children-and-social-care-funding/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1679349080913.jpeg",
+    "desc": "Military mother greeting her child in the living room, photo by South_agency/Getty Images"
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "We are grateful to the Forces in Mind Trust for sponsoring this important research which will bring us a step further in understanding the unique support needs and experiences of Service children and their families. As challenges facing the Armed Forces community are evolving, providing robust evidence on the extent, dynamics and gaps in support provision is even more critical.",
+      "name": "Benedict Wilkinson",
+      "profile": "https://www.rand.org/about/people/w/wilkinson_benedict.html",
+      "profession": "Deputy Director (Defence), RAND Europe",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/w/wilkinson_benedict/_jcr_content/par/bio.crop.150x150.ct.jpeg/1625617544977.jpeg",
+        "width": "150",
+        "height": "150",
+        "desc": "Benedict Wilkinson"
+      },
+      "Article": "24 February 2023 Forces in Mind Trust has awarded £150,000 to RAND Europe for a research project on the needs of Service families in the children’s social care system. The two-year study will seek to identify the extent to which children's social care services in the UK are adequately supporting the needs of Service children in England and Wales. The unique nature of Service life may have an impact on the needs of Service children within the social care system. However, there is currently no evidence base on how many Service children there are in the social care system and how their particular needs are being addressed. RAND Europe, in collaboration with Dr. Michael Sanders, will seek to understand any disparities in access to children's social care services between Armed Forces and civilian families. The research team will also explore the unique dynamics of social care provision for children attending schools on-base and off-base. For more information on the announcement, visit the Forces in Mind Trust's News Release. Find out more about our employment and social policy research."
+    }
+  }
+}

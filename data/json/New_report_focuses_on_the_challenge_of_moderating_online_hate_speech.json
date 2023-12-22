@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:40:18.984802",
+  "crawling_time_epoch": 1703230818,
+  "type": "Announcement",
+  "title": "New report focuses on the challenge of moderating online hate speech",
+  "url": "https://www.rand.org/randeurope/about/news/2023/moderating-hate-speech.html",
+  "descriptions": "RAND Europe led a consortium to research the characteristics of online hatred, and to consider the challenges associated with online content moderation.",
+  "posted": "Nov 30, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/randeurope/about/news/2023/moderating-hate-speech/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701355922972.jpeg",
+    "desc": "Teenage girl standing on a laptop looking at social media icons and representations of hate speech, photo by Ierbank/Getty Images"
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "",
+      "name": "",
+      "profile": null,
+      "profession": "",
+      "profile_picture": {
+        "url_pict": null,
+        "width": null,
+        "height": null,
+        "desc": null
+      },
+      "Article": "Photo by Ierbank/Getty Images A new report from the European Union Agency for Fundamental Rights (FRA) discusses the challenges presented by online hatred and its moderation. Drawing heavily on RAND Europe research, the Agency’s report discusses the implications for fundamental rights during efforts to create a rights-compliant digital environment. RAND Europe led a consortium to research the characteristics of online hatred, and to consider the challenges associated with online content moderation. The focus was on four selected target groups, in four EU Member States, namely Bulgaria, Germany, Italy and Sweden. The target groups of focus were women and people of African descent (for all four selected countries), Jewish people (for Germany and Sweden), and Roma people (for Bulgaria and Italy). We collected almost 350,000 posts from Reddit, Telegram, Twitter/X and Youtube. The posts were analysed both qualitatively (hand coding using a bespoke coding grid) and quantitively (using lexical analysis techniques). This analysis focused on understanding the different characteristics of online hatred. For the qualitative analysis, our coders analysed 400 posts from each country to assess whether they were hateful. Our results and findings have improved understanding of the phenomenon of online hatred in the EU – for example, the diverse ways in which hatefulness is expressed, and the proportion of posts that are considered to be inciteful, even after the platforms’ moderation. The study is now concluded, and FRA’s report is available here: Online Content Moderation – Current challenges in detecting hate speech (europa.eu)."
+    }
+  }
+}

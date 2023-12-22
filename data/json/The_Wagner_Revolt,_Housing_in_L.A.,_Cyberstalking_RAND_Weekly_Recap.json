@@ -1,0 +1,121 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:47:16.657915",
+  "crawling_time_epoch": 1703231236,
+  "type": "Blog",
+  "title": "The Wagner Revolt, Housing in L.A., Cyberstalking: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-june-30.html",
+  "descriptions": "This weekly recap focuses on the Wagner Group's power play against Russian leadership, how Truth Decay affects national security, why the U.S. legal system is underprepared to handle cyberstalking cases, and more.",
+  "posted": "Jun 30, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-30/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1688143813419.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "Cybercrime",
+        "blog": "https://www.rand.org/blog.topic.cybercrime.html"
+      },
+      {
+        "tag": "Democracy",
+        "blog": "https://www.rand.org/blog.topic.democracy.html"
+      },
+      {
+        "tag": "Homeland Security",
+        "blog": "https://www.rand.org/blog.topic.homeland-security.html"
+      },
+      {
+        "tag": "Housing Markets",
+        "blog": "https://www.rand.org/blog.topic.housing-markets.html"
+      },
+      {
+        "tag": "Long-Term Care",
+        "blog": "https://www.rand.org/blog.topic.long-term-care.html"
+      },
+      {
+        "tag": "Los Angeles",
+        "blog": "https://www.rand.org/blog.topic.los-angeles.html"
+      },
+      {
+        "tag": "Russia",
+        "blog": "https://www.rand.org/blog.topic.russia.html"
+      },
+      {
+        "tag": "Space Science and Technology",
+        "blog": "https://www.rand.org/blog.topic.space-science-and-technology.html"
+      },
+      {
+        "tag": "Veterans Health Care",
+        "blog": "https://www.rand.org/blog.topic.veterans-health-care.html"
+      },
+      {
+        "tag": "Warfare and Military Operations",
+        "blog": "https://www.rand.org/blog.topic.warfare-and-military-operations.html"
+      }
+    ],
+    "Article": "This week, we discuss the implications of the Wagner Group's mutiny; ensuring safety and sustainability of outer space; how Truth Decay affects national security; addressing the housing crisis in Los Angeles; the growing problem of cyberstalking; and helping aging veterans.",
+    "sub_article": [
+      {
+        "title": "Wagner Group Revolt: What's Next",
+        "descriptions": "The world watched with fascination last weekend as the Wagner Group—a Kremlin-backed paramilitary company—made a direct challenge to the Russian military establishment. Led by Wagner owner Yevgeny Prigozhin, 25,000 mostly Russian fighters marched from Ukrainian territory toward Moscow, taking over military commands in three Russian towns before retreating. “This was not a coup or actual attempt to take over political power,” says RAND's Molly Dunigan, an expert in Russian mercenary groups. “It was a theatrical power play by Prigozhin.” Despite the uprising, Wagner is an important source of income for the Kremlin and will likely remain operational. However, Russia could rebrand the group, install new leadership, or even withdraw Wagner fighters from Ukraine to reduce the risk of another mutiny. Importantly, this last option could have significant implications for Russia's ability to effectively fight a ground war, Dunigan says.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Satellites and Space Junk: Policy for Outer Space",
+        "descriptions": "How does outer space already affect the average person's life—and how could it in the future? How do millions of pieces of “space junk” and the risk of collisions threaten the safety and sustainability of space? And what role could space governance play in addressing these challenges? Three of RAND's top space policy experts, Bruce McClintock, Katie Feistel, and Douglas Ligor, answered these questions and more in a wide-ranging audio conversation on Twitter Spaces last week.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-30/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1688143018738.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A ring of debris (space junk) orbits the Earth. Image by JohanSwanepoel/Adobe Stock"
+        }
+      },
+      {
+        "title": "Truth Decay and National Security",
+        "descriptions": "Photo by Elizabeth Frantz/Reuters Americans are disagreeing more and more about basic facts, a phenomenon RAND calls “Truth Decay.” Without a common set of facts, it's hard to find compromises—let alone consensus—on important issues, including national security. A recent RAND paper explores this problem, considering how Truth Decay could weaken the military, decrease U.S. credibility with allies, and call into question America's ability to respond to the next big crisis.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-30/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1688143133090.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "The U.S. Capitol at sunset on the eve of the first anniversary of the January 6, 2021 attack on the building, in Washington, D.C., January 5, 2022, photo by Elizabeth Frantz/Reuters"
+        }
+      },
+      {
+        "title": "Office Apocalypse or Housing Boom?",
+        "descriptions": "The persistence of remote work has led to record office-vacancy rates in Los Angeles. At the same time, L.A. skyscrapers are selling for half of what they did a decade ago and are difficult to refinance. Incentivizing office-to-apartment conversions—potentially through a temporary tax abatement—may offer a solution, says RAND's Jason Ward. Not only would this help address the city's housing crisis, it could also lead to robust tax revenue that benefits Angelenos for decades to come.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-30/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1688143473263.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Los Angeles skyline and urban sprawl, photo by Ron and Patty Thomas/Getty Images"
+        }
+      },
+      {
+        "title": "Cyberstalking: A Growing Challenge for the U.S. Legal System",
+        "descriptions": "As online platforms and messaging technologies have multiplied, cyberstalking has become more common. Yet the problem has been understudied. A new RAND report provides the first empirical analysis on federal cyberstalking cases. The authors find that one major challenge in prosecuting these cases involves tying the evidence to the offenders—often tech-savvy individuals who are sophisticated at hiding their digital tracks.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-30/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1688143568170.jpeg",
+          "width": "800",
+          "height": "430",
+          "desc": "Computer hacker with hoodie and obscured face, photo by Dony/Getty Images"
+        }
+      },
+      {
+        "title": "Home and Community-Based Care to Help Aging Veterans",
+        "descriptions": "An estimated 80 percent of U.S. veterans will have some need for long-term care in their lifetime. Home and community-based services allow aging veterans to “age in place” while receiving the support they need—and provide a significant cost savings over nursing homes. A new RAND paper examines what it might take to ensure such services are available to all who could benefit from them.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-30/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1688143636769.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "A female aid helps a man out of his wheelchair, photo by Drazen/Adobe Stock"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:47:44.308097",
+  "crawling_time_epoch": 1703231264,
+  "type": "Commentary",
+  "title": "The AI Conspiracy Theories Are Coming",
+  "url": "https://www.rand.org/pubs/commentary/2023/06/the-ai-conspiracy-theories-are-coming.html",
+  "descriptions": "Artificial intelligence is a technology ready-made for conspiratorial thinking. The time to counter conspiracy theories about AI is now—before they take hold in the minds of the public.",
+  "posted": "Jun 22, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/06/the-ai-conspiracy-theories-are-coming/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1687391490200.jpeg",
+    "desc": "Green face peering out of machine code on cell phone, photo by Devrimb/Getty Images"
+  },
+  "content": {
+    "source": "(USA Today)",
+    "author": {
+      "name": "Douglas Yeung",
+      "profil": "https://www.rand.org/about/people/y/yeung_douglas.html",
+      "position": "Associate Director, Management, Technology, and Capabilities Program, RAND Homeland Security Research Division; Senior Behavioral and Social Scientist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@DouglasCYeung",
+      "contact": "https://www.twitter.com/DouglasCYeung"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.emerging-technologies.html",
+        "tag": "Emerging Technologies"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.information-operations.html",
+        "tag": "Information Operations"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.media-literacy.html",
+        "tag": "Media Literacy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.science-technology-and-innovation-policy.html",
+        "tag": "Science, Technology, and Innovation Policy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.social-media.html",
+        "tag": "Social Media"
+      }
+    ],
+    "Article": "For as long as there have been scientific breakthroughs and technological innovations, people have been labeling them as magic, witchcraft, or the product of nefarious conspiracies directed by powerful, unseen actors. Medieval metalworkers, who transformed stone into jewelry and swords, were seen as agents of either the ruling class or the supernatural, threatening the social fabric. Many still believe that the moon landing was faked in a TV studio. More recently, conspiracy theories that falsely claimed 5G cell technology spread COVID-19 led to attacks on cell towers in the United Kingdom. Artificial intelligence (AI) is a technology ready-made for conspiratorial thinking. It fits the conspiracy-activating mold in several ways. To start, AI can tell you what it thinks will happen, but it cannot explain why it thinks what it thinks. This is because many of the algorithms that undergird AI are designed to make predictions or identify relationships based on existing data, which means such models provide correlation, not causation. That yawning gap in our own understanding of how AI arrives at its responses to our prompts is exactly the kind of narrative void that conspiracy theories step in to help fill. Further, the large language models that underpin new AI systems such as ChatGPT produce extremely convincing and digestible results. When one prompts these tools with a question, they throw together massive amounts of information and spit out a simplified result that seems to make sense. Because the results are both sophisticated and delivered to us in a voice like our own, it's natural for people to assume AI's claims to be correct. Conspiracy theories do all the heavy lifting that critical thinking would otherwise demand. One can just sit back and believe. Likewise, conspiracy theories present disparate facts wrapped up in neat narratives. They do all the heavy lifting that critical thinking would otherwise demand. One can just sit back and believe. AI and conspiracy theories also share a common origin that, these days, is already regarded as suspect: elites and elite institutions. AI and algorithms have mostly, at least so far, been developed by Big Tech, and often deployed by those same companies or by the government (by branches of the military, the IRS, and law enforcement agencies). If believing in conspiracy theories requires believing in conspirators, then these formidable institutions make an easy target for suspicion. It's also easy to imagine how AI conspiracy beliefs might be weaponized. Geopolitical or corporate competitors could use propaganda to spread misinformation or rumors, undermining trust in AI implementations. These same bad actors could tailor (PDF) potential conspiracy theories to what specific groups would find most threatening, and thus most believable. In recent public health emergencies, for example, Russia claimed that mpox was a U.S. bioweapon, and China insinuated that the U.S. Army spread the coronavirus. It's not hard to envision factions in either country suggesting something similarly sinister about U.S.-developed AI tools. If the accuracy of AI judgments and predictions are in question, the public might respond by conjuring—or falling for—false narratives about AI. All of this potential for conspiracy thinking around AI would be dangerous to ignore. But there are steps beyond simply paying better attention. If you don't want people to believe something false, it can help to show them what is true. People are more likely to accept scientific knowledge as true when they know that a scientific consensus exists. An overarching counternarrative about AI truths would take the reasons it can be prone to conspiracy theories and turn these reasons on their head. Instead of the narrative about AI being controlled by private entities, the story around its development could be shown to be similar to other transformative technologies such as personal computers, which have democratized our access to information as they have become more accessible to the public. Rather than AI giving rise to online misinformation or censorship, algorithms could be shown to be a mere reflection of ourselves, surfacing what we desire to see. These counternarratives could support messaging that addresses the impact of misinformation on people's attitudes and beliefs. People may have differing concerns or lack information about specific applications of AI, such as facial recognition in stadiums or chatbot therapists. Messaging campaigns can help explain how AI is being used in these cases, including what data is being collected, for what purposes, and by whom. If you don't want people to believe something false, it can help to show them what is true. These messages should emphasize broad scientific and public agreement, in order to ensure that they are effective for people who hold different worldviews or ideological leanings. Messaging should be timely, such as providing warnings at the time of exposure to misinformation and repeatedly retracting misinformation. The time to do this is now—before conspiracy theories take hold in the minds of the public. A key part of preparation for deploying these counternarratives would involve efforts to tamp down inflamed emotions that conspiracy beliefs may stoke. That conspiracy theories would result in violent incidents is practically to be expected. Violence, like conspiracy theories, can be contagious. Yet too often, dry academic and policy debates about AI and science operate at a remove from what the public is hearing about a hypothetical killer AI, or algorithms biased against minorities or conservative voices. Researchers and developers should strive to ensure that AI tools do not cause undue harms, and then make it clear to the rest of us what they are doing. Those who act on behalf of others, including caregivers and advocacy groups, should consider how they can promote accurate information and help people think critically about what they see and share online. Going forward, conspiracy theories are not likely to derail the likeliest scenario—in which AI profoundly shapes society, based on what it can do and already does. Even so, its beneficial uses might be limited by conspiracy beliefs that deter its adoption or target those who deploy it. And the social harms could accelerate due to people's susceptibility or willingness to act in service of false narratives. Which way the scale tips could rest on our ability to counter such conspiracy theories—at least until AI becomes self-aware and starts taking matters into its own hands, proving all the conspiracy believers correct. Douglas Yeung is a senior behavioral scientist at the nonprofit, nonpartisan RAND Corporation, and a member of the Pardee RAND Graduate School faculty. This commentary originally appeared on USA Today on June 21, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

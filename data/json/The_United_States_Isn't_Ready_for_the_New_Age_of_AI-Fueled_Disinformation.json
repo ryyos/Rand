@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:42:43.752713",
+  "crawling_time_epoch": 1703230963,
+  "type": "Commentary",
+  "title": "The United States Isn't Ready for the New Age of AI-Fueled Disinformation",
+  "url": "https://www.rand.org/pubs/commentary/2023/10/the-united-states-isnt-ready-for-the-new-age-of-ai.html",
+  "descriptions": "Generative AI offers China and other bad actors the potential to fulfill longstanding desires to shape the global conversation. It is vital that the U.S. government and social media platforms recognize this threat and work together to address it immediately.",
+  "posted": "Oct 5, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/10/the-united-states-isnt-ready-for-the-new-age-of-ai/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1696539920746.jpeg",
+    "desc": "Closeup of a hand holding a cell phone showing a news website, with a laptop open in the background in soft focus, photo by oatawa/Getty Images"
+  },
+  "content": {
+    "source": "(TIME)",
+    "author": {
+      "name": "Nathan Beauchamp-Mustafaga William Marcellino",
+      "profil": "https://www.rand.org/about/people/b/beauchamp-mustafaga_nathan.html",
+      "position": "Policy Researcher Senior Behavioral and Social Scientist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "",
+      "contact": null
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.china.html",
+        "tag": "China"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.cybersecurity.html",
+        "tag": "Cybersecurity"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.information-operations.html",
+        "tag": "Information Operations"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": "In 2019, a Chinese researcher named Li Bicheng laid out his ideas about manipulating public opinion using AI. A network of “intelligent agents”—an army of fake online personae, controlled by AI—could act just realistically enough to shape consensus on issues of concern to the Chinese Communist Party, such as its handling of the COVID-19 pandemic. Just a few years earlier, Li had written in other articles that China should improve its ability to conduct “online information deception” and “online public opinion guidance.” Li is no outlier. In fact, he is the ultimate insider, with a long research career at the People's Liberation Army's top information warfare research institute. His vision of using AI to manipulate social media was published in one of the Chinese military's top academic journals. He is connected to the PLA's only known information-warfare unit, Base 311. His articles, therefore, should be viewed as a harbinger of a coming AI-assisted flood of Chinese influence operations across the web. As Meta recently disclosed in its quarterly adversarial threat report, Western internet platforms are already drowning in pro-Beijing content posted by groups linked to the Chinese government. According to the Meta report, more than half a million Facebook users followed at least one of these fake accounts in the broader Chinese network—which relied on click farms based in Vietnam and Brazil to boost its reach. The report also states that the Chinese network has bought about $3,000 worth of advertisements to further promote its posts. This effort, however, appears to still be ultimately run by humans and had marginal real-world results. A recent State Department report (PDF) on China's influence operations reinforces this point.… The remainder of this commentary is available at time.com. Nathan Beauchamp-Mustafaga is a policy researcher at the nonprofit, nonpartisan RAND Corporation, where he focuses on Chinese strategies for social media manipulation, and William Marcellino is a senior behavioral scientist who works on AI and disinformation issues at RAND. This commentary originally appeared on TIME on October 5, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

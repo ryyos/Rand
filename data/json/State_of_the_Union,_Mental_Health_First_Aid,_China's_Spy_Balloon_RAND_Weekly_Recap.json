@@ -1,0 +1,129 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:54:32.932414",
+  "crawling_time_epoch": 1703231672,
+  "type": "Blog",
+  "title": "State of the Union, Mental Health First Aid, China's Spy Balloon: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-february-10.html",
+  "descriptions": "This weekly recap focuses on President Biden's State of the Union address, the benefits of mental health first aid training, insights on China’s spy balloon, and more.",
+  "posted": "Feb 10, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-10/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1676051635575.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "China",
+        "blog": "https://www.rand.org/blog.topic.china.html"
+      },
+      {
+        "tag": "Community-Based Health Care",
+        "blog": "https://www.rand.org/blog.topic.community-based-health-care.html"
+      },
+      {
+        "tag": "Gender Equity",
+        "blog": "https://www.rand.org/blog.topic.gender-equity.html"
+      },
+      {
+        "tag": "Health Equity",
+        "blog": "https://www.rand.org/blog.topic.health-equity.html"
+      },
+      {
+        "tag": "Information Operations",
+        "blog": "https://www.rand.org/blog.topic.information-operations.html"
+      },
+      {
+        "tag": "Japan",
+        "blog": "https://www.rand.org/blog.topic.japan.html"
+      },
+      {
+        "tag": "Mental Health and Illness",
+        "blog": "https://www.rand.org/blog.topic.mental-health-and-illness.html"
+      },
+      {
+        "tag": "Military Strategy",
+        "blog": "https://www.rand.org/blog.topic.military-strategy.html"
+      },
+      {
+        "tag": "New York City",
+        "blog": "https://www.rand.org/blog.topic.new-york-city.html"
+      },
+      {
+        "tag": "Politics and Government",
+        "blog": "https://www.rand.org/blog.topic.politics-and-government.html"
+      },
+      {
+        "tag": "Security Cooperation",
+        "blog": "https://www.rand.org/blog.topic.security-cooperation.html"
+      },
+      {
+        "tag": "Warfare and Military Operations",
+        "blog": "https://www.rand.org/blog.topic.warfare-and-military-operations.html"
+      }
+    ],
+    "Article": "This week, we discuss insights from RAND on the State of the Union; China’s surveillance balloon and the U.S. recovery mission; the benefits of mental health first aid training; Japan's long-awaited return to geopolitics; community efforts to reduce health inequities; and addressing gender bias in health care.",
+    "sub_article": [
+      {
+        "title": "State of the Union: Insights from RAND",
+        "descriptions": "Earlier this week, President Joe Biden delivered his second official State of the Union address. His remarks addressed a wide range of policy challenges facing the nation. The president called for police reform in response to the brutal killing of Tyre Nichols, demanded action to curb high rates of gun violence and opioid-related deaths, and called on lawmakers to do more to address America's high prescription drug prices. Turning to foreign policy, Biden lauded the West's response to Russia's invasion of Ukraine and expressed confidence in America's strength as U.S.-China relations continue to be defined by volatility. To help shed light on some of these issues, we've rounded up insights from RAND's nonpartisan research, analysis, and expertise.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The Benefits of Mental Health First Aid Training",
+        "descriptions": "More than 155,000 New Yorkers were trained in Mental Health First Aid between 2016 and 2020. A new RAND study, which includes a survey of past trainees, looks at the effects of this program and potential insights for future mental health training. According to the survey results, 90 percent of trainees had contact with a person experiencing a mental health problem in the last six months, and nearly all of them applied key skills they learned during their training.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_1696105391/imagewithclass_copy.fit.800x0.jpeg/1676050229575.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A woman listening to another woman and comforting her, photo by MStudioImages/Getty Images"
+        }
+      },
+      {
+        "title": "How Did the U.S. Shoot Down China's Spy Balloon?",
+        "descriptions": "Photo by U.S. Fleet Forces/U.S. Navy/Reuters Last weekend, the United States shot down a Chinese surveillance balloon over the Atlantic Ocean. Pentagon officials have since reported that the balloon is part of a global surveillance program run by Beijing. RAND technical analyst Brynn Tannehill, a former naval aviator, spoke with MSNBC's Katy Tur shortly after the aircraft was taken down. She discussed details of the recovery mission and what the U.S. government may be learning about signals sent and received by the balloon.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1676050688704.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Sailors recover a suspected Chinese high-altitude surveillance balloon that was downed by the United States over the weekend off the coast of Myrtle Beach, South Carolina, February 5, 2023, photo by U.S. Fleet Forces/U.S. Navy/Reuters"
+        }
+      },
+      {
+        "title": "Japan's Long-Awaited Return to Geopolitics",
+        "descriptions": "Photo by Issei Kato/Reuters For the last year, all eyes have been on Russia's war in Ukraine. But according to RAND's Jeffrey Hornung, there is another, less-noticed geopolitical shift taking place that has at least as much power to alter history. In the span of about a month, Japan replaced its post-1945 security posture with a new strategy—one that could mean Tokyo is “more likely to act in ways commensurate with its strategic position, regional interests, and economic might.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "How Are Communities Prioritizing Health Equity?",
+        "descriptions": "Growing up in North Carolina as the child of immigrant parents from India, RAND's Anita Chandra became aware of health and equity issues early in life. Chandra's childhood experiences continue to shape her perspective and research today, including work on a project that tracks how communities address health inequities. While many challenges persist, she says there is good reason to be optimistic: “The communities we are monitoring care deeply about the health of their residents.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Addressing Gender Bias in Health Care",
+        "descriptions": "Many women report that health care professionals do not listen to or believe them when it comes to their symptoms. This is especially true for women from disadvantaged or ethnic minority groups. Shedding light on this inequality could be the first step to making improvements, says RAND Europe's Lucy Hocking. Beyond increasing awareness, training health care workers to overcome gender biases and investing more in research focused on women's health may help.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:57:43.752345",
+  "crawling_time_epoch": 1703231863,
+  "type": "News Release",
+  "title": "Life Sciences Sector on the Cusp of Realising Game-Changing Potential of Quantum Computing Technologies",
+  "url": "https://www.rand.org/news/press/2022/10/05.html",
+  "descriptions": "While a growing body of evidence shows the possible disruptive impact of quantum technologies across many sectors in the future, until now there has been little study into the potentially transformative impact of quantum computing in the life sciences.",
+  "posted": "Oct 5, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2022/10/05/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1674501033744.jpeg",
+    "desc": "Rendering of a quantum computer, photo by Bartlomiej Wroblewski/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "+44 1223-353329",
+      "contact2": "europeanmedia@",
+      "email": "rand.org Cathy "
+    },
+    "spotlight": {
+      "name": "Salil Gunashekar",
+      "profession": "Senior Research Leader and Associate Director of Science and Emerging Technology, RAND Europe",
+      "biography": "Salil Gunashekar is a senior research leader and associate director at RAND Europe focusing on science and technology policy. With over a decade of experience of working in policy research, he has a particular interest in exploring the impact of digitalisation and emerging technologies, and in…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/g/gunashekar_salil/_jcr_content/par/bio.crop.130x130.cm.jpeg/1552491674915.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Salil Gunashekar"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Europe",
+        "profile": "https://www.rand.org/randeurope.html"
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/bibliometrics.html",
+        "tag": "Bibliometrics"
+      },
+      {
+        "url": "https://www.rand.org/topics/biology-and-life-sciences.html",
+        "tag": "Biology and Life Sciences"
+      },
+      {
+        "url": "https://www.rand.org/topics/emerging-technologies.html",
+        "tag": "Emerging Technologies"
+      },
+      {
+        "url": "https://www.rand.org/topics/machine-learning.html",
+        "tag": "Machine Learning"
+      },
+      {
+        "url": "https://www.rand.org/topics/modeling-and-simulation.html",
+        "tag": "Modeling and Simulation"
+      },
+      {
+        "url": "https://www.rand.org/topics/science-technology-and-innovation-policy.html",
+        "tag": "Science, Technology, and Innovation Policy"
+      }
+    ],
+    "Article": "While a growing body of evidence shows the possible disruptive impact of quantum technologies across many sectors in the future, until now there has been little study into the potentially transformative impact of quantum computing in the life sciences. Our newest report commissioned by the Novo Nordisk Foundation and Novo Holdings outlines key trends, challenges, and opportunities associated with the development and adoption of quantum computing technologies in the life sciences sector: The study identified key challenges around how quantum computing research is funded, as well as addressing the need for capacity building and skills development—both technical and nontechnical. Beyond the emerging technological issues such as the development of quantum hardware and specialised quantum algorithms, the researchers also looked at the relevant social sciences and ethical perspectives which will be needed to help combat potential risks associated with the use of quantum technologies in the life sciences. For quantum technologies to tackle real-world problems, a multidisciplinary approach is needed, researchers found. Industry, university, and government stakeholders will need to collaborate effectively for the successful implementation of these technologies in the life sciences. The realisation of such real-world life sciences applications will also require further developments that will scale up quantum computers and simulators. This implies significant investment in further developments in quantum hardware and a focus on improving specialised quantum algorithms and discovering new ways of coding the problem onto the quantum computer hardware. Salil Gunashekar, associate director of RAND Europe's Science and Emerging Technology research team, says: “Quantum computing offers a multitude of untapped opportunities for the life sciences sector. Our research showed that most developments in this area so far have been at the proof-of-concept stage in limited areas of focus. If we are to fully harness the potential of quantum computing, we need to look at the big picture here and take a forward-thinking and patient view.” “If the life sciences sector is to capitalise on the opportunities this emerging technology offers, it's imperative that significant challenges are addressed across funding, collaboration, and skills development. The benefits to areas such as accelerating the development of personalised medicine could help answer major unanswered questions in life sciences research and address challenges that are currently difficult if not impossible to solve. Now is the time to take the next leap towards making this a reality.” The study was sparked by Lene Oddershede, senior vice president at the Novo Nordisk Foundation: “At the Foundation we have a strategic focus on developing quantum technologies and applying these to solve relevant problems in the life sciences. Also, our investment branch, Novo Holdings A/S, is curious about the innovative prospects of applying quantum technologies in the life sciences. To have an informed basis for future activities we commissioned RAND Europe to conduct this objective and research-based mapping, identifying challenges and opportunities, and we are very excited about the results.” Morten Bache, scientific director at the Novo Nordisk Foundation adds: “We wanted to know the current status and the key players, and RAND Europe has shed light on this important area. It is a body of work we will take with us in the coming years when we engage stakeholders and strive towards generating momentum in the community towards using this extremely promising technology for life science applications that could have global societal impact.” - ENDS - Notes to Editors:"
+  }
+}

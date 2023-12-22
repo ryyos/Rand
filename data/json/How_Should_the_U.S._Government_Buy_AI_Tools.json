@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:47:53.126630",
+  "crawling_time_epoch": 1703231273,
+  "type": "Commentary",
+  "title": "How Should the U.S. Government Buy AI Tools?",
+  "url": "https://www.rand.org/pubs/commentary/2023/06/how-should-the-us-government-buy-ai-tools.html",
+  "descriptions": "The need for AI-readiness in federal procurement will continue to grow with the capabilities of AI tools. There are concrete steps the government could take to ensure all development and implementation of AI-related laws, regulations, and executive branch policies include appropriate considerations.",
+  "posted": "Jun 20, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/06/how-should-the-us-government-buy-ai-tools/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1687307793222.jpeg",
+    "desc": "Demo of an AI-based app that allows participants to practice talking to superiors about difficult subjects and sharpen their leadership skills at the Agile Patriot conference at Wright-Patterson Air Force Base, Ohio, June, 2023, photo by Michele Donaldson/U.S. Air Force"
+  },
+  "content": {
+    "source": "(Homeland Security Today)",
+    "author": {
+      "name": "Carter C. Price Heidi Peters",
+      "profil": "https://www.rand.org/about/people/p/price_carter_c.html",
+      "position": "Codirector, Center for Scalable Computing and Analysis; Research Quality Assurance Manager for the Homeland Security Research Division; Senior Mathematician Policy Researcher",
+      "username": "@CarterCPrice",
+      "contact": "https://www.twitter.com/CarterCPrice"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.big-data.html",
+        "tag": "Big Data"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.emerging-technologies.html",
+        "tag": "Emerging Technologies"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.science-technology-and-innovation-policy.html",
+        "tag": "Science, Technology, and Innovation Policy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.united-states-department-of-defense.html",
+        "tag": "United States Department of Defense"
+      }
+    ],
+    "Article": "Artificial Intelligence (AI) is increasingly being integrated into everyday life through tools like ChatGPT and the facial recognition on our phones. Likewise, the federal government is expanding its use of AI, but there has not been a coherent federal regulatory process or policy expressed for responsible procurement of AI tools. The U.S. federal government has created numerous coordinating bodies such as the Office of Science and Technology Policy's National AI Initiative Office, but a government-wide approach has been lacking. There are a slew of agency-specific policies, such as the Department of Defense (DoD)'s 2021 statement on implementing AI capabilities within DoD (PDF), the Department of Homeland Security Secretary's AI Task Force, and the Biden administration's ongoing push for “responsible AI innovation.” This fractious approach risks inconsistently applied procurement principles and practices that could ultimately impact public confidence in the federal government's ability to ethically and responsibly employ AI capabilities. AI systems are developed by applying learning algorithms to large data sets and then applying the trained AI model to new problems. This makes AI systems very sensitive to the data used to train them, and bias in this training data can be reflected in biased outputs. Commercial vendors of AI tools must be able to describe the data sources and collection methods used for training. Members of the procurement workforce need to be able to assess the degree to which the population used to produce the vendor's data matches the target population. Officers also need to be confident the collection and sampling approaches are unbiased, any data cleaning or feature construction activities are reasonable and well described, and the algorithms applied don't introduce bias. The federal government is expanding its use of AI, but there has not been a coherent federal regulatory process or policy expressed for responsible procurement of AI tools. Given inherent concerns associated with using data of unknown provenance for government applications, government-generated data may be preferable for developing federal AI tools. If a vendor applies their own algorithms to administrative data, there will be privacy concerns because it could include personal private information. While federal regulations are in place to safeguard information systems that process, store, or transmit federal contract information, more-stringent protections currently would have to be established on a contract-by-contract basis. For some applications, policymakers could consider common-purpose government-developed AI algorithms using administrative datasets through existing entities like the Technology Transformation Services. This would require investment in attracting and retaining federal employees with expertise in AI systems and deploying such capabilities at scale across the federal government. However, this requires that senior leadership have some understanding of AI. Regardless of the approach, data literacy is necessary for acquisition officers and leaders in government. The Federal Acquisition Regulation (FAR), which provides a standardized set of rules for government procurement activities, is silent on matters specifically related to acquisition of AI-based capabilities or components (e.g., algorithms or data sets). The FAR does provide general guidance for the acquisition of information technology (IT; Part 39), and directs agencies to identify requirements from guidance, such as Office of Management and Budget Circular A-130 (PDF), and best practices. It also directs agencies to analyze risks, benefits, and costs for the procurement of IT, and requires the use of appropriate techniques to manage and mitigate identified risks. However, these guidelines are overly broad and do not adequately encompass the unique challenges and risks associated with procurement of AI tools for government use—or the need for contracting and program office officials to have adequate expertise and understanding of AI to be able to assess and appropriately incorporate such tools into government operations. To be AI procurement–ready, procurement regulations need to be modernized to consider associated issues such as privacy and bias concerns. To be AI procurement–ready, procurement regulations need to be modernized to consider associated issues such as privacy and bias concerns. Similar work from the United Kingdom and the World Economic Forum could provide useful insights into developing such a regulatory framework. An organization analogous to the Privacy and Civil Liberties Oversight Board, established by Congress to ensure U.S. government efforts to combat terrorism incorporate protections for privacy and civil liberties, could be created to ensure that appropriate considerations are included in all development and implementation of laws, regulations, and executive branch policies related to AI. The need for AI-readiness in federal procurement will continue to grow with the capabilities of AI tools, and these concrete steps can help get the federal government there. Carter Price is research quality assurance manager for the Homeland Security Research Division, and a senior mathematician at the nonprofit, nonpartisan RAND Corporation. Heidi Peters is a policy researcher at RAND. This commentary originally appeared on Homeland Security Today on June 20, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

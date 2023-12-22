@@ -1,0 +1,61 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:53:38.004964",
+  "crawling_time_epoch": 1703231618,
+  "type": "Media Advisory",
+  "title": "RAND President to Present Before House Permanent Select Committee on Intelligence",
+  "url": "https://www.rand.org/news/advisories/2023/02/27.html",
+  "descriptions": "RAND President and CEO Jason Matheny will appear Tuesday before the House Permanent Select Committee on Intelligence during an open panel meeting with leaders of other prominent research organizations. His presentation will focus on two significant threats to national security—advances in synthetic biology and artificial intelligence.",
+  "posted": "Feb 27, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/advisories/2023/02/27/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1677533453685.jpeg",
+    "desc": "3D dissolving human head made with cube shaped particles, photo by imaginima/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "Who": "RAND President and CEO Jason Matheny will appear Tuesday before the House Permanent Select Committee on Intelligence during an open panel meeting with leaders of other prominent research organizations."
+      },
+      {
+        "What": "His presentation will focus on two significant threats to national security—advances in synthetic biology and artificial intelligence. These technologies create significant challenges because of their rate of progress and the broad scope of their applications. While both have the potential to transform entire industries, the United States is unprepared for the national security risks they pose. Matheny will offer several recommendations for structural reforms that the intelligence community could take to mitigate these risks."
+      },
+      {
+        "When": "Tuesday, February 28, 2023\n10:00 a.m.—12:00 p.m. EST"
+      },
+      {
+        "Where": "210 Cannon House Office Building Livestream here: https://www.youtube.com/@gophouseintelligencecommit715/streams"
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "url": "https://www.rand.org/topics/biomedical-research.html",
+        "tag": "Biomedical Research"
+      },
+      {
+        "url": "https://www.rand.org/topics/intelligence-community.html",
+        "tag": "Intelligence Community"
+      },
+      {
+        "url": "https://www.rand.org/topics/threat-assessment.html",
+        "tag": "Threat Assessment"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": ""
+  }
+}

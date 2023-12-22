@@ -1,0 +1,57 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:58:07.789095",
+  "crawling_time_epoch": 1703231887,
+  "type": "News Release",
+  "title": "Out-of-Pocket Cost of Naloxone May Keep Many Uninsured from Using Lifesaving Treatment",
+  "url": "https://www.rand.org/news/press/2022/08/19.html",
+  "descriptions": "The cost of buying the opioid antidote naloxone is out of reach for many uninsured Americans, a hurdle that may keep the treatment from saving more people who overdose on opioids.",
+  "posted": "Aug 19, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2022/08/19/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1661373538810.jpeg",
+    "desc": "A package of Narcan nasal spray in Boonville, Indiana, January 20, 2022, Photo by Denny Simmons/Courier & Press"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Evan D. Peet",
+      "profession": "Codirector, RAND Center for Causal Inference",
+      "biography": "Evan D. Peet (he/him/his) is an economist at the RAND Corporation, a professor of policy analysis at the Pardee RAND Graduate School, and codirector of the RAND Center for Causal Inference. His research focuses on health and health policy. Currently, Peet is focusing on substance use disorders…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/p/peet_evan_d/_jcr_content/par/bio.crop.130x130.cm.jpeg/1528848952048.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Evan Peet"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/health-care-costs.html",
+        "tag": "Health Care Costs"
+      },
+      {
+        "url": "https://www.rand.org/topics/opioids.html",
+        "tag": "Opioids"
+      },
+      {
+        "url": "https://www.rand.org/topics/substance-use-harm-reduction.html",
+        "tag": "Substance Use Harm Reduction"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": "The cost of buying the opioid antidote naloxone is out of reach for many uninsured Americans, a hurdle that may keep the treatment from saving more people who overdose on opioids, according to a new RAND Corporation study. While laws making it easier to prescribe and obtain naloxone have increased use of the medication, the out-of-pocket cost of the drug for the uninsured has risen sharply even while falling for many who are insured. The study found that the average out-of-pocket cost per naloxone prescription among those who have health insurance declined by 26 percent from 2014 to 2018, while out-of-pocket costs increased by more than 500 percent for people who are uninsured. Uninsured Americans are a vulnerable population that represent about 20 percent of adults with an opioid-use disorder and nearly one-third of opioid overdose deaths. The findings are published in the latest edition of the journal JAMA Health Forum. “The price of naloxone is almost certainly an impediment to more-widespread adoption among the uninsured,” said Evan Peet, the study's lead author and an economist at RAND, a nonprofit research organization. “Policymakers who want to further expand access to naloxone—particularly among the uninsured and vulnerable—need to pay greater attention to the out-of-pocket costs.” Among the strategies adopted by federal and state policymakers to battle the opioid crisis is increasing the distribution of naloxone, which can reverse the effects of an opioid overdose if given to a person promptly. While many states have adopted laws to make it easier to prescribe and dispense naloxone, less attention has focused on potential financial barriers to naloxone access. Researchers from RAND and the University of Southern California examined more than 700,000 prescription records from 2010 to 2018 for both generic and name-brand naloxone to examine trends in out-of-pocket costs. The sample included information from more than 70 percent of the nation's retail pharmacies. Prescriptions filled for naloxone increased sharply over the study period. While the sample saw 11,432 naloxone prescriptions filled during 2010, the number grew to 386,249 in 2018. Despite legal changes that make it easier to buy naloxone and pharmaceutical innovations that have enabled laypersons to administer naloxone, the increase in naloxone prescriptions were not equally distributed. While naloxone distribution rose substantially starting in 2017 among the insured, naloxone access among the uninsured did not experience similar gains. Researchers say cost is likely one important factor in the lower use among the uninsured. As use of naloxone increased, the out-of-pocket costs fell for most people with health insurance, while it increased for those who are uninsured. In 2014, the average out-of-pocket cost per naloxone prescription among insured people was $27, while it was $35 for those who were uninsured. By 2018, the average out-of-pocket cost per prescription for naloxone among the uninsured was $250. The same year, the average out-of-pocket per naloxone prescription for the insured was $18. “Federal and state policies have regularly targeted legal barriers to accessing naloxone, with less emphasis on financial barriers,” Peet said. “These results provide evidence that while naloxone access has improved, out-of-pocket costs remain a significant impediment, particularly for the uninsured.” Researchers say that in order to increase the use of naloxone and prevent opioid overdose deaths, policymakers could consider implementing price subsidies for naloxone purchases, regulating copays for the insured, and issuing coupons targeting the uninsured. Support for the study was provided by the federal Centers for Disease Control and Prevention and the National Institute on Drug Abuse. Other authors of the study are David Powell of RAND and Rosalie Liccardo Pacula of the University of Southern California. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:50:49.798879",
+  "crawling_time_epoch": 1703231449,
+  "type": "Blog",
+  "title": "Environmental Justice, Mental Health Care, Insomnia: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-april-21.html",
+  "descriptions": "This weekly recap focuses on environmental justice, access to mental health care, why America should stick with Europe. and more.",
+  "posted": "Apr 21, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-21/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1682100877270.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "China",
+        "blog": "https://www.rand.org/blog.topic.china.html"
+      },
+      {
+        "tag": "Community Health and Well-Being",
+        "blog": "https://www.rand.org/blog.topic.community-health-and-well-being.html"
+      },
+      {
+        "tag": "Educational Equity",
+        "blog": "https://www.rand.org/blog.topic.educational-equity.html"
+      },
+      {
+        "tag": "Environmental Equity",
+        "blog": "https://www.rand.org/blog.topic.environmental-equity.html"
+      },
+      {
+        "tag": "Europe",
+        "blog": "https://www.rand.org/blog.topic.europe.html"
+      },
+      {
+        "tag": "Gun Violence",
+        "blog": "https://www.rand.org/blog.topic.gun-violence.html"
+      },
+      {
+        "tag": "International Diplomacy",
+        "blog": "https://www.rand.org/blog.topic.international-diplomacy.html"
+      },
+      {
+        "tag": "Mental Health Treatment",
+        "blog": "https://www.rand.org/blog.topic.mental-health-treatment.html"
+      },
+      {
+        "tag": "Security Cooperation",
+        "blog": "https://www.rand.org/blog.topic.security-cooperation.html"
+      },
+      {
+        "tag": "Sleep",
+        "blog": "https://www.rand.org/blog.topic.sleep.html"
+      },
+      {
+        "tag": "STEM Education",
+        "blog": "https://www.rand.org/blog.topic.stem-education.html"
+      },
+      {
+        "tag": "Telemedicine",
+        "blog": "https://www.rand.org/blog.topic.telemedicine.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "Warfare and Military Operations",
+        "blog": "https://www.rand.org/blog.topic.warfare-and-military-operations.html"
+      }
+    ],
+    "Article": "This week, we discuss what communities are doing to deliver environmental justice; how expiring pandemic-era policies could affect mental health care access; why America should stick with its European commitments; getting students to and through advanced math; what China might do to demonstrate its rise in power; and the value of a good night’s sleep.",
+    "sub_article": [
+      {
+        "title": "What Does Environmental Justice Look Like?",
+        "descriptions": "Many U.S. communities of color experience disproportionate exposure to environmental hazards, including pollution and climate-related disasters, as well as lack of investments in green spaces, tree cover, and other neighborhood amenities. These injustices are not accidental. They are the result of a long history of racist policies and practices like redlining, as well as norms that privilege white majorities at the expense of people of color. In the lead-up to Earth Day this weekend, RAND released two short films showing how community engagement and data-driven solutions have led to more-equitable environmental policies and programs. The films highlight two communities: Elizabeth, New Jersey, and Chollas Creek in San Diego, California. In Elizabeth, community leaders are implementing holistic, grassroots solutions to improve air quality and access to urban agriculture. In Chollas Creek, decades of community organizing helped to revitalize a watershed and increase equitable access to public parks. These and other efforts across the country demonstrate that delivering environmental justice to communities is possible when the government, nonprofit organizations, and residents work together.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-21/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1682099981801.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Members of the Groundwork Elizabeth Mayor's Youth Council, which meets with the mayor of Elizabeth, New Jersey, once a month to discuss ideas to improve the local environment, pose for a photo, August 2022, photo by Evan Banks/RAND Corporation"
+        }
+      },
+      {
+        "title": "How Expiring Pandemic-Era Policies Could Affect Mental Health Care",
+        "descriptions": "Before the pandemic, more than 95 percent of outpatient mental health services in the United States were in-person. Today, that figure has declined to about 50 percent for conditions like depression and anxiety. If policies that expanded telehealth access expire when the COVID-19 Public Health Emergency ends next month, then the benefits of mental health care could begin to disappear for millions of Americans. Such a backslide would be “deeply concerning,” says RAND's Ryan McBain.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "America Should Stick with Europe",
+        "descriptions": "Photo by Kacper Pempel/Reuters Some experts argue that the United States should curb its European commitments and focus all its resources on the threat that China poses in the Indo-Pacific. This would be self-defeating, says RAND's Michael Mazarr. America's chief competitive advantage in the contest with China is its dominant global network of friends and allies—in Europe and elsewhere. “Now is the time to strengthen those coveted ties,” he says.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-21/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1682100232768.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Polish and American soldiers stand near their armored vehicles during NATO exercises at the military range in Bemowo Piskie, near Orzysz, Poland, May 24, 2022, photo by Kacper Pempel/Reuters"
+        }
+      },
+      {
+        "title": "Getting Students to and Through Advanced Math",
+        "descriptions": "Students who take advanced math, such as precalculus and calculus, get a leg up when it comes to securing college admission, scholarships, and careers in STEM fields. But a new RAND study finds that students in small high schools, high schools in rural areas, and high schools serving mostly marginalized populations have fewer opportunities to take these courses. Closing this gap will require increased funding, improved curriculum materials, and other creative solutions.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-21/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1682100326826.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "High school girl reading precalculus book"
+        }
+      },
+      {
+        "title": "Will China Be Tempted into a 'Splendid Little War'?",
+        "descriptions": "Photo by Thomas Peter/Reuters Over a century ago, the United States started what was called a “splendid little war” against Spain. The goal: demonstrate America's rise through a brief, victorious conflict. As China's global strength grows, could it be contemplating a similar showcase of power? It's conceivable, says RAND's Scott Savitz, and India or Vietnam could be targets. Beijing may believe that a quick, decisive victory would establish China as not only a top economic power, but also a military one.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "What Is a Good Night Sleep Worth to You?",
+        "descriptions": "Insomnia—which affects about one in 10 people—has serious consequences for mental and physical health, relationships, and productivity. The effects are so profound, in fact, that the average person would trade 14 percent of their annual salary to be insomnia-free. That's according to a recent RAND Europe study. Notably, the authors say that reducing the effects of insomnia isn't just about getting more sleep: Quality and quantity should be parallel goals.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

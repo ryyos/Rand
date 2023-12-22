@@ -1,0 +1,53 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:57:48.849973",
+  "crawling_time_epoch": 1703231868,
+  "type": "Media Advisory",
+  "title": "Media Call: Can Ukraine Sustain Advances in Its Existential Fight?",
+  "url": "https://www.rand.org/news/advisories/2022/09/19.html",
+  "descriptions": "RAND researchers will discuss the latest news about the conflict in Ukraine.",
+  "posted": "Sep 19, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/media-advisory.b590e4a.svg",
+    "desc": "Media Advisory"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "What": "A moderated conversation with RAND experts, followed by journalist Q&A"
+      },
+      {
+        "When": "Monday, September 19, 2:00 p.m. to 2:45 p.m. ET"
+      },
+      {
+        "Who": "Alyssa Demus, Samuel Charap, and Barry Pavel, moderated by Jeffrey Hiday."
+      },
+      {
+        "RSVP": "Contact media@rand.org to request a ZoomGov link to this conversation. Please write UKRAINE LINK in the subject line."
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/russia.html",
+        "tag": "Russia"
+      },
+      {
+        "url": "https://www.rand.org/topics/ukraine.html",
+        "tag": "Ukraine"
+      },
+      {
+        "url": "https://www.rand.org/topics/warfare-and-military-operations.html",
+        "tag": "Warfare and Military Operations"
+      }
+    ],
+    "Article": "RAND researchers will discuss the latest news about the conflict in Ukraine, including:"
+  }
+}

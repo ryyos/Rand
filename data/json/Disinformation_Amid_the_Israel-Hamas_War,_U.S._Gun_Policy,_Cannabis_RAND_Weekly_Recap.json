@@ -1,0 +1,129 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:41:22.584564",
+  "crawling_time_epoch": 1703230882,
+  "type": "Blog",
+  "title": "Disinformation Amid the Israel-Hamas War, U.S. Gun Policy, Cannabis: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-november-03.html",
+  "descriptions": "This weekly recap focuses on how the information war may play out between Israel and Hamas, what the evidence says (and doesn't say) about U.S. gun policy, supply models for recreational cannabis, and more.",
+  "posted": "Nov 3, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1699045753648.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "Cannabis",
+        "blog": "https://www.rand.org/blog.topic.cannabis.html"
+      },
+      {
+        "tag": "China",
+        "blog": "https://www.rand.org/blog.topic.china.html"
+      },
+      {
+        "tag": "Drug Markets and Supply",
+        "blog": "https://www.rand.org/blog.topic.drug-markets-and-supply.html"
+      },
+      {
+        "tag": "Gaza Strip",
+        "blog": "https://www.rand.org/blog.topic.gaza-strip.html"
+      },
+      {
+        "tag": "Gun Policy",
+        "blog": "https://www.rand.org/blog.topic.gun-policy.html"
+      },
+      {
+        "tag": "Information Operations",
+        "blog": "https://www.rand.org/blog.topic.information-operations.html"
+      },
+      {
+        "tag": "Intelligence Community",
+        "blog": "https://www.rand.org/blog.topic.intelligence-community.html"
+      },
+      {
+        "tag": "Israel",
+        "blog": "https://www.rand.org/blog.topic.israel.html"
+      },
+      {
+        "tag": "Military Strategy",
+        "blog": "https://www.rand.org/blog.topic.military-strategy.html"
+      },
+      {
+        "tag": "North Korea",
+        "blog": "https://www.rand.org/blog.topic.north-korea.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "Workforce Diversity",
+        "blog": "https://www.rand.org/blog.topic.workforce-diversity.html"
+      }
+    ],
+    "Article": "This week, we discuss how lies and misinformation will play a key role in the Israel-Hamas war; a look at the evidence on how to address America’s gun violence problem; preventing bias and inequities when vetting national security personnel; exploring supply models for recreational cannabis; what North Korea might be learning from Hamas; and U.S.-China competition for digital infrastructure.",
+    "sub_article": [
+      {
+        "title": "Lies, Misinformation Play Key Role in Israel-Hamas Fight",
+        "descriptions": "Israeli ground forces advanced into the Gaza Strip last Friday night. As the battle continues in the weeks and months ahead, Israel Defense Forces and Hamas will be fighting street by street, building by building—clashing in brutal urban combat. But the war isn't just about tactics, say RAND's Todd Helmus and William Marcellino. It's also about perception: telling a story about who is the victim and who is the aggressor. Lies, mistruths, and disinformation will be a key part of the fight. The recent explosion at the Al-Ahli Arab Hospital in Gaza City shows how the information war has already played out. Hamas quickly blamed Israel, and the Israelis quickly blamed Hamas. Israel even released a video—later discredited—purporting to show proof of Hamas's involvement. False assertions flew online from supporters on both sides. (Evidence now suggests the explosion was the result of a failed Palestinian rocket.) Considering the prevalence of false information and the fact that emotions are running high, those watching on the sidelines should find trusted sources, corroborate information where possible, and take a pause before sharing content. As for the belligerents, they should know that false accusations and inaccuracies will only undercut their cause. It will be critical to cut through the mistruths and collect cold, hard facts, Helmus and Marcellino say. “The mistakes, lies, and false accusations will only grow and will surely obscure the true cost of this war. The success of the Israeli operation and the fate of Palestinian civilians could hang in the balance.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1699044598102.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Image released by the Israel Defense Forces on Oct 29, 2023 shows its ground operation in the Gaza Strip, photo by EyePress News/Reuters"
+        }
+      },
+      {
+        "title": "Addressing Gun Violence in America",
+        "descriptions": "Photo by Shannon Stapleton/Reuters Last week, a gunman opened fire in a bowling alley and a bar in Lewiston, Maine, killing 18 people and injuring 13 others. The shooting was the deadliest in the United States this year. Through the RAND Gun Policy in America initiative, our researchers have been seeking to better understand the country’s enduring problem with gun violence. One of those RAND researchers, Rosanna Smart, recently appeared in a RAND explainer video and discussed what the evidence says (and doesn't say) about the effects of gun policies.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1699044838614.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Crosses, signs, and pumpkins at a makeshift memorial near the Just-In-Time Recreation bowling alley in Lewiston, Maine, October 29, 2023, photo by Shannon Stapleton/Reuters"
+        }
+      },
+      {
+        "title": "Preventing Bias and Inequities When Vetting National Security Personnel",
+        "descriptions": "Applicants for the national security workforce must provide detailed personal information—such as race or ethnicity, gender identity, sexual orientation, and neurodivergence—to obtain a security clearance. In a new report, RAND researchers explore the potential for bias or inequities within this vetting process. They also offer recommendations to minimize these issues, including by training those conducting the background checks for interactions with applicants from diverse cultures, experiences, and lifestyles.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy_.fit.800x0.jpeg/1699044958339.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Human silhouettes against the backdrop of an application for a national security job, image adapted from Melitas/Getty Images and Office of Personnel Management"
+        }
+      },
+      {
+        "title": "Exploring Supply Models for Recreational Cannabis",
+        "descriptions": "The supply and possession of cannabis for non-medical use is legal in many jurisdictions around the world. In many U.S. states and Canadian provinces, for-profit companies are allowed to produce and sell cannabis to adults. What are some alternatives to this profit-maximizing commercial model? A new RAND Europe report considers some “middle-ground” regulatory approaches, such as cannabis social clubs and government sales.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1699045179572.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A potted cannabis plant, photo by MiMaLeFi/Adobe Stock"
+        }
+      },
+      {
+        "title": "What North Korea Is Learning from Hamas",
+        "descriptions": "Photo by KCNA via Reuters What might North Korean leader Kim Jong-un have taken away from Hamas's heinous attacks against Israel? According to RAND's Bruce Bennett, Kim is unlikely to resort to a Hamas-style attack on South Korea. However, Kim does share Hamas's goal of cultivating U.S. reluctance to intervene militarily in his neighborhood. Thus, his regime may continue or even escalate its lower-level provocations, including missile launches. Kim knows that such actions can demonstrate his power while avoiding serious South Korean and U.S. responses—at least for now.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1699045390019.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "North Korean leader Kim Jong Un held the Fifth Enlarged Plenary Meeting of the Eighth Central Committee of the Workers' Party of Korea (WPK) in Pyongyang, North Korea in this undated photo released by North Korea's Korean Central News Agency (KCNA) on June 11, 2022, photo by KCNA via Reuters"
+        }
+      },
+      {
+        "title": "U.S.-China Competition for Digital Infrastructure",
+        "descriptions": "Digital infrastructure includes everything from cloud computing and wireless networks to satellites and microchips. A new RAND report explores the competition for digital infrastructure that's already underway between the United States and China. What might these digital networks look like in 2050? And what are the implications for future military competition and potential conflict?",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-03/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1699045570579.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "American and Chinese flags with a digital overlay, images by Anson_iStock and Norcoon/Getty Images"
+        }
+      }
+    ]
+  }
+}

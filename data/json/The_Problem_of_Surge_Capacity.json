@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:46:43.890441",
+  "crawling_time_epoch": 1703231203,
+  "type": "Commentary",
+  "title": "The Problem of Surge Capacity",
+  "url": "https://www.rand.org/pubs/commentary/2023/07/the-problem-of-surge-capacity.html",
+  "descriptions": "The vulnerability of supply chains to routine disruptions has been widely discussed and documented, but meeting such challenges can be even more difficult during unexpected surges in demand caused by wars, public health crises, or other emergencies. The creation of option contracts that would kick in during surges is one promising solution.",
+  "posted": "Jul 10, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/07/the-problem-of-surge-capacity/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1689043093962.jpeg",
+    "desc": "Ventilators at the New York City Emergency Management Warehouse are shipped out for distribution in the Brooklyn borough of New York City, March 24, 2020, photo by Caitlin Ochs/Reuters"
+  },
+  "content": {
+    "source": "(The RAND Blog)",
+    "author": {
+      "name": "Bradley Martin",
+      "profil": "https://www.rand.org/about/people/m/martin_bradley.html",
+      "position": "Director, RAND National Security Supply Chain Institute; Senior Policy Researcher",
+      "username": "",
+      "contact": null
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.coronavirus-disease-2019-covid-19.html",
+        "tag": "Coronavirus Disease 2019 (COVID-19)"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.emergency-preparedness.html",
+        "tag": "Emergency Preparedness"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.military-acquisition-and-procurement.html",
+        "tag": "Military Acquisition and Procurement"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.military-logistics.html",
+        "tag": "Military Logistics"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.supply-chain-management.html",
+        "tag": "Supply Chain Management"
+      }
+    ],
+    "Article": "The vulnerability of supply chains to routine disruptions has been widely discussed and documented, but meeting such challenges can be even more difficult during unexpected surges in demand caused by wars, public health crises, or other emergencies. The creation of option contracts that would kick in during surges is one promising solution. The COVID-19 pandemic and the war in Ukraine highlighted how important supply chains can be when emergencies cause surges in demand for critical commodities like ventilators and weapons. “Just in time” supply chains work very well when adequate transportation and storage infrastructure exist. They rapidly fail, though, when impediments develop, and sometimes failures can lead to further problems by creating gluts rather than appropriate supplies. Early in the COVID-19 pandemic, for example, the demand for ventilators (PDF) increased by as much as 700 percent. Supply chain problems arose immediately because the parts for ventilators came from all over the world, including from China's Hunan province which was largely closed due to COVID-19. Lives were lost due to the delay in getting an adequate supply; resources were subsequently wasted in providing a supply after the need passed. The shortage was dire, and the federal government responded by utilizing provisions of the Defense Production Act to quickly expand production capacity for ventilators. Reacting to this government stimulus, the market produced a supply of ventilators greatly in excess of need. Lives were lost due to the delay in getting an adequate supply; resources were subsequently wasted in providing a supply after the need passed. This issue of surge capacity also has a military dimension. The war in Ukraine has demonstrated how demands on commodities as simple as artillery ammunition can strain the defense industrial base of the United States and Europe. In a major conflict with a global power like China, the demand for ordnance would be far greater, further challenging existing production capabilities. While individuals and companies might have a means to keep themselves protected, overall demand could remain unmet. The problem of meeting collective demands for goods and services is an old one, and the normal solution involves some entity—typically a government—having enough of an interest in meeting demand that it steps in to oversee provision of the needed commodity. But, some government-led solutions are not always practical. Some solutions, like stockpiling, can be inefficient and counterproductive. The government stockpiling things that ultimately will be of little use is expensive and might in fact delay an appropriate response when a crisis does come. Consequently, a different approach is needed, one which does not rely on stockpiling but does ensure capacity to meet unexpected demands. The world of finance may offer some potential approaches. There have long been mechanisms for generating current revenue while hedging against future risk or anticipating future outcomes. Such is the basis for futures markets, lending, and insurance. In the public sector, emergency surge provisions like the Federal Emergency Management Agency's Advance Contracts program also could provide a worthy model. However, neither the existing private mechanisms nor government contracting mechanisms take full advantage of incentives that could be provided for both producers and users to create surge capacity. One promising idea, generated by Rhonda Roland Shearer, is known as “TilNeeded Options” and involves the creation of options contracts under which a manufacturer would guarantee delivery of a product when a surge occurs in exchange for the payment of a premium. Neither existing private mechanisms nor government contracting mechanisms take full advantage of incentives that could be provided for both producers and users to create surge capacity. For example, a hospital could contract directly with a manufacturer to provide PPE at a set quantity and price to be delivered when needed. In exchange, the buyer would pay a premium to the manufacturer, typically 10 percent or 15 percent of the total purchase spread over 12 months. If the buyer triggers the emergency option, such as during the COVID-19 emergency, the product would be delivered on all the terms contained in the options contract. Realizing the public policy benefits of these arrangements will require improved understanding of extremely complicated supply chains to allow better predictions of how shortfalls might develop. Armed with this knowledge, government actors, particularly those concerned with contingency response, could themselves enter into option agreements. For such commodities as ammunition or military spare parts, this kind of hedging arrangement might prove extremely effective in diffusing risk. The essential point does not revolve around any particular approach. “TilNeeded Options” is a coherent and novel approach, but the broader challenge is to find ways to realistically meet a persistent problem: insufficient surge response. This topic needs research, action, and concrete plans for the many sectors where this is an issue. Bradley Martin is the director of the RAND National Security Supply Chain Institute, and a senior policy researcher at the RAND Corporation. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:41:59.502028",
+  "crawling_time_epoch": 1703230919,
+  "type": "Commentary",
+  "title": "Isn't It Obvious? Why Making the Case for Big Research Infrastructure Is Important",
+  "url": "https://www.rand.org/pubs/commentary/2023/10/isnt-it-obvious-why-making-the-case-for-big-research.html",
+  "descriptions": "Large-scale research infrastructure is enormously expensive. Is the real impact and value of major investment in research facilities worth the cost?",
+  "posted": "Oct 20, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/10/isnt-it-obvious-why-making-the-case-for-big-research/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1697830766080.jpeg",
+    "desc": "The Large Hadron Collider at CERN near Geneva, Switzerland, July 7, 2014, photo by Daniel Dominguez/CERN"
+  },
+  "content": {
+    "source": "(The RAND Blog)",
+    "author": {
+      "name": "Tamara Strabel Billy Bryan",
+      "profil": "https://www.rand.org/about/people/s/strabel_tamara.html",
+      "position": "Research Assistant Evaluation and Research Leader",
+      "username": "",
+      "contact": null
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.pay-for-performance-in-education.html",
+        "tag": "Pay for Performance in Education"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.postsecondary-education.html",
+        "tag": "Postsecondary Education"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.program-evaluation.html",
+        "tag": "Program Evaluation"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.science-technology-and-innovation-policy.html",
+        "tag": "Science, Technology, and Innovation Policy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.united-kingdom.html",
+        "tag": "United Kingdom"
+      }
+    ],
+    "Article": "That the UK has just announced a strategy for unlocking the full potential of its membership of CERN, the world's largest particle physics laboratory, suggests two things. Firstly, it sees itself as a rising superpower in science and technology, and this ambition is clearly stated in the policy paper that lays out the plan for engagement with the laboratory. Secondly, when investing significant sums of public money in research facilities and equipment, it's important to ensure the value is proportionate. Large-scale research infrastructure like this is enormously expensive. Every year, the UK invests around £152 million (PDF) in CERN. In 2021 alone, the UK government spent a net £14 billion on research and development—not including EU contributions. Since 2012, over £900 million has been awarded under the UK Research Partnership Investment Fund (UKRPIF), including an AI-dedicated supercomputer at the University of Strathclyde and £15 million for a new railway research centre in South Wales. Despite the cost, these investments in the hardware of research are crucial in maintaining the UK's position on the world stage. Their perceived worth is not only in the research they enable, but also because, as the previous chair of Research England said, they “help secure the UK's position as a globally leading research and innovation nation.” But how true is this? Is the real impact and value of major investment in research facilities worth the cost? Is the real impact and value of major investment in research facilities worth the cost? To answer that question, RAND Europe and Frontier Economics are carrying out an evaluation of the UKRPIF. The five-year-long study will assess the fund's investment in universities against its objectives to enhance research facilities, encourage strategic partnerships, stimulate other investment in higher education research, and contribute to economic growth. Surprisingly few evaluations like this have been carried out, perhaps because of the difficulty of defining the social return on investments in research facilities and equipment, or because of the presumption that such investments are inherently socioeconomically beneficial. There have been some empirical studies focusing primarily on internationally significant examples like CERN, but examination of complex funding programmes like the UKRPIF has been relatively rare. Not only has this fund awarded grants to 53 different research centres and facilities for a wide array of infrastructure sizes, types, and research areas, it has also included six separate funding allocation rounds over 10 years. The contribution of research infrastructure may form just one part of social and economic change, but isolating what a specific investment has achieved can be tricky, and returns may manifest several years after the funding is used. Given this timeframe and the longevity of the programme, researchers can expect to encounter missing data which may be difficult to capture retrospectively. Apart from the challenges of impact isolation, time lag in returns, and data availability, there is also the issue that some outcomes of the research infrastructure investment may be easier to measure than others. While the number of new PhDs awarded or new peer-reviewed articles published may be more readily quantifiable, other outcomes may be less observable. However, those that are complex and harder to identify are just as important to capture—if not more so. For example, a research facility may affect attitudes and behaviours towards a particular field of study among the wider community. Researchers in RAND Europe's study will use qualitative deep dives, which can illustrate and bring to life the elusive socioeconomic impacts of UKRPIF-funded infrastructure. Qualitative data capture and a flexible approach to recording achievements that arise during the process can help to identify these outcomes. The concrete impacts and effectiveness of costly research infrastructure should not simply be taken for granted: not only to ensure that value for public money is being achieved, but also to recognise, celebrate, and replicate achievements where impact is strong. The research and innovation sector would do itself a huge favour if it built robust impact evaluation into programme design for research infrastructure, embedding reporting mechanisms for socioeconomic results from the start. This would include clear definitions of societal benefit, including considering less-tangible impacts. Disseminating the results of the subsequent evaluations to the public via press releases and media articles would further make the case for such vital infrastructure to the taxpayer. It is important for funders to capture relevant, accurate data early in the programming process to ensure that good evaluation is possible later on. With this in mind, it is important for funders to capture relevant, accurate data early in the programming process to ensure that good evaluation is possible later on. Doing this, while keeping further data collection to a reasonable minimum, can greatly reduce the risk of gaps, poor data quality, or inconsistencies in the evidence. Evaluating a tangle of impacts that may occur over time, be tangible or intangible, social or economic, is tricky, but it is certainly necessary. Normalising evaluation and keeping it at the forefront of the process can promote more excellent research and innovation work while directing funding to the places where it makes the greatest difference to the sector and the wider world. Keep up to date with the study by following @RANDEurope on X, formerly known as Twitter, or RAND Europe on LinkedIn. Tamara Strabel is a research assistant and Billy Bryan is an evaluation and research leader at RAND Europe. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

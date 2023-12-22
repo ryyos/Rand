@@ -1,0 +1,51 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:44:55.525425",
+  "crawling_time_epoch": 1703231095,
+  "type": "Commentary",
+  "title": "Much of the Damage in Maui Will Be Invisible, but Very Real",
+  "url": "https://www.rand.org/pubs/commentary/2023/08/much-of-the-damage-in-maui-will-be-invisible-but-very.html",
+  "descriptions": "In addition to decimating buildings and other infrastructure, disasters also destroy human capital, the collective knowledge and skills that drive individual economic earnings, as well as regional economic growth. Failing to address these more-hidden damages is incredibly costly.",
+  "posted": "Aug 21, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/08/much-of-the-damage-in-maui-will-be-invisible-but-very/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1692711888150.jpeg",
+    "desc": "The Vaa family escaped the deadly wildfire that swept through Lahaina, on the Hawaiian island of Maui, August 13, 2023, photo by Mike Blake/Reuters"
+  },
+  "content": {
+    "source": "(Barron's)",
+    "author": {
+      "name": "Isaac M. Opper",
+      "profil": "https://www.rand.org/about/people/o/opper_isaac_m.html",
+      "position": "Economist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "",
+      "contact": null
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.academic-achievement.html",
+        "tag": "Academic Achievement"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.community-resilience.html",
+        "tag": "Community Resilience"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.global-climate-change.html",
+        "tag": "Global Climate Change"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.hawaii.html",
+        "tag": "Hawaii"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.postsecondary-education.html",
+        "tag": "Postsecondary Education"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.wildfires.html",
+        "tag": "Wildfires"
+      }
+    ],
+    "Article": "The wildfires on Maui killed at least 96 people and damaged or destroyed thousands of buildings in the town of Lahaina. While the loss of life is clearly the most tragic, officials estimate that the cost to rebuild will exceed $5 billion. But the full economic cost will likely be far higher, because it will reach deep into the intangible factors that make communities thrive. After a natural disaster—be it a wildfire like on Maui, or a flood, snowstorm, heat wave, hurricane, or tornado—the physical wreckage is obvious. In contrast, the damage to a region's human capital is invisible, but it is real and persistent, creating a drag on the community's economic growth and development. Other effects of natural disasters on communities—including on economic growth generally—have been deeply researched for years. But comparatively little is known about how disasters affect human capital, the collective knowledge and skills that drive individual economic mobility and earnings as well as regional economic growth. New research I led aims to shed light on this topic, by studying the impact of natural disasters on student achievement, high school graduation, and college attendance. We found that the loss in the value of human capital is on par with the cost of damages to buildings and other infrastructure. Comparatively little is known about how disasters affect human capital, the collective knowledge and skills that drive individual economic mobility and earnings as well as regional economic growth. My coauthors and I came to this conclusion by collecting data on all Presidential Disaster Declarations from 2008 to 2018. That period included the major floods through the Midwest in 2011, superstorm Sandy in 2012, and the wildfires in California in 2018, as well as hundreds of other floods, tornadoes, ice storms, earthquakes, and more. In fact, over one-third of the counties in the United States were affected by a natural disaster that caused at least $100 per person in property damage during that period. The declarations for those events include detailed assessments quantifying local property damage. We then looked at how standardized school test scores and other measures of educational attainment (such as graduation rates and college enrollment) changed in regions after the disaster hit. In doing so, we found that large disasters reduced student test scores by about 0.02 standard deviations—or nearly 10 percent of the average annual reading gain for middle school students—and reduced postsecondary enrollment by 2.5 percent. When we translated the effect of such educational losses into implied earnings losses for a population group, we found that disasters that cause physical damage of $500 or more per capita reduce the region's stock of human capital by around $268 per capita. (That calculation looks at the whole population. The costs are $1,300 per primary or secondary school student, or nearly $2,000 per postsecondary attendee). We also discovered that it isn't just major disasters that are a problem. Smaller events that cause $100–$500 in assessed per capita damages reduce the region's stock of human capital by approximately $185 per capita, or over $1,000 per student. It's perhaps no surprise that natural disasters disrupt education. They frequently lead to school closures. They also cause psychological and physical stress and trauma for pupils and their families. And previous research has shown that disasters put many college students at risk of dropping out. Our work, however, highlights how lasting these harmful effects are. In the year after the disaster, test scores and college attendance rates drop—and there is no evidence that they rebound to the prior levels in future years. If schools are offering remedial classes, those aren't making up for all the primary and secondary education that is lost. In the year after a disaster, test scores and college attendance rates drop—and there is no evidence that they rebound to the prior levels in future years. Natural disasters wind up being an economic shock to individuals—akin to automation or international trade competition—that play an important role in shaping a person's economic opportunities. Even for individuals who aren't directly affected by the flood, flames, or storms, indirect effects ripple through the local economy. Areas impacted by disasters have disproportionately low economic growth rates, and research consistently shows that lower human capital leads to less-productive employees and therefore lower economic growth. What is striking is that despite the significant investments made to rebuild physical capital in an affected region after a natural disaster, very little federal funding is directly allocated to rebuilding the human capital of those same regions. To be sure, the process of rebuilding the homes destroyed in Hawaii will take time and money, but as a technical matter it is relatively clear how to proceed. There's no easy remedy for recovering significant amounts of lost education, as the pandemic vividly illustrated. But as our analysis points out, failing to address these more-hidden damages is incredibly costly. Isaac M. Opper is an economist at the nonprofit, nonpartisan RAND Corporation and a professor at the Pardee RAND Graduate School. This commentary originally appeared on Barron's on August 14, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

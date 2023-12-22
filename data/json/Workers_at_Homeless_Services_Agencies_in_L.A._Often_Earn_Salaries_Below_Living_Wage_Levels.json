@@ -1,0 +1,57 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:49:55.614853",
+  "crawling_time_epoch": 1703231395,
+  "type": "News Release",
+  "title": "Workers at Homeless Services Agencies in L.A. Often Earn Salaries Below Living Wage Levels",
+  "url": "https://www.rand.org/news/press/2023/05/10.html",
+  "descriptions": "Workers employed by nonprofit homeless services agencies in Los Angeles County often do not earn a living wage, creating stress for the workers and making it difficult to retain staff.",
+  "posted": "May 10, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Lisa Abraham Sarah B. Hunter",
+      "profession": "Economist Director, RAND Center on Housing and Homelessness",
+      "biography": "Lisa Abraham is an economist at RAND and a professor of policy analysis at the Pardee RAND Graduate School. Her research examines mechanisms for gaps in labor market outcomes, with a particular focus on underrepresented groups. Abraham has examined barriers to the recruitment, retention, and… Sarah Hunter is director of the RAND Center on Housing and Homelessness, a senior behavioral scientist at RAND, and a professor at the Pardee RAND Graduate School. Hunter's primary areas of interest are improving services for vulnerable populations; building community capacity for evidence-based…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/a/abraham_lisa/_jcr_content/par/bio.crop.130x130.cm.jpeg/1629143333377.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Lisa Abraham"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Education and Labor",
+        "profile": "https://www.rand.org/education-and-labor.html"
+      },
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/homelessness.html",
+        "tag": "Homelessness"
+      },
+      {
+        "url": "https://www.rand.org/topics/los-angeles.html",
+        "tag": "Los Angeles"
+      },
+      {
+        "url": "https://www.rand.org/topics/wages-and-compensation.html",
+        "tag": "Wages and Compensation"
+      }
+    ],
+    "Article": "Workers employed by nonprofit homeless services agencies in Los Angeles County often do not earn a living wage, creating stress for the workers and making it difficult to retain staff, according to a new RAND Corporation study. The pay is particularly low for the frontline workers who spent time on the street engaging unhoused people. The low pay creates health concerns and housing insecurity for those workers, who already face challenging working conditions. Researchers concluded that paying homeless response sector workers higher wages could improve the quality of their work by boosting morale, easing stress, and reducing turnover. “From the worker perspective, earning such low wages has material consequences, including stress and housing insecurity—they may worry about becoming unhoused themselves,” said Lisa Abraham, the study's lead author and an associate economist at RAND, a nonprofit research organization. “These challenges make it hard for a worker to develop a career when they themselves may be struggling to make ends meet.” More than 200 nonprofit organizations operate in the homeless response sector in Los Angeles County, providing a variety of services to the region's large number of unhoused residents. It is estimated that 8,000 people work in the sector. These organizations are diverse, with some exclusively focused on homeless services, while others have cross-cutting missions that may include things such as child and family services, health care, and workforce skills development. The 2017 approval of a local sales tax hike, known as Measure H, to address the needs of the unhoused transformed the sector, with both government and private agencies hiring more staff. However, there have been persistent concerns about the working conditions and high turnover in the sector. To understand whether homeless response sector workers in Los Angeles County are earning a living wage, RAND researchers collected information from three widely used job posting websites in August 2022 for positions advertised by homeless services agencies. They also collected publicly available tax information from more than 100 organizations, examining their revenue and the number of employees with salaries above $100,000 annually. The RAND analysis focused on the frontline workers who work directly with clients, such as social workers, case managers, outreach workers, shelter resident advisors, and housing navigators, as well as managers, such as supervisors, program managers, directors, and officers. The study used two methods to calculate a living wage in Los Angeles County, considering factors such as rent and other costs. A living wage is defined as the minimum income needed to meet basic needs. The study estimates that most frontline workers and even some of those in management positions in the sector often do not earn a living wage. Researchers estimate that frontline workers in the homeless services earn between about $40,000 to $60,000 annually. Supervisors and managers may earn more. The study calculated that a worker would need to a minimum salary of $64,000 annually for a living wage in Los Angeles County if they lived in a one-bedroom residence. A minimum living wage was estimated to be $82,000 for someone needing a two-bedroom unit or $108,000 for a three-bedroom unit. Nonprofit leaders told RAND researchers that they had limited authority over setting wages because government funders control much of the wage-setting process implicitly because of the restrictive nature of public service contracts. For example, government-funded contracts for nonprofit organizations may specify a minimum number of clients served, a case-management ratio, or a per-bed payment rate. The report outlines several approaches to raise pay in the homeless services sector, both in the short term and the long term. Over the longer term, the report suggests that pay cannot increase unless government and philanthropic funders commit to providing for higher pay, including allotting money in grants to cover regular cost-of-living increases for frontline workers. “Organizations could work together to publicly advocate for better worker pay and learn from others regarding new resources and supports to aid workers,” said Sarah Hunter, coauthor of the study and a senior behavioral scientist at RAND. “Improving pay for workers in the homeless services sector has the potential to improve productivity, morale, and retention—all of which could improve client care and continuity of care.” The report, “Living Wages in Los Angeles County's Homeless Response Sector,” is available at www.rand.org. Support for the project was provided by Social Justice Partners Los Angeles. Other authors of the report are Samantha Matthews and Alex Sizemore. The RAND Education and Labor division is dedicated to improving education and expanding economic opportunities for all through research and analysis. The RAND Social and Economic Well-Being division seeks to actively improve the health, social, and economic well-being of populations and communities throughout the world."
+  }
+}

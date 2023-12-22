@@ -1,0 +1,46 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:50:03.303476",
+  "crawling_time_epoch": 1703231403,
+  "type": "Q&A",
+  "title": "Alternative Futures Following a Great Power War: Miranda Priebe and Bryan Frederick in Conversation",
+  "url": "https://www.rand.org/pubs/commentary/2023/05/alternative-futures-following-a-great-power-war-miranda.html",
+  "descriptions": "Though not a great power war, Russia's invasion of Ukraine has caused many to wonder what a true great power war in Europe or the Indo-Pacific would look like, and especially what kind of world would emerge afterwards. Two RAND researchers discuss how their recent report sheds light on this issue.",
+  "posted": "May 9, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/05/alternative-futures-following-a-great-power-war-miranda/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1683640446741.jpeg",
+    "desc": "French family outside their home destroyed by shelling at La Bassee in Nord-Pas-de-Calais, France, 1918, photo by Dave Bagnall Collection/Alamy Stock Photo"
+  },
+  "content": {
+    "article": "Russia's invasion of Ukraine is the largest interstate war in Europe since World War II. Though not a great power war—in which two or more of the world's major powers engage directly in combat—the current conflict has caused many to wonder what a true great power war in Europe or the Indo-Pacific would look like, and especially what kind of world would emerge afterwards. We asked RAND senior political scientists Miranda Priebe and Bryan Frederick to discuss how their recent report, Alternative Futures Following a Great Power War, sheds light on this issue.",
+    "topics": [
+      {
+        "tag": "Geopolitical Strategic Competition",
+        "blog": "https://www.rand.org/blog.topic.geopolitical-strategic-competition.html"
+      },
+      {
+        "tag": "Military Strategy",
+        "blog": "https://www.rand.org/blog.topic.military-strategy.html"
+      },
+      {
+        "tag": "Russia",
+        "blog": "https://www.rand.org/blog.topic.russia.html"
+      },
+      {
+        "tag": "Threat Assessment",
+        "blog": "https://www.rand.org/blog.topic.threat-assessment.html"
+      },
+      {
+        "tag": "Ukraine",
+        "blog": "https://www.rand.org/blog.topic.ukraine.html"
+      }
+    ],
+    "questions": [],
+    "answers": [
+      "Your new report is coming out over a year after the Russian invasion of Ukraine. Was this research a response to the conflict? Miranda Priebe No. In fact, the Department of the Air Force, which commissioned the research, was thinking about this issue way back in 2019. We conducted the research and wrote the report before the Russia-Ukraine war broke out. Even at that time, the Department of Defense was considering the possibility that a war with Russia could happen. So we thought it was important to include a hypothetical scenario in which Russia and NATO came into open conflict, alongside scenarios involving war with China. Do you think a great power war with Russia or China is likely? Bryan Frederick History shows that great power wars are rare. But our research is not about the likelihood of great power war, so much as the consequences of such a war, should it occur. Priebe We're also not saying that the four scenarios we looked at are the most likely to happen. Since our focus was on the post-war world, we needed to consider a range of conflicts that unfold and end in different ways. For example, three of our scenarios involved conflict with China, and we intentionally designed those scenarios to result variously in a U.S./allied victory, a Chinese victory, and an indeterminate outcome. The point was to consider how those outcomes, should they occur, would shape the post-war world. So, you're not making predictions here. Frederick That's right. We made a variety of assumptions about what could cause great power wars, how those wars could unfold, and what could happen afterwards. Although we tried to write plausible scenarios, our work was more about generating a range of possibilities than about precise predictions. Similar starting conditions could plausibly lead to different war outcomes, and the same war outcome could arise from many different possible starting conditions. What did you learn? Priebe One major lesson—especially if you look at history—is that great power wars are often far more destructive and protracted than people think they will be going in. For example, in the run up to World War I, leaders on all sides expected a short conflict, but the war dragged on for years. Frederick That's true even if you win. Priebe Right. And the winner of the war might not end up looking like the winner in the peace that follows. Victory can provoke a backlash from the losers, or balancing behavior from other states that help to constrain the victor. Battlefield gains could be offset by strategic, diplomatic, political, or economic losses in other areas. Policymakers have to think about those larger issues when considering what a great power war would mean. Frederick It's also interesting that when we looked at scenarios involving Russia or China, the great power that most consistently benefited from the war is the one that didn't fight in it. A U.S.-Russia war would most directly benefit China, and vice-versa—regardless of whether the United States or its adversary wins. The current Russia-Ukraine conflict has also defied expectations. A lot of pre-war analysis appears to have overstated Russia's military capabilities, given its actual performance in Ukraine. Does that challenge your analysis of a Russia-NATO conflict? Frederick In some ways, of course. We certainly would have written the scenario differently, given what we now know about Russia's conventional military capabilities and the toll this conflict has taken on them. This conflict has also changed the NATO alliance, not least by expanding its membership. But the Russia-NATO scenario we analyzed is largely about nuclear dynamics, and Russia's nuclear capabilities don't appear to be dramatically affected by the war in Ukraine. Those dynamics would continue to be very important in a Russia-NATO conflict. Given all the uncertainties involved, what should U.S. policymakers take away from this report? Priebe Great power wars are obviously very consequential events in world history. The U.S. military invests a lot of time thinking about how to deter adversaries from initiating such a war and how to win one if deterrence fails. But there's very little attention or planning devoted to the aftermath. We think it's important for U.S. policymakers and the public to understand what the aftermath of different conflicts could look like, what the risks are in that aftermath, and what steps might be worth taking to better prepare for what could follow such conflicts. Miranda Priebe is director of the Center for Analysis of U.S. Grand Strategy and a senior political scientist at the nonprofit, nonpartisan RAND Corporation. Bryan Frederick is associate director of the Strategy and Doctrine Program within RAND Project AIR FORCE, and a senior political scientist at RAND."
+    ],
+    "all_url": [
+      "https://www.rand.org/pubs/research_reports/RRA591-1.html"
+    ]
+  }
+}

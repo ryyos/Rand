@@ -1,0 +1,125 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:40:59.936301",
+  "crawling_time_epoch": 1703230859,
+  "type": "Blog",
+  "title": "Supporting Veterans, Israel-Hamas War, AI and Geopolitics: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-november-10.html",
+  "descriptions": "This weekly recap focuses on supporting America's veterans, what Israel's ground offensive in Gaza can and cannot accomplish, how AI might affect the rise and fall of nations, and more.",
+  "posted": "Nov 10, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1699582634321.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "After-School Programs",
+        "blog": "https://www.rand.org/blog.topic.after-school-programs.html"
+      },
+      {
+        "tag": "Artificial Intelligence",
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html"
+      },
+      {
+        "tag": "Gaza Strip",
+        "blog": "https://www.rand.org/blog.topic.gaza-strip.html"
+      },
+      {
+        "tag": "Gender Integration in the Military",
+        "blog": "https://www.rand.org/blog.topic.gender-integration-in-the-military.html"
+      },
+      {
+        "tag": "Geopolitical Strategic Competition",
+        "blog": "https://www.rand.org/blog.topic.geopolitical-strategic-competition.html"
+      },
+      {
+        "tag": "Israel",
+        "blog": "https://www.rand.org/blog.topic.israel.html"
+      },
+      {
+        "tag": "Military Veterans",
+        "blog": "https://www.rand.org/blog.topic.military-veterans.html"
+      },
+      {
+        "tag": "STEM Education",
+        "blog": "https://www.rand.org/blog.topic.stem-education.html"
+      },
+      {
+        "tag": "Trauma",
+        "blog": "https://www.rand.org/blog.topic.trauma.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "Urban Warfare",
+        "blog": "https://www.rand.org/blog.topic.urban-warfare.html"
+      }
+    ],
+    "Article": "This week, we discuss RAND insights on veterans' issues; the limitations of Israel's ground offensive in Gaza; how the effects of war can be contagious; AI's potential effects on geopolitics; what educators look for in STEM afterschool programs; and why gender diversity matters in military missions.",
+    "sub_article": [
+      {
+        "title": "Data to Help Support America's Veterans",
+        "descriptions": "As the country prepares to honor the millions of men and women who have served in the U.S. military, a new RAND factbook should be of interest to all those working on helping veterans. This resource highlights information on veteran demographics, mental health, labor market outcomes, and more. Here are some of the noteworthy findings: These findings and others from our factbook can help shape policies that address veterans’ needs, close gaps in support, and foster better understanding of the veteran population and their families.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1699580100657.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "People take part in the Veteran's Day Parade in Manhattan, New York City, New York, November 11, 2021, photo by Carlo Allegri/Reuters"
+        }
+      },
+      {
+        "title": "What Israel's Ground Offensive Can—and Cannot—Accomplish",
+        "descriptions": "Photo by Ilan Rosenberg/Reuters Weeks after terrorist attacks left 1,400 Israelis dead, Israel began its ground offensive in Gaza. According to RAND's Raphael Cohen, this campaign could offer Israel the chance to wrest the Gaza Strip from Hamas's control, potentially breaking the cycle of wars that has plagued the region for almost two decades. But it’s essential to acknowledge the limitations of the operation, Cohen says. “Achieving a long-term solution in Gaza will require that Israel's ground offensive be followed by what will be an equally intensive and arguably more challenging task: rebuilding.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1699579707068.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "An Israeli artillery unit fires from an undisclosed location near the Gaza Strip border, November 6, 2023, photo by Ilan Rosenberg/Reuters"
+        }
+      },
+      {
+        "title": "The Effects of War Are Contagious",
+        "descriptions": "Photo by Lev Radin/Reuters As observers around the world flock to social media seeking information about the Israel-Hamas war, they may encounter graphic images that can have serious negative impacts on their mental health and well-being. The global health effects of such secondary trauma are only just beginning, says RAND's Douglas Yeung, a social psychologist. “Like its casualties, they will likely be staggering. Social media companies could and should do more to moderate the virality of such content.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy_.fit.800x0.jpeg/1699581006081.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Person takes a photo of lit candles for Israeli hostages taken by Hamas at a rally for their release in New York City, November 1, 2023, photo by Lev Radin/Reuters"
+        }
+      },
+      {
+        "title": "How Might AI Affect the Rise and Fall of Nations?",
+        "descriptions": "Nations across the globe could see their power rise or fall depending on how they harness and manage the development of artificial intelligence. A new RAND paper considers the ways that AI could transform geopolitics. The authors look at how countries and tech companies may clash as they compete for power, the race for AI dominance between the United States and China, regulatory challenges, and more. “We are entering an era of both enlightenment and chaos,” they write.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1699581406078.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A painting of nested human silhouettes"
+        }
+      },
+      {
+        "title": "What Do Educators Look for in STEM Afterschool Programs?",
+        "descriptions": "Photo by TNS/Abaca via Reuters Afterschool programs in general—and STEM-focused programming in particular—are beneficial for students and popular among educators and parents. RAND researchers conducted a survey to learn more about how principals and school district leaders partner with STEM organizations to conduct such programs. Notably, respondents want to be able to offer more STEM afterschool programming, but they say that it's challenging to find high-quality providers—and the funding to pay for them.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1699581619267.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Second graders participate in Lego club after school at Shields Elementary School, October 26, 2023, photo by TNS/Abaca via Reuters"
+        }
+      },
+      {
+        "title": "Why Gender Diversity Matters in Military Missions",
+        "descriptions": "Photo by Cpl. Meghan L. Gonzales/U.S. Marine Corps The Women, Peace, and Security Act was established in 2017 to promote the inclusion of women in overseas conflict prevention, management, and resolution, as well as post-conflict relief and recovery. (The policy framework was updated just last month, with potential implications for how the United States responds to the current Israel-Hamas conflict.) A recently published RAND report highlights why this legislation—and gender diversity overall—is key for U.S. military operations, activities, and investments.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-november-10/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1701266037270.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "U.S. Marines with a female engagement team assist in a vehicle interdiction operation by questioning an Afghan national in southern Helmand province, Afghanistan, May 17, 2012, photo by Cpl. Meghan L. Gonzales/U.S. Marine Corps"
+        }
+      }
+    ]
+  }
+}

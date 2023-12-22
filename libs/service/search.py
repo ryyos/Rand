@@ -1,14 +1,17 @@
 import requests
+
 from pyquery import PyQuery
 from fake_useragent import FakeUserAgent
 from icecream import ic
-
 from datetime import datetime
 from time import time
+
 from libs.helpers.Parser import Parser
 from libs.helpers.Writer import Writer
 from libs.service.downloader import Downloader
+
 from libs.utils.Logs import Logs
+from libs.utils.filter import filter_invalid_chars
 
 class Search:
     def __init__(self) -> None:
@@ -45,7 +48,7 @@ class Search:
 
 
         ic(body.find(selector="#download > div > div > table tr:nth-child(2) > td.dl > span.format-pdf > a").attr('href'))
-        path = f"data/pdf/{self.__parser.ex(html=body, selector='#RANDTitleHeadingId').text().replace(' ', '_')}.pdf"
+        path = f"data/pdf/{filter_invalid_chars(self.__parser.ex(html=body, selector='#RANDTitleHeadingId').text().replace(' ', '_'))}.pdf"
 
         self.__download.ex(path=path, \
                            url=self.complement_url(body.find(selector="#download > div > div > table tr:nth-child(2) > td.dl > span.format-pdf > a").attr('href')))
@@ -342,17 +345,17 @@ class Search:
                     "content": self.blog(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
-            case "ARTICLE":
+            case "Article":
                 results.update({
                     "content": self.article(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
-            case "ESSAY":
+            case "Essay":
                 results.update({
                     "content": self.essay(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
-            case "MEDIA ADVISORY":
+            case "Media Advisory":
                 results.update({
                     "content": self.media_advisory(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
@@ -362,7 +365,7 @@ class Search:
                     "content": self.qna(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
-            case "TESTIMONY":
+            case "Testimony":
                 results.update({
                     "content": self.testimony(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
@@ -384,6 +387,6 @@ class Search:
 
         for line in table.find('li'):
             results = self.exstract_data(pieces_table=line, status=response.status_code)
-            self.__writer.ex(path=f'data/json/{results.get("title").replace(" ", "_").replace(":", "").replace("?", "")}.json', content=results)
+            self.__writer.ex(path=f'data/json/{filter_invalid_chars(results.get("title").replace(" ", "_"))}.json', content=results)
             
 

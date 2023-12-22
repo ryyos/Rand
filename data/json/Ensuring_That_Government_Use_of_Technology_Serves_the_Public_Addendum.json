@@ -1,0 +1,59 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:45:40.578502",
+  "crawling_time_epoch": 1703231140,
+  "type": "Testimony",
+  "title": "Ensuring That Government Use of Technology Serves the Public: Addendum",
+  "url": "https://www.rand.org/pubs/testimonies/CTA2835-2.html",
+  "descriptions": "Document submitted August 2, 2023, as an addendum to testimony before the U.S. House Committee on Oversight and Accountability, Subcommittee on Cybersecurity, Information Technology, and Government Innovation on June 22, 2023.",
+  "posted": "Aug 9, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/testimony.b590e4a.svg",
+    "desc": "Testimony"
+  },
+  "content": {
+    "path_data_pdf": "data/pdf/Ensuring_That_Government_Use_of_Technology_Serves_the_Public.pdf",
+    "descriptions": "Document submitted August 2, 2023, as an addendum to testimony before the U.S. House Committee on Oversight and Accountability, Subcommittee on Cybersecurity, Information Technology, and Government Innovation on June 22, 2023.",
+    "author": {
+      "name": "Benjamin Boudreaux",
+      "profile": "https://www.rand.org/about/people/b/boudreaux_benjamin.html"
+    },
+    "topics": [
+      {
+        "tag": "Artificial Intelligence",
+        "blog": "https://www.rand.org/topics/artificial-intelligence.html"
+      },
+      {
+        "tag": "Emerging Technologies",
+        "blog": "https://www.rand.org/topics/emerging-technologies.html"
+      },
+      {
+        "tag": "Science, Technology, and Innovation Policy",
+        "blog": "https://www.rand.org/topics/science-technology-and-innovation-policy.html"
+      }
+    ],
+    "details": [
+      {
+        "Copyright": " RAND Corporation"
+      },
+      {
+        "Availability": " Web-Only"
+      },
+      {
+        "Pages": " 9"
+      },
+      {
+        "DOI": "//doi.org/10.7249/CTA2835-2"
+      },
+      {
+        "Document Number": " CT-A2835-2"
+      },
+      {
+        "Year": " 2023"
+      },
+      {
+        "Series": " Testimonies"
+      }
+    ]
+  }
+}

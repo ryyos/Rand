@@ -1,0 +1,129 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:51:42.595680",
+  "crawling_time_epoch": 1703231502,
+  "type": "Blog",
+  "title": "Violence in Schools, Neurodiversity and National Security, Drug Cartels: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-march-31.html",
+  "descriptions": "This weekly recap focuses on preventing school violence, dealing with drug cartels, the benefits of a neurodivergent national security workforce, and more.",
+  "posted": "Mar 31, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-31/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1680279566454.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "Academic Achievement",
+        "blog": "https://www.rand.org/blog.topic.academic-achievement.html"
+      },
+      {
+        "tag": "Coronavirus Disease 2019 (COVID-19)",
+        "blog": "https://www.rand.org/blog.topic.coronavirus-disease-2019-covid-19.html"
+      },
+      {
+        "tag": "Fentanyl and Other Synthetic Opioids",
+        "blog": "https://www.rand.org/blog.topic.fentanyl-and-other-synthetic-opioids.html"
+      },
+      {
+        "tag": "Illegal Drug Trade",
+        "blog": "https://www.rand.org/blog.topic.illegal-drug-trade.html"
+      },
+      {
+        "tag": "Mexico",
+        "blog": "https://www.rand.org/blog.topic.mexico.html"
+      },
+      {
+        "tag": "National Security Organizations",
+        "blog": "https://www.rand.org/blog.topic.national-security-organizations.html"
+      },
+      {
+        "tag": "School Violence",
+        "blog": "https://www.rand.org/blog.topic.school-violence.html"
+      },
+      {
+        "tag": "Substance Use Harm Reduction",
+        "blog": "https://www.rand.org/blog.topic.substance-use-harm-reduction.html"
+      },
+      {
+        "tag": "Terrorist Organizations",
+        "blog": "https://www.rand.org/blog.topic.terrorist-organizations.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "Veterans Employment",
+        "blog": "https://www.rand.org/blog.topic.veterans-employment.html"
+      },
+      {
+        "tag": "Workforce Diversity",
+        "blog": "https://www.rand.org/blog.topic.workforce-diversity.html"
+      }
+    ],
+    "Article": "This week, we discuss how to encourage threat reporting to help keep schools safe; why national security organizations need a neurodivergent workforce; the F.D.A. approval of over-the-counter Narcan sales; the implications of labeling drug cartels foreign terrorists; what happens when struggling students repeat a grade; and helping veterans find employment during a recession.",
+    "sub_article": [
+      {
+        "title": "Preventing Violence in Schools",
+        "descriptions": "This week's mass shooting in Nashville is the latest awful reminder of the scourge of gun violence in America—and the need to keep schools safe. Before opening fire at the Covenant School, the shooter reportedly sent a chilling Instagram message to a friend: “I am planning to die today.” (The shooter had also shared past suicidal thoughts with others.) While the friend did contact the authorities, the shooting began just minutes after the report was made. Speaking up about a potential threat fell short of preventing the attack in Nashville. But the possibility that, with a bit more time, the situation might have been averted underscores just how important threat reporting is to preventing school violence. Threat reporting is the focus of a recent RAND study. The authors find that, too often, concerns about potential violence aren't brought to light until after violence occurs. In fact, one of the most consistent findings in the research on school shootings is that someone knew an attack was possible and didn't report it. Our study examines what states, districts, and schools can do to encourage people—especially students—to report potential threats. Lead author Pauline Moore says she and her colleagues heard the same thing from almost everyone they talked to: “If kids feel supported, if they have someone they can trust, they'll come forward.” Building a trusting school climate is essential, but the authors also recommend establishing tip lines and providing trainings that teach students and staff what to report and how to report it. Steps such as these could help prevent yet another tragedy in one of America's schools.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Why National Security Needs Neurodiversity",
+        "descriptions": "Neurodivergent is an umbrella term that covers a variety of cognitive diagnoses, including autism spectrum disorder, attention-deficit/hyperactivity disorder, and Tourette's syndrome. A new RAND report finds that skills common among neurodivergent people—such as solving problems, recognizing patterns, attention to detail—can strengthen a national security organization. The authors recommend steps that can be taken right away to embrace neurodiversity across the national security enterprise.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-31/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1680278804592.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Concept of neurodiversity, people's varied talents and skills associated with different brains, illustration by Iryna Spodarenko/Getty Images"
+        }
+      },
+      {
+        "title": "Increasing Access to Naloxone to Prevent Opioid-Related Deaths",
+        "descriptions": "Photo by Denny Simmons/Courier & Press Yesterday, the U.S. Food and Drug Administration approved over-the-counter sales of Narcan—a nasal spray version of naloxone, a drug that can reverse the effects of an opioid overdose. As part of a sweeping study on opioids in America, RAND researchers recently highlighted increased access to naloxone as one of dozens of policy ideas that could help tackle this complex problem. If families can more readily acquire and use naloxone, it could reduce the chances that a loved one's overdose turns fatal.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-31/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1680278889422.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A package of Narcan nasal spray in Boonville, Indiana, January 20, 2022, Photo by Denny Simmons/Courier & Press"
+        }
+      },
+      {
+        "title": "Should Drug Cartels Be Designated Foreign Terrorists?",
+        "descriptions": "Photo by Attorney General of the State of Tamaulipas (FGJ)/Handout/Reuters The recent kidnapping and murder of U.S. citizens by members of the Gulf Cartel in Mexico has spurred public outrage and congressional action. Legislators have introduced a bill to formally designate several drug cartels as foreign terrorist organizations. The anger is justified, says RAND's Brian Michael Jenkins, but labeling cartels as terrorist groups may not address the core issue. “America's problem with drug trafficking is not the lack of statutes, but the magnitude of the problem,” he says.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-31/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1680279046295.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Police officers escort five people detained in the kidnapping of four Americans in the city of Matamoros, in Ciudad Victoria, Mexico, March 10, 2023, photo by Attorney General of the State of Tamaulipas (FGJ)/Handout via Reuters"
+        }
+      },
+      {
+        "title": "Can Repeating a Grade Help Kids Recover from COVID Learning Loss?",
+        "descriptions": "Requiring low-performing students to repeat a grade has been one proposed response to helping kids get back on track in the wake of the pandemic. Evidence suggests that grade retention in elementary school may in fact be a cost-effective way to make up for missed learning. But RAND experts advise school and district leaders to proceed with caution: “Retaining kids without providing the necessary supports or failing to identify the right kids … will likely yield ineffective results and could even lead to adverse effects.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Helping Veterans Find Jobs During a Recession",
+        "descriptions": "Photo by Sgt. Jose Escamilla/U.S. Army Transitioning from military to civilian life comes with unique challenges. Today, those challenges include an economy that is still recovering from the pandemic. In a new paper, RAND experts look at how veterans fared relative to nonveterans during the two most recent recessions. They also highlight key questions that must be addressed to better support former service members entering the civilian labor market. The goal: understand what might help veterans prepare for the next economic downturn.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-31/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1680279255045.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "One person on an Army uniform and one in plain clothes hold papers while standing in front of a table at a job fair. Other people in a mix of Army uniforms and plain clothes are also attending the job fair in the background."
+        }
+      }
+    ]
+  }
+}

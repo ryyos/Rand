@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:56:12.100402",
+  "crawling_time_epoch": 1703231772,
+  "type": "Commentary",
+  "title": "Digital Health Products Miss a Massive and Crucial Piece of a Person's Health",
+  "url": "https://www.rand.org/pubs/commentary/2022/12/digital-health-products-miss-a-massive-and-crucial.html",
+  "descriptions": "Our health is heavily influenced by our surroundings—including the health of the people around us. For digital health companies to credibly claim to improve people's health, their next step could be an increased willingness to look beyond an individualized notion of health and to work with public health agencies.",
+  "posted": "Dec 27, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2022/12/digital-health-products-miss-a-massive-and-crucial/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1672326518765.jpeg",
+    "desc": "People using smart watch and smartphone mobile devices to track health and fitness, illustration by Wanlee Prachyapanaprai/Getty Images"
+  },
+  "content": {
+    "source": "(USA Today)",
+    "author": {
+      "name": "Douglas Yeung",
+      "profil": "https://www.rand.org/about/people/y/yeung_douglas.html",
+      "position": "Associate Director, Management, Technology, and Capabilities Program, RAND Homeland Security Research Division; Senior Behavioral and Social Scientist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@DouglasCYeung",
+      "contact": "https://www.twitter.com/DouglasCYeung"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.biotechnology.html",
+        "tag": "Biotechnology"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.health-information-privacy.html",
+        "tag": "Health Information Privacy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.health-information-technology.html",
+        "tag": "Health Information Technology"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.public-health.html",
+        "tag": "Public Health"
+      }
+    ],
+    "Article": "The marketing for the Apple Watch says it all: “A healthy leap ahead.” “Here's to a healthier you.” “The future of health never looked so good.” The Apple Watch, like countless other digital health apps and wearables, is selling itself with an implicit promise of individual empowerment: that we can use this health information to take specific actions—exercising so that your heart rate reaches a certain elevated threshold, for example—that will lead to better health. But in pitching and promising health to the individual, companies that make apps and wearables, and the customers who buy them, are focusing on the trees—and missing the rest of the forest. In truth, we have less control over our own health than we like to think. In fact, our health is heavily influenced by our surroundings—including the health of the people around us. What this might mean for the ever-growing market of wearables is a new focus beyond the individual, to those in their household, their friends, even their whole community. By incorporating social and community factors, digital health products could better capture what goes into public health. Community-wide data from fitness trackers and other digital data already feed into some public health models. By incorporating social and community factors, digital health products could better capture what goes into public health. Fitbit publishes reports that show, for example, communities where people exercise the most. Cellphone location data is sometimes used to map disease outbreaks. These models and their underlying datasets could prove to be a boon to those people and agencies responsible for protecting and improving all of our health. Aggregated health data that reflects community-wide factors has for centuries now aided public health practitioners, allowing them to make seemingly simple improvements that nonetheless greatly impact people's lives. Returning home from the hospitals of the mid-19th century Crimean War filled with sick and injured British soldiers, Florence Nightingale sought to use data she had meticulously collected to demonstrate the impact that community factors had on soldiers' health. Nightingale famously employed powerful graphics to convince Britain's leaders that measures to improve sanitation—such as cleaning the air, water, and sewer systems—could prevent disease and dramatically decrease deaths. The world still faces enormous public health challenges, including the ongoing COVID-19 pandemic. But we also have new cards to play, like the vast repositories of health sensor data and powerful artificial intelligence techniques that can help us make sense of it. Using these tools to improve health devices and apps could be a major opportunity to tackle these massive challenges. Among the most troubling recent public health concerns is the teen mental health crisis. Seeking to address rising suicides, a Harvard-led research project pools health data from many people and uses artificial intelligence to make it more useful, like combining smartphone and Fitbit data to understand indicators of suicide. The hope is that marrying AI and health sensor data could help build an early warning system for people at risk of suicide. For now, this research remains academic. And a major challenge is that suicide is still relatively rare, generating little data that algorithms can use to make predictions. But like many other health events, suicide risk doesn't occur in a vacuum. Suicides might seem like isolated acts, but they often occur in clusters—what researchers call suicide contagion. What if suicide prediction algorithms, like the one being built at Harvard, could incorporate a social element from health sensor data like your friend network? Digital health products could feed into social network algorithms that help identify when people need mental health resources. A wearable that tracks your mood and sleep might intervene based on those metrics. But a social-enabled algorithm might be able to go several steps further, recognizing troubling trends among one's close contacts—such as social media posts suggesting self-harm, and thus when someone might themselves be at greater risk for suicide. There are, to be sure, many hurdles to using social and community data in digital health products. Some users may have privacy concerns about sharing data with companies or public health agencies. Some users may have privacy concerns about sharing data with companies or public health agencies. Overcoming these hurdles could involve developing open source standards for transparency about data management, or ensuring that people can control when, and with which agencies, to share personal data. Even so, the opportunity remains too great to ignore. Although digital health products can, and already do, benefit individuals, by far the greatest benefits could one day come when these products operate in tandem with information about the community and beyond the individual. Now, it is likely a wealthier and thus an already healthier set of people that tend to purchase digital health products. This fits a historical pattern, where new technologies like computers cater to select individuals, only later expanding to serve broader communities. For digital health companies to credibly claim to improve people's health—to truly, as they promise, become “the future of health”—their next step could be an increased willingness to look beyond an individualized notion of health and to work with public health agencies. In doing so, digital health products stand to benefit a far greater swath of society, even those who aren't wearing wearables. Douglas Yeung is a senior behavioral scientist at the nonprofit, nonpartisan RAND Corporation and faculty member of the Pardee RAND Graduate School. This commentary originally appeared on USA Today on December 26, 2022. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

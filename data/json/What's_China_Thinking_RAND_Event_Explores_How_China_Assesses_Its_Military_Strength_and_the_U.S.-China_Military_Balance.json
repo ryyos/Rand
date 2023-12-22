@@ -1,0 +1,61 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:53:28.863125",
+  "crawling_time_epoch": 1703231608,
+  "type": "Media Advisory",
+  "title": "What's China Thinking? RAND Event Explores How China Assesses Its Military Strength and the U.S.-China Military Balance",
+  "url": "https://www.rand.org/news/advisories/2023/03/01.html",
+  "descriptions": "RAND will host an event Thursday, March 2, to discuss findings of the new report “Gaining Victory in Systems Warfare: China's Perspective on the U.S.-China Military Balance.”",
+  "posted": "Mar 1, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/advisories/2023/03/01/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1677719990415.jpeg",
+    "desc": "Soldiers quickly get out of their cars to take up positions in Jiangxi, China, January 29, 2023, photo by Costfoto/Sipa USA/Reuters"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "What": "RAND will host an event Thursday, March 2, to discuss findings of the new report “Gaining Victory in Systems Warfare: China's Perspective on the U.S.-China Military Balance.” The report is one of the first to detail and explore how the People's Liberation Army (PLA) assesses military balance and finds that the PLA still sees itself as the weaker side in the overall military balance. Despite some strengths and improvements from decades of modernization, the PLA has only made limited progress in key areas that will define future wars such as informatization, joint operations, and systems warfare. The event will take a closer look at these findings and explore how the PLA's assessments may impact the potential for a great power conflict over Taiwan."
+      },
+      {
+        "Who": ""
+      },
+      {
+        "When": "Thursday, March 2, 2023, 3:00–4:00 p.m. ET"
+      },
+      {
+        "Where": "Media may join via Zoom or in person at RAND's Washington D.C. office. In-person attendance is limited and requires security authorization. RAND's Washington D.C. Office\n1200 South Hayes Street\nArlington, VA 22202 Registration in advance for either in-person or Zoom is required. For those attending via Zoom, a link will be provided upon registration. Please register here."
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/china.html",
+        "tag": "China"
+      },
+      {
+        "url": "https://www.rand.org/topics/military-strategy.html",
+        "tag": "Military Strategy"
+      },
+      {
+        "url": "https://www.rand.org/topics/netcentric-warfare.html",
+        "tag": "Netcentric Warfare"
+      },
+      {
+        "url": "https://www.rand.org/topics/taiwan.html",
+        "tag": "Taiwan"
+      },
+      {
+        "url": "https://www.rand.org/nsrd/isdp.html",
+        "tag": "International Security and Defense Policy Program"
+      }
+    ],
+    "Article": ""
+  }
+}

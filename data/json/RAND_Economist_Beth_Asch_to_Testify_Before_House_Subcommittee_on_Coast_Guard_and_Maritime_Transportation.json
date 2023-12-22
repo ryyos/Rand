@@ -1,0 +1,54 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:49:57.896320",
+  "crawling_time_epoch": 1703231397,
+  "type": "Media Advisory",
+  "title": "RAND Economist Beth Asch to Testify Before House Subcommittee on Coast Guard and Maritime Transportation",
+  "url": "https://www.rand.org/news/advisories/2023/05/10/index1.html",
+  "descriptions": "Beth Asch, a senior economist and expert on defense manpower at the RAND Corporation, will testify before the House Transportation and Infrastructure Committee's Subcommittee on Coast Guard and Maritime Transportation during a hearing on recruitment and retention in the U.S. Coast Guard.",
+  "posted": "May 10, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/media-advisory.b590e4a.svg",
+    "desc": "Media Advisory"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "What": "Beth Asch, a senior economist and expert on defense manpower at the RAND Corporation, will testify before the House Transportation and Infrastructure Committee's Subcommittee on Coast Guard and Maritime Transportation during a hearing on recruitment and retention in the U.S. Coast Guard. With Coast Guard accessions down more than 25 percent in FY 2022, addressing recruiting challenges is essential to ensure operational effectiveness. Asch will share insights from relevant research and offer short-term and long-term approaches to address the recruiting crisis. In the short term, services should meet end-strength goals by increasing retention and offer more people enlistment bonuses. They should also increase advertising efforts and recruiting staff. A modest increase in the number of enlistees without diplomas may also help address the crisis in the short term. Longer term efforts should focus on gaining a better understanding of trends in the overall labor market and the validity of current enlistment standards."
+      },
+      {
+        "When": "Thursday, May 11, 2023\n10:00 a.m. EST"
+      },
+      {
+        "Where": "2253 Rayburn House Office Building\nHearing link: https://transportation.house.gov/calendar/eventsingle.aspx?EventID=406372"
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/military-personnel-retention.html",
+        "tag": "Military Personnel Retention"
+      },
+      {
+        "url": "https://www.rand.org/topics/military-recruitment.html",
+        "tag": "Military Recruitment"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states.html",
+        "tag": "United States"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states-coast-guard.html",
+        "tag": "United States Coast Guard"
+      }
+    ],
+    "Article": ""
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:51:14.244899",
+  "crawling_time_epoch": 1703231474,
+  "type": "Blog",
+  "title": "Truth Decay and National Security, Gun Violence, Blockading Crimea: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-april-14.html",
+  "descriptions": "This weekly recap focuses on Truth Decay and national security, America's gun violence problem, how Ukraine could blockade Crimea, and more.",
+  "posted": "Apr 14, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-14/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1681507568592.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "Foster Care",
+        "blog": "https://www.rand.org/blog.topic.foster-care.html"
+      },
+      {
+        "tag": "Gun Policy",
+        "blog": "https://www.rand.org/blog.topic.gun-policy.html"
+      },
+      {
+        "tag": "Gun Violence",
+        "blog": "https://www.rand.org/blog.topic.gun-violence.html"
+      },
+      {
+        "tag": "Military Recruitment",
+        "blog": "https://www.rand.org/blog.topic.military-recruitment.html"
+      },
+      {
+        "tag": "Military Tactics",
+        "blog": "https://www.rand.org/blog.topic.military-tactics.html"
+      },
+      {
+        "tag": "National Security Organizations",
+        "blog": "https://www.rand.org/blog.topic.national-security-organizations.html"
+      },
+      {
+        "tag": "Russia",
+        "blog": "https://www.rand.org/blog.topic.russia.html"
+      },
+      {
+        "tag": "Ukraine",
+        "blog": "https://www.rand.org/blog.topic.ukraine.html"
+      },
+      {
+        "tag": "Underserved Students",
+        "blog": "https://www.rand.org/blog.topic.underserved-students.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "United States Army",
+        "blog": "https://www.rand.org/blog.topic.united-states-army.html"
+      },
+      {
+        "tag": "Women's Health",
+        "blog": "https://www.rand.org/blog.topic.womens-health.html"
+      }
+    ],
+    "Article": "This week, we discuss how Truth Decay affects national security; America’s gun violence problem; why blockading Crimea may be Ukraine’s best option; improving educational outcomes for kids in foster care; the benefits of investing in women's health research; and why the Army should be looking for slightly older recruits.",
+    "sub_article": [
+      {
+        "title": "Truth Decay and National Security",
+        "descriptions": "Over the last two decades, Americans have been disagreeing more and more about objective facts. This division is part of Truth Decay, a phenomenon that has serious consequences, such as undermining public trust in government institutions, contributing to political gridlock, and eroding civil discourse. According to a new RAND paper, Truth Decay is also affecting the country's security and stability. Here are some examples: The authors highlight the need to better understand these risks as a first step toward mitigating them. Otherwise, Truth Decay will remain “a strong weapon in the hand of American adversary states.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-14/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1681491326631.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "The U.S. Capitol at dusk, photo by Stephen Emlund/Getty Images"
+        }
+      },
+      {
+        "title": "RAND's Andrew Morral on America's Gun Violence Problem",
+        "descriptions": "Photo by Eduardo Munoz/Reuters Two high-profile mass shootings, two weeks apart: The attacks in Nashville and Louisville are the latest reminders that gun violence in America shows no signs of stopping. Andrew Morral, director of the RAND Gun Policy in America initiative, discussed the issue in a recent episode of Vox's podcast, The Weeds. He broke down why it's difficult to discern the effects of many gun laws, including an assault weapons ban; detailed recent trends in firearm laws; and explained what's behind America's failure to make policy changes that could save lives.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-14/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1681491506629.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Firearms are displayed at a gun shop in Lakewood Township, New Jersey, March 19, 2020, photo by Eduardo Munoz/Reuters"
+        }
+      },
+      {
+        "title": "Blockading Crimea Might Be Kyiv's Best Option",
+        "descriptions": "Photo by Alexey Pavlishak/Reuters Ukraine is determined to reverse Russia's illegal seizure of Crimea. But Crimea's geography makes it difficult to invade. That same geography, however, could facilitate a “modern-day siege,” say RAND experts. Ukrainian forces could use uncrewed surface vessels to blockade and barrage Russian operations, allowing them to “pin down and neuter the enemy in Crimea while they work to oust it from other parts of their country.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Improving Educational Outcomes for Youth in Foster Care",
+        "descriptions": "Kids in foster care experience far worse educational outcomes than other students. This is partly because of the frequent school transfers associated with transitioning in or out of foster care. A new RAND report explores how improved collaboration between the child welfare and public education systems could help address this problem. The authors interviewed both education and child welfare system representatives, as well as adults who were in foster care as kids, to identify potential solutions.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-14/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1681491729807.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Two teen girls doing school work with a teacher, parent or guardian, photo by stop123/Getty Images"
+        }
+      },
+      {
+        "title": "There's More Than One Reason to Invest in Women's Health Research",
+        "descriptions": "For decades, medical research focused on the male body, largely ignoring male and female biological differences. RAND's Chloe Bird explains how this bias has led to a gap in the evidence base for women's health. Bias has also fueled misconceptions that it would be too costly to close this gap. But RAND research has shown just the opposite: Greater investments in women's health research would provide a savings of billions of dollars over 30 years. “That would make any investor take notice,” Bird says.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The Army Should Be Looking for a Few Older Soldiers",
+        "descriptions": "Photo by U.S. Army The Army has missed its recruiting target twice in the past five years. Recruiters may want to focus on slightly older individuals—and not just to make quotas. A recent RAND study finds that recruits in the 25-to-35 age range perform better in several key areas than those aged 16 to 18. Further, with recent layoffs affecting many highly skilled tech workers, recruiting older individuals could help the Army meet its increased need for cyber and AI expertise.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-14/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1681491921700.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Potential U.S. Army recruits listen to a drill sergeant talk about barracks life and other aspects of undergoing Army basic training at Fort Benning, Georgia, October 26, 2019, photo by U.S. Army"
+        }
+      }
+    ]
+  }
+}

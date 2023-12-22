@@ -1,0 +1,45 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:56:16.111728",
+  "crawling_time_epoch": 1703231776,
+  "type": "Media Advisory",
+  "title": "RAND Experts Available to Discuss Ukraine President Zelenskyy's Address to U.S. Congress",
+  "url": "https://www.rand.org/news/advisories/2022/12/21.html",
+  "descriptions": "RAND Corporation experts are available to discuss Ukraine President Volodymyr Zelenskyy's address to a joint session of Congress scheduled for 7:30pm ET today. They may be reached before and after this evening's speech to discuss military, economic, and humanitarian aspects of the war.",
+  "posted": "Dec 21, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/advisories/2022/12/21/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1671655061930.jpeg",
+    "desc": "Ukraine's President Volodymyr Zelenskyy in Bucha, outside Kyiv, April 4, 2022, photo by Marko Djurica/Reuters"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/security-cooperation.html",
+        "tag": "Security Cooperation"
+      },
+      {
+        "url": "https://www.rand.org/topics/ukraine.html",
+        "tag": "Ukraine"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states.html",
+        "tag": "United States"
+      },
+      {
+        "url": "https://www.rand.org/topics/warfare-and-military-operations.html",
+        "tag": "Warfare and Military Operations"
+      }
+    ],
+    "Article": "December 21, 2022 RAND Corporation experts are available to discuss Ukraine President Volodymyr Zelenskyy's address to a joint session of Congress scheduled for 7:30pm ET today. “The address is likely to have a well-deserved triumphal tone,” said William Courtney, adjunct senior fellow at RAND and former U.S. Ambassador to Georgia and Kazakhstan. Courtney and other RAND experts may be reached before and after this evening's speech to discuss military, economic, and humanitarian aspects of the war. You may try the individual emails listed or media@rand.org: Additional comments from Courtney available for quotation:"
+  }
+}

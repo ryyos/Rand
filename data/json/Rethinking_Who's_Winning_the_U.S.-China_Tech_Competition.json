@@ -1,0 +1,55 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:45:06.958230",
+  "crawling_time_epoch": 1703231106,
+  "type": "Commentary",
+  "title": "Rethinking Who's Winning the U.S.-China Tech Competition",
+  "url": "https://www.rand.org/pubs/commentary/2023/08/rethinking-whos-winning-the-us-china-tech-competition.html",
+  "descriptions": "The competition between the U.S. and China is a multi-dimensional contest involving technological, economic, military, and political elements. To accurately assess a nation's standing, the focus should shift from measures (raw numerical data) to metrics, which offer meaningful interpretations of these numbers.",
+  "posted": "Aug 16, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/08/rethinking-whos-winning-the-us-china-tech-competition/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1692211784090.jpeg",
+    "desc": "Google sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai, China, July 6, 2023, photo by Aly Song/Reuters"
+  },
+  "content": {
+    "source": "(Defense News)",
+    "author": {
+      "name": "Jon Schmid",
+      "profil": "https://www.rand.org/about/people/s/schmid_jon.html",
+      "position": "Political Scientist",
+      "username": "",
+      "contact": null
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.china.html",
+        "tag": "China"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.emerging-technologies.html",
+        "tag": "Emerging Technologies"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.geopolitical-strategic-competition.html",
+        "tag": "Geopolitical Strategic Competition"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.military-technology.html",
+        "tag": "Military Technology"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.science-technology-and-innovation-policy.html",
+        "tag": "Science, Technology, and Innovation Policy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": "A study earlier this year asserted China has a “stunning lead” in essential technologies. And it wasn't the first time this claim has been made. But are these claims based in reality? When assessing the global impact and reach of American companies like Amazon, Apple, OpenAI, Boeing, Moderna, Microsoft, and Google, it's not immediately clear the United States is lagging in technological innovation. But the challenge is understanding exactly how to measure a “technology competition” or “strategic competition.” Typically, competitions involve scores, winners, and losers. But how does one keep score in technology competition? Is it the number of patents, academic publications, leading educational institutions, or multibillion-dollar companies? Or is the appropriate scoring system a more-complex mixture of these, and other, factors? The competition between the United States and China is a multidimensional contest involving technological, economic, military, and political elements. To accurately assess the United States' standing in this competition, we need to shift our focus from measures (raw numerical data) to metrics, which offer meaningful interpretations of these numbers. This pivot illuminates the contrasts between a free-market economy and a state-driven one. The competition between the United States and China is a multidimensional contest involving technological, economic, military, and political elements. To determine who's winning a technology competition, it's tempting to rely on conventional markers of scientific progress, such as scientific citations or patents, because they are objective and quantifiable. But doing so risks ignoring other factors with major implications for the outcome of a U.S.-China technology competition. These metrics require more-sophisticated measurement, interpretation, and analysis, which capture variation in quality, context, implementation, and impact. If the United States focuses merely on trying to surpass China on individual measures of technological progress it will likely achieve empty victories yet fail to advance its national security interests. Take, for example, attempts to measure U.S. and Chinese progress in the field of artificial intelligence. China has a large number of AI scientific articles and patents, suggesting Beijing's global leadership in this area. However, the United States maintains a strong foothold in advanced AI developments, with organizations like OpenAI, Microsoft, and Alphabet leading in large language model creation and diffusion. These organizations are part of a broader innovation ecosystem that allows new technologies to thrive and be widely adopted throughout the global economy. U.S. tech unicorns—start-ups valued over a billion dollars—and the venture capital firms that back them signal both financial success and significant technological advancement. In this thriving open market, a product of the United States' commitment to an open society and the free exchange of ideas, metrics like commercial success, technology adoption, and real-world impact become more telling than raw measures. These metrics, in the context of the strategic competition with China, underline the United States' penchant for turning research into impactful, scalable innovations. Focusing on metrics instead of measures will allow DoD officials to correctly view the development of emerging technology as a means to achieving specific policy or military ends. For example, as the DoD invests to develop technology within its 14 Critical Technology Areas, metrics should be developed to track progress toward filling specific operational demands. While China boasts a population over four times that of the United States and a rapidly growing economy, by focusing on metrics, the United States can leverage its advantages. Shifting the focus to metrics will also offer a more-accurate picture of U.S.-China technological competition and capture critical U.S. strengths. While China boasts a population over four times that of the United States and a rapidly growing economy, by focusing on metrics, the United States can leverage its advantages. Features inherent to the U.S innovation system—robust IP protection, the prospect of high returns to innovation and strong government-university-industry linkages—stimulate creativity, encourage innovation, and foster entrepreneurship. Furthermore, the United States strives, though imperfectly, to offer opportunities to everyone who desires them, eschewing artificial barriers and quotas and avoiding intellectual conformity. This commitment fuels a dynamic, diverse workforce that is a wellspring of ingenuity and innovation. Focusing on these distinctively American characteristics would move the perspective from a strictly measure-based competition, where quantity can overshadow quality, to a nuanced, metrics-based view that links means to ends. This shift would allow the United States to leverage its strengths, uphold its core values, and lay the groundwork for navigating and succeeding in this strategic competition. Jon Schmid is a political scientist at the nonprofit, nonpartisan RAND Corporation. This commentary originally appeared on Defense News on August 15, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

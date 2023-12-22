@@ -1,0 +1,39 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:50:33.227643",
+  "crawling_time_epoch": 1703231433,
+  "type": "Commentary",
+  "title": "Hybrid Work Is Here to Stay. It's Time for Security to Catch Up to Our New Normal",
+  "url": "https://www.rand.org/pubs/commentary/2023/05/hybrid-work-is-here-to-stay-its-time-for-security-to.html",
+  "descriptions": "As hybrid work becomes the new normal, workplace practices—security-focused and otherwise—may need to reconsider whether physical presence necessarily improves either security or work outcomes.",
+  "posted": "May 2, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/05/hybrid-work-is-here-to-stay-its-time-for-security-to/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1682992146129.jpeg",
+    "desc": "A man in a yellow sweater talks to a group of people on a video conference call on his computer, photo by SDI Productions/Getty Images"
+  },
+  "content": {
+    "source": "(USA Today)",
+    "author": {
+      "name": "Douglas Yeung",
+      "profil": "https://www.rand.org/about/people/y/yeung_douglas.html",
+      "position": "Associate Director, Management, Technology, and Capabilities Program, RAND Homeland Security Research Division; Senior Behavioral and Social Scientist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@DouglasCYeung",
+      "contact": "https://www.twitter.com/DouglasCYeung"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.business-strategies.html",
+        "tag": "Business Strategies"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.cybersecurity.html",
+        "tag": "Cybersecurity"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.workforce-management.html",
+        "tag": "Workforce Management"
+      }
+    ],
+    "Article": "Organizational inertia has a way of resisting societal trends. Even after the COVID-19 pandemic forced businesses to drastically alter how they operated after their workers stayed home or even dispersed all over the globe, organizations are still struggling to adapt to this new normal. Efforts to entice—or even outright force—workers back to the office presume that one's physical presence improves an organization's work and culture. Less has been discussed on why such attempts could also reveal enduring fears regarding security. When workers aren't working within the confines of the formalized workplace, this line of thinking goes, they and their work are simply less secure. There is anecdotal data to back this up. During the pandemic, when more workers were working from home, people seemed to make generally riskier decisions—drinking more, taking on more debt—that would also call into question the handling of sensitive data. But is it really the case that working from home is riskier, from a security standpoint? My RAND Corporation colleagues and I studied how pandemic-related shifts might affect the process by which an organization identifies risk in workers. Specifically, we looked at the element of U.S. national security that investigates individuals before granting them a security clearance. The Security Clearance, Suitability, and Credentialing Performance Accountability Council (PDF) oversees practices across the federal government, with the goal of improving its approach to risk management. Like so many other organizations, the council and other investigative agencies had to change with the times by moving more—but not all of—their work online. Security practices haven't yet figured out an elegant, digital alternative to physical requirements such as in-person fingerprints. Security clearance personnel we interviewed reported that a significant source of delays in processing clearances had to do with there being only a few fingerprinting locations, many of which were closed during the height of the pandemic, leaving some people with effectively no way to get clearance. This bottleneck likely reflected a process requirement for physical identity verification, and lack of agility to pivot to digital identity verification. But the failure to adapt illustrated a broader problem: Security practices haven't yet figured out an elegant, digital alternative to physical requirements such as in-person fingerprints. Doing so might smooth the transition to hybrid workplaces. It could also lead to better security. As hybrid work becomes the new normal, workplace practices—security-focused and otherwise—may need to rethink whether physical presence necessarily improves either security or work outcomes. Relying on employee stewardship of physical assets has always been dubious. Laptops containing sensitive files are lost or stolen from cars. Prototype smartphones keep getting left in bars. It's easy for workers to lose track of the documents they bring home—at least until the National Archives come calling. And movie screener copies physically mailed to Oscar voters were long a direct pipeline that fueled online film piracy. But here, by contrast, this year the Academy of Motion Picture Arts and Sciences switched to digital screeners only, and as a result the number of pirated films via Oscar screens was effectively cut to zero. Going digital can, in certain ways, help organizations manage risk. Going digital can, in certain ways, help organizations manage risk. Digital copies of sensitive information can be tracked, sit relatively safe in the cloud, or if downloaded onto a device that is lost can often be wiped from afar. Intelligence experts, for example, have called for greater digitization of sensitive information. Most people already subscribe to a widespread form of digital security, sending their money via electronic transfer or app rather than through the mail. Certainly there remain serious security concerns with digital data, including the potential for misuse, theft, leaks, or hacks. And requiring digital platforms or online access to work, or even apply to positions, runs the risk of leaving some people behind, like those who can't afford broadband internet or those with disabilities (PDF). Yet, just as technological innovations like ChatGPT stoke debate over what is work, organizations will increasingly grapple with where and how to keep everyone's work product safe. Security practices should, quite simply, strive to support everyone who works, wherever they are. Updating such practices for the digital age would go a long way toward that goal. Douglas Yeung is a senior behavioral scientist at the nonprofit, nonpartisan RAND Corporation, and a member of the Pardee RAND Graduate School faculty. This commentary originally appeared on USA Today on May 1, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

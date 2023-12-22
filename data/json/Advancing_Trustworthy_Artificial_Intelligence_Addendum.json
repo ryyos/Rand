@@ -1,0 +1,59 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:45:33.748096",
+  "crawling_time_epoch": 1703231133,
+  "type": "Testimony",
+  "title": "Advancing Trustworthy Artificial Intelligence: Addendum",
+  "url": "https://www.rand.org/pubs/testimonies/CTA2824-2.html",
+  "descriptions": "Document submitted August 1, 2023, as an addendum to testimony before the U.S. House Committee on Science, Space, and Technology on June 22, 2023.",
+  "posted": "Aug 9, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/testimony.b590e4a.svg",
+    "desc": "Testimony"
+  },
+  "content": {
+    "path_data_pdf": "data/pdf/Advancing_Trustworthy_Artificial_Intelligence.pdf",
+    "descriptions": "Document submitted August 1, 2023, as an addendum to testimony before the U.S. House Committee on Science, Space, and Technology on June 22, 2023.",
+    "author": {
+      "name": "Jason Matheny",
+      "profile": "https://www.rand.org/about/people/m/matheny_jason.html"
+    },
+    "topics": [
+      {
+        "tag": "Artificial Intelligence",
+        "blog": "https://www.rand.org/topics/artificial-intelligence.html"
+      },
+      {
+        "tag": "Science, Technology, and Innovation Policy",
+        "blog": "https://www.rand.org/topics/science-technology-and-innovation-policy.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/topics/united-states.html"
+      }
+    ],
+    "details": [
+      {
+        "Copyright": " RAND Corporation"
+      },
+      {
+        "Availability": " Web-Only"
+      },
+      {
+        "Pages": " 11"
+      },
+      {
+        "DOI": "//doi.org/10.7249/CTA2824-2"
+      },
+      {
+        "Document Number": " CT-A2824-2"
+      },
+      {
+        "Year": " 2023"
+      },
+      {
+        "Series": " Testimonies"
+      }
+    ]
+  }
+}

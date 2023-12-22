@@ -1,0 +1,57 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:39:46.452238",
+  "crawling_time_epoch": 1703230786,
+  "type": "News Release",
+  "title": "Number of People Affected by Tropical Cyclones Has Increased Sharply Since 2002",
+  "url": "https://www.rand.org/news/press/2023/12/20.html",
+  "descriptions": "The number of people affected by tropical cyclones has nearly doubled from 2002 to 2019, reaching nearly 800 million people in 2019.",
+  "posted": "Dec 20, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2023/12/20/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1703120585038.jpeg",
+    "desc": "Satellite image of a tropical storm, photo by mikolajn/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Zachary Wagner",
+      "profession": "Economist",
+      "biography": "Zachary Wagner is an economist at RAND and a professor of policy analysis at Pardee RAND Graduate School. He is a health economist with training in both applied microeconomics and public health. His research uses economic theory and econometrics to study how people make decisions about health…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/w/wagner_zachary/_jcr_content/par/bio.crop.130x130.cm.jpeg/1543415018895.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Zachary Wagner"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/global-climate-change.html",
+        "tag": "Global Climate Change"
+      },
+      {
+        "url": "https://www.rand.org/topics/global-health.html",
+        "tag": "Global Health"
+      },
+      {
+        "url": "https://www.rand.org/topics/natural-hazards.html",
+        "tag": "Natural Hazards"
+      },
+      {
+        "url": "https://www.rand.org/topics/public-safety.html",
+        "tag": "Public Safety"
+      }
+    ],
+    "Article": "The number of people affected by tropical cyclones has nearly doubled from 2002 to 2019, reaching nearly 800 million people in 2019, according to a new study. While more people are affected by tropical cyclones in Asia than any other region, every affected world region saw an increase in the number of people exposed to tropical cyclones, which are expected to become more intense and possibly more frequent as the climate warms. “Although our study period is not sufficiently long to understand long-term trends, we observe a steady increase in both population and person-days exposure for all storm intensities in the past two decades.” said Renzhi Jing, the study's lead author and a postdoctoral scholar at Stanford University. The age distribution of those exposed to cyclones has shifted away from children under the age of 5 toward people who are aged 60 and older compared to the early 2000s, tracking with population trends in the regions most affected. The study also found that people exposed to tropical cyclones are more socioeconomically deprived than those unexposed within the same country, and this relationship was more pronounced for people exposed to higher-intensity storms during the study period, which was from 2002 through 2019. Researchers say that characterizing the patterns and vulnerabilities of exposed populations can help identify mitigation strategies, and assess the global burden and future risks of tropical cyclones. The findings are published online by the journal Nature. “The increased exposure to cyclones is attributed more to changes in tropical cyclone weather patterns than to population growth,” said Zachary Wagner, senior author of the study and an economist at the RAND Corporation, a nonprofit research organization. “Given projections of increased storm intensity going forward, it's reasonable to expect a continuing increase in the number of people exposed to the most intense storms, which poses many challenges for the future.” The study estimates that 6 percent to 12 percent of the global population is exposed to tropical cyclones each year, with a large portion of exposure occurring at lower wind velocities. This more common exposure can have a disproportionate impact on low- and middle-income countries, especially in regions where resilience is limited. Health risks due to major natural hazards such as tropical cyclones are a central concern of climate science and public health. When tropical cyclones pass over populated regions, the combination of high winds, low pressure systems, heavy rainfalls, and storm surges can lead to large-scale destruction and increased risk of mortality and diseases. The study assessed all types of tropical cyclones, including hurricanes and typhoons. Researchers from RAND, Stanford and other institutions used improved modeling techniques to construct estimates of the number of people worldwide who may be exposed to tropical cyclones in the future. This included a tropical cyclone parametric wind model that combines inner and outer storm dynamics and use of a new wind modeling approach to explicitly consider the asymmetry of storms over land. Researchers found that tropical cyclones affected 117 countries and regions between 2002 and 2019, with a few regions accounting for the majority of exposure. Researchers estimate that 95 percent of all person-days exposure during the study period come from Atlantic coastal North and Central America (5 percent), the Caribbean (3 percent), the Korean peninsula and Japan (6 percent), coastal eastern Asia (43 percent), Southeast Asia (24 percent), or eastern India and Bay of Bengal (14 percent). The top five countries/regions with the highest person-days exposure were coastal China (33 percent of total person-days), Japan (19 percent), the Philippines (10 percent), Taiwan (9 percent), and the United States (4 percent). These regions collectively make up more than 75 percent of all exposed person-days. The study detected an increase in population exposure to all storm intensities during the 18-year study period. About 560 million people on average were exposed to tropical cyclones with maximum wind speed of at least 63 kilometers per hour (i.e. Tropical Storm or more intense) each year. Population exposure to storms of that intensity increased from an estimated 408 million people in 2002 to 792 million in 2019. Researchers estimate that about one-third of the increase in exposure is attributable to population growth, while the other two-thirds is caused by changes in tropical cyclone hazards. Support for the study was provided by the National Institute of Child Health and Development Other authors of the study are Sam Heft-Neal and Eran Bendavid of Stanford University; Daniel R. Chavas of Purdue University, Max Griswold, Zetianyu Wang, and Aaron Clark-Ginsberg, all of RAND; Debarati Guha-Sapir of the Institute of Health and Society, UC Louvain, and Johns Hopkins University. The RAND Social and Economic Well-Being division seeks to actively improve the health, social, and economic well-being of populations and communities throughout the world."
+  }
+}

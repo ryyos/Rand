@@ -1,0 +1,61 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:59:06.437023",
+  "crawling_time_epoch": 1703231946,
+  "type": "News Release",
+  "title": "Research Project Will Probe Role of Structural Racism in Development of Dementias and Cognitive Decline Among African Americans",
+  "url": "https://www.rand.org/news/press/2022/03/14.html",
+  "descriptions": "The RAND Corporation and the University of Pittsburgh will study residents of two predominantly Black neighborhoods in Pittsburgh to examine how exposure to the legacies of structural racism at the neighborhood and individual levels may contribute to the risk of Alzheimer's disease and related dementia in African Americans.",
+  "posted": "Mar 14, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2022/03/14/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1647287383019.jpeg",
+    "desc": "Home caregiver talking to senior patient at home, photo by FG Trade/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Tamara Dubowitz Wendy M. Troxel",
+      "profession": "Senior Policy Researcher Senior Behavioral and Social Scientist",
+      "biography": "Tamara Dubowitz (she/her) is a senior policy researcher at the RAND Corporation and faculty at the Pardee RAND Graduate School. Trained in social epidemiology with concentrations in maternal and child health and public health nutrition, her research focuses on the role of place, or geography,… Wendy Troxel is a senior behavioral and social scientist at the RAND Corporation and author of Sharing the Covers; Every Couple's Guide to Better Sleep. She holds adjunct professor positions at the University of Pittsburgh and University of Utah and is a licensed clinical psychologist and…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/d/dubowitz_tamara/_jcr_content/par/bio.crop.130x130.cm.jpeg/1557972435613.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Tamara Dubowitz"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/alzheimers-disease-and-dementias.html",
+        "tag": "Alzheimer's Disease and Dementias"
+      },
+      {
+        "url": "https://www.rand.org/topics/black-populations.html",
+        "tag": "Black Populations"
+      },
+      {
+        "url": "https://www.rand.org/topics/racial-discrimination.html",
+        "tag": "Racial Discrimination"
+      },
+      {
+        "url": "https://www.rand.org/topics/social-determinants-of-health.html",
+        "tag": "Social Determinants of Health"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": "The RAND Corporation and the University of Pittsburgh will study residents of two predominantly Black neighborhoods in Pittsburgh to examine how exposure to the legacies of structural racism at the neighborhood and individual levels may contribute to the risk of Alzheimer's disease and related dementia in African Americans. The work, supported by a $9.6 million grant from the National Institute on Aging, will examine how individual and neighborhood factors—and their changes over the life course—are associated with cognitive decline and risk of Alzheimer's and related dementias in African Americans. The five-year study is a part of RAND's ongoing PHRESH project that for a decade has studied the impact of neighborhood investment on diet, sleep, health, and well-being of residents of the Hill and Homewood districts in Pittsburgh. “Understanding the structural factors and the resulting life experiences that contribute to differences in the risk of Alzheimer's and related dementia risk among African Americans is critical to advancing our knowledge of the historical impact of policies on African Americans today, in addition to future prevention and intervention efforts,” said Tamara Dubowitz, coleader of the project and a senior policy researcher at RAND, a nonprofit research organization. African Americans have higher rates and earlier onset of Alzheimer's and related dementias relative to white Americans, and there is a lack of a comprehensive understanding of how the lived experiences of being African American may be associated with those risks. The new study will follow about 1,100 residents of the Hill and Homewood neighborhoods to probe the premise that neighborhood segregation and subsequent disinvestment contribute to poor cognitive outcomes for African Americans by lowering access to education and elevating exposure to stressors such as discrimination. Researchers also will examine potential protective factors that may promote cognitive health, including neighborhood social cohesion, safety and satisfaction, and the role of sleep problems in contributing to cognitive decline. “Sleep problems are also highly prevalent among African Americans and emerging research suggests that sleep problems may contribute to cognitive decline,” said Wendy Troxel, coleader of the project and a RAND senior behavioral scientist. The RAND Social and Economic Well-Being division seeks to actively improve the health, social, and economic well-being of populations and communities throughout the world."
+  }
+}

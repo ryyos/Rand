@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:46:04.773054",
+  "crawling_time_epoch": 1703231164,
+  "type": "Commentary",
+  "title": "UFOs Are Not the Only Potential Threat in American Skies",
+  "url": "https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html",
+  "descriptions": "How can the United States best monitor its millions of square miles of domestic airspace for unidentified anomalous phenomena—what were once called UFOs—or anything else? Public reporting could help officials identify potential threats—but it'd help if the sightings being reported were actually unknown aerial phenomena and not U.S. military aircraft.",
+  "posted": "Jul 25, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1690325942563.jpeg",
+    "desc": "U.S. Navy sailors recover a suspected Chinese spy balloon off the coast of Myrtle Beach, South Carolina, February 5, 2023, U.S. Navy photo via EyePress News/Reuters"
+  },
+  "content": {
+    "source": "(The Hill)",
+    "author": {
+      "name": "Marek N. Posard Ashley Gromis Mary Lee",
+      "profil": "https://www.rand.org/about/people/p/posard_marek_n.html",
+      "position": "Military Sociologist; Professor of Policy Analysis, Pardee RAND Graduate School Associate Behavioral/\nSocial Scientist Mathematician",
+      "username": "@mnposard @MaryLee_PhD",
+      "contact": "https://www.twitter.com/mnposard"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.civil-military-relations.html",
+        "tag": "Civil-Military Relations"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.civilian-and-commercial-drones.html",
+        "tag": "Civilian and Commercial Drones"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.military-drones.html",
+        "tag": "Military Drones"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.threat-assessment.html",
+        "tag": "Threat Assessment"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": "On Thursday, the House Oversight Committee will hold a public hearing about national security implications of unidentified anomalous phenomena (UAPs). It comes on the heels of public inquiries in 2022 by Congress, the Department of Defense, NASA, and the intelligence community (PDF) into what were once called UFOs. If extraterrestrials are visiting our planet, the U.S. government absolutely wants to detect their arrival. But even if they aren't, there are still a host of worrisome objects potentially lurking in our skies that we need to keep an eye out for, such as the Chinese surveillance balloon that flew across the continent back in February. The United States has 5.3 million square miles of domestic airspace—and much more over the oceans. How can it best monitor it all for UAPs, or anything else? Historically, the advanced technologies that enabled what we refer to as “air power” were in the hands of only a few military powers. Today, these technologies have been democratized. They're available not only to more countries and private companies, but also to the general public. You could, today, swing by Costco and buy a drone. Ukrainian soldiers have been converting such consumer drones into deadly weapons. In 2021, a Connecticut man was arrested after adding a gun and flamethrower to his homemade drone. UAPs are an area of rising concern. This democratization of airpower, however, is a pressing national security threat. Like all countries, however, the United States has finite resources to monitor everything flying in its vast airspace every second of the day. Public reporting could help officials identify potential threats—but it'd help if the sightings being reported were actually unknown aerial phenomena. So can we democratize reporting of suspicious activities in the skies too? Public reporting could help officials identify potential threats—but it'd help if the sightings being reported were actually unknown aerial phenomena. Right now, there's evidence that some of what's being reported as UAPs are actually U.S. military aircraft. We analyzed 101,151 reports of aerial phenomena made between 1998 and 2022 from 12,783 U.S. Census Bureau designated places. The data came from the National UFO Reporting Center, a nongovernment entity that the FAA references in official documents for where to report unexplained phenomena. (We make no endorsement of this dataset, nor any individual reports logged within it.) Using these data, we looked for predictors—such as distance to military installations, military operations areas, or weather stations—for what had been reported. Being within about 20 miles of a military operations area was consistently associated with higher rates of public UAP reports. These areas are where various military flight activities occur, like training for air combat maneuvers, intercepts, and low-altitude tactics. But they are not necessarily located near military installations. For example, there are military operations areas above Jamaica, Vermont; Storm Lake, Iowa; and off the coast of Sheboygan, Wisconsin. We suspect that many people don't realize that they are living, working, or traveling around these vast and often remote operations areas—nor are they aware when various military exercises are taking place. UAPs were significantly less likely to be reported in areas near weather stations, or near midsize or large civilian airports. Our hypothesis is that people in these places were more aware of the aerial activity nearby, so they were less likely to conclude that what they'd seen overhead was a UAP/UFO. The United States needs a robust system to collect public reports of unidentified aerial phenomena. If the United States wants its citizens to keep their eyes on the skies, but also reduce such false alarms, outreach to civilians who live and work near military operations areas might work in the short term. In the longer term, however, the United States needs a robust system to collect public reports of unidentified aerial phenomena. Such a system could leverage mobile devices, GPS, and artificial intelligence to collect a rich set of data that would include images, audio recordings, and descriptions. Taken together, these steps may reduce the likelihood of hoaxes and misidentifications and help ensure that the government is focused on immediate threats—like surveillance aircraft from China or terrorist attacks via drones—as well as the prospect of visitors from beyond Earth (PDF). Marek N. Posard is a military sociologist at the nonprofit, nonpartisan RAND Corporation and an affiliate faculty member at the Pardee RAND Graduate School. Ashley Gromis is an associate behavioral and social scientist at RAND. Mary Lee is a mathematician at RAND. This commentary originally appeared on The Hill on July 25, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

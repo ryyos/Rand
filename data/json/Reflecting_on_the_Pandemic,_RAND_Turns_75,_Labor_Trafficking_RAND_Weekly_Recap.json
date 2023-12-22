@@ -1,0 +1,121 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:49:46.679706",
+  "crawling_time_epoch": 1703231386,
+  "type": "Blog",
+  "title": "Reflecting on the Pandemic, RAND Turns 75, Labor Trafficking: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-may-12.html",
+  "descriptions": "This weekly recap focuses on lessons learned from the COVID-19 pandemic, 75 years of influential RAND research, reducing labor trafficking in the United States, and more.",
+  "posted": "May 12, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-12/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1683929540467.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "Coronavirus Disease 2019 (COVID-19)",
+        "blog": "https://www.rand.org/blog.topic.coronavirus-disease-2019-covid-19.html"
+      },
+      {
+        "tag": "Labor Markets",
+        "blog": "https://www.rand.org/blog.topic.labor-markets.html"
+      },
+      {
+        "tag": "Legal Case and Court Management",
+        "blog": "https://www.rand.org/blog.topic.legal-case-and-court-management.html"
+      },
+      {
+        "tag": "Major Combat Operations",
+        "blog": "https://www.rand.org/blog.topic.major-combat-operations.html"
+      },
+      {
+        "tag": "Military Strategy",
+        "blog": "https://www.rand.org/blog.topic.military-strategy.html"
+      },
+      {
+        "tag": "Public Health Preparedness",
+        "blog": "https://www.rand.org/blog.topic.public-health-preparedness.html"
+      },
+      {
+        "tag": "Recidivism",
+        "blog": "https://www.rand.org/blog.topic.recidivism.html"
+      },
+      {
+        "tag": "Threat Assessment",
+        "blog": "https://www.rand.org/blog.topic.threat-assessment.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "Victims of Crime",
+        "blog": "https://www.rand.org/blog.topic.victims-of-crime.html"
+      }
+    ],
+    "Article": "This week, we discuss lessons learned from the pandemic; RAND's 75th anniversary; reducing labor trafficking in the United States; the aftermath of great-power wars; the effects of providing legal counsel at bail hearings; and deterring threats from uncertain origins.",
+    "sub_article": [
+      {
+        "title": "The End of the U.S. COVID-19 Public Health Emergency: Q&A with RAND Experts",
+        "descriptions": "On March 13, 2020, as COVID-19 began claiming lives worldwide at a frightening pace, the U.S. government declared a public health emergency. That declaration expired yesterday. In a new Q&A, we asked more than a dozen RAND experts to reflect on the past three years: What were the effects of COVID-19 in the United States and around the world? What was done right? What was done wrong? And what could help mitigate the health and geopolitical impacts of future pandemics? RAND researchers also weighed in this week on other lessons learned as the emergency phase of the pandemic era comes to an end:",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "RAND Turns 75: A Look Back at Our Research",
+        "descriptions": "For 75 years, decisionmakers around the world have turned to RAND for help solving the most complex and consequential public policy challenges. In honor of our anniversary this month, we're highlighting some of our most notable projects—from the iconic statistical reference, A Million Random Digits with 100,000 Normal Deviates, to our analysis that contributed to the global ban of ozone-depleting substances, to the ongoing RAND Gun Policy in America initiative.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Labor Trafficking in the United States",
+        "descriptions": "An estimated 14,500 to 17,500 people are trafficked into the United States each year to perform bonded or forced labor. Labor trafficking, in fact, is the most common form of human trafficking worldwide. A new RAND report highlights key issues that need to be addressed in order to reduce labor trafficking. The authors emphasize that addressing the problem is especially challenging because identifying victims is very difficult.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-12/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1683928962015.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Hands of a young girl using a sewing machine in a workshop, photo by Thanaphong Araveeporn/Getty Images"
+        }
+      },
+      {
+        "title": "The Aftermath of Great-Power Wars",
+        "descriptions": "From the Crimean War of 1853 to World Wars I and II, new RAND research looks back at the history of great-power wars. The authors also consider how several hypothetical conflicts between the United States and China or Russia could produce unwanted consequences—even if the United States was victorious. As lead author Miranda Priebe tweeted, “the real winners are likely to be the parties that don't fight in these conflicts.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-12/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1683929039332.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Americans gather to read headlines about the German invasion of Poland that triggered World War II, September 1, 1939, photo by Everett Collection/Alamy "
+        }
+      },
+      {
+        "title": "The Effects of Providing Legal Counsel at Bail Hearings",
+        "descriptions": "A new RAND study finds that providing defendants with legal counsel during their initial bail hearings decreases both the use of cash bail and the probability of pretrial detention. These changes occurred without increasing the likelihood that defendants fail to appear at a subsequent hearing. “This study is particularly relevant,” says lead author Shamena Anwar, “given that roughly half of the counties in the United States do not currently provide defense representation at the bail hearing.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-12/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1683929205640.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A lawyer and defendant in the courtroom, photo by gorodenkoff/Getty Images"
+        }
+      },
+      {
+        "title": "Can the United States Deter Threats from Uncertain Origins?",
+        "descriptions": "Photo by Alexandre Meneghini/Reuters In 2016, U.S. Department of State officials stationed in Cuba began reporting a range of symptoms, including headaches, dizziness, and ringing of the ears. So-called Havana Syndrome has since been reported by U.S. personnel in 70 countries. In a new RAND report, this mystery serves as a case study to show the challenges of responding to a national security threat that is masked in ambiguity. The authors also look at two other examples: the SolarWinds cyberattack and the Chinese Communist Party's connections to organized crime.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-12/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1683929324782.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "The U.S. Embassy in Havana, Cuba, September 29, 2017, photo by Alexandre Meneghini/Reuters"
+        }
+      }
+    ]
+  }
+}

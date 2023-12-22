@@ -1,0 +1,51 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:54:27.233509",
+  "crawling_time_epoch": 1703231667,
+  "type": "Commentary",
+  "title": "Addressing Gun Violence Requires Better Means of Measuring It",
+  "url": "https://www.rand.org/pubs/commentary/2023/02/addressing-gun-violence-requires-better-means-of-measuring.html",
+  "descriptions": "Proposals to reduce firearm violence in the United States are often controversial, sometimes because there are no data demonstrating their effectiveness. The federal government has many of the requisite tools in place to collect the data, and it does it well on a wide range of other problems. Shying away from measuring this problem may also make it more difficult to fix it.",
+  "posted": "Feb 13, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/02/addressing-gun-violence-requires-better-means-of-measuring/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1676336715133.jpeg",
+    "desc": "Photos of mass shooting victims at a memorial outside the Star Ballroom Dance Studio in Monterey Park, California, January 31, 2023, photo by Image of Sport/Sipa USA vie Reuters"
+  },
+  "content": {
+    "source": "(CNN)",
+    "author": {
+      "name": "Rosanna Smart Andrew R. Morral",
+      "profil": "https://www.rand.org/about/people/s/smart_rosanna.html",
+      "position": "Codirector, RAND Drug Policy Research Center; Senior Economist; Professor of Policy Analysis, Pardee RAND Graduate School Senior Behavioral Scientist, Director of the National Collaborative on Gun Violence Research",
+      "username": "@RosannaSmart @AndrewMorral",
+      "contact": "https://www.twitter.com/RosannaSmart"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.crime-and-violence-prevention.html",
+        "tag": "Crime and Violence Prevention"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.data-analysis.html",
+        "tag": "Data Analysis"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.gun-policy.html",
+        "tag": "Gun Policy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.gun-violence.html",
+        "tag": "Gun Violence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.public-safety-legislation.html",
+        "tag": "Public Safety Legislation"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.united-states.html",
+        "tag": "United States"
+      }
+    ],
+    "Article": "Barely through January, America has this year already experienced 63 incidents with four or more people shot and more than 4,200 firearm deaths. These statistics do not come from official governmental sources, but are rather the result of information compiled and disseminated publicly by a small nonprofit organization, the Gun Violence Archive, funded primarily by a single private donor. Our government collects no official data on mass shootings—and has no comprehensive data collection system tracking nonfatal firearm injuries—despite intense public concern about these events and the direction they may be trending. The federal government does collect data on firearm deaths, although complete nationwide data that link whether individual deaths occurred in the same incident is not yet available. And finalized data is always a year or so delayed. By comparison, federal data on poultry slaughter across the country lags by only a couple of weeks.… The remainder of this commentary is available at cnn.com. Rosanna Smart is an economist at the nonprofit, nonpartisan RAND Corporation and coleader of its Gun Policy in America initiative to understand the effects of gun policies. Andrew R. Morral is a senior behavioral scientist at RAND, coleader of the initiative, and director of the National Collaborative on Gun Violence Research, a private philanthropy that funds gun violence prevention research. This commentary originally appeared on CNN on February 10, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

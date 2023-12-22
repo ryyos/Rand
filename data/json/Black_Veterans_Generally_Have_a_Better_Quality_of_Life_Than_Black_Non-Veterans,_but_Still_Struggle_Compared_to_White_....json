@@ -1,0 +1,61 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:57:32.603129",
+  "crawling_time_epoch": 1703231852,
+  "type": "News Release",
+  "title": "Black Veterans Generally Have a Better Quality of Life Than Black Non-Veterans, but Still Struggle Compared to White ...",
+  "url": "https://www.rand.org/news/press/2022/11/09.html",
+  "descriptions": "Military service is associated with more-positive life outcomes and better economic prospects for Black Americans, despite facing greater health risks than their civilian counterparts.",
+  "posted": "Nov 9, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Stephanie Brooks Holliday",
+      "profession": "Senior Behavioral Scientist",
+      "biography": "Stephanie Brooks Holliday (she/her) is a senior behavioral scientist and clinical psychologist at RAND and a professor of policy analysis at the Pardee RAND Graduate School. Her research has spanned a range of topics. Several of her studies at RAND have focused on the criminal and juvenile…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/h/holliday_stephanie_brooks/_jcr_content/par/bio.crop.130x130.cm.jpeg/1579284217559.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Stephanie Holliday"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Army Research Division",
+        "profile": "https://www.rand.org/ard.html"
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/black-populations.html",
+        "tag": "Black Populations"
+      },
+      {
+        "url": "https://www.rand.org/topics/health-related-quality-of-life.html",
+        "tag": "Health-Related Quality of Life"
+      },
+      {
+        "url": "https://www.rand.org/topics/military-veterans.html",
+        "tag": "Military Veterans"
+      },
+      {
+        "url": "https://www.rand.org/topics/racial-equity.html",
+        "tag": "Racial Equity"
+      },
+      {
+        "url": "https://www.rand.org/topics/socioeconomic-status.html",
+        "tag": "Socioeconomic Status"
+      }
+    ],
+    "Article": "Military service is associated with more-positive life outcomes and better economic prospects for Black Americans, despite facing greater health risks than their civilian counterparts, finds a new RAND Corporation study. The study, which examines the association between military service and the physical health, behavioral health, economic stability, and interpersonal relationships of Black Americans also shows that Black veterans still struggle to achieve economic parity with White Americans, regardless of military service. “Despite strong representation in the U.S. military, there is very little existing research on how military service affects the post-military lives of Black Americans,” said Stephanie Brooks Holliday, a senior behavioral scientist at RAND and author on the report. “Our research shows that military service is associated with a number of quality-of-life benefits for Black Americans, but it remains striking that Black Americans still do worse than White Americans across many outcomes we examined.” On the positive side, Black veterans tend to have higher incomes, higher rates of home ownership, and less reliance on food assistance programs than Black Americans who are not veterans. They also are more likely to be married, and at younger ages, which generally corresponds to a better quality of life, according to the study. The economic picture is less positive, however, when compared to White Americans. Home ownership rates for both Black veterans and non-veterans are significantly less than White Americans regardless of military status. After controlling for key demographics such as age and sex, Black veterans also experience more health concerns than Black or White civilians, including higher rates of hypertension, high cholesterol, Type 2 diabetes, prostate cancer, and both chronic and high-impact pain. Conversely, Black veterans have significantly lower rates of chronic pain than White veterans and lower rates of marijuana use disorder than any other group. Though Black veterans have slightly higher rates of both depression and anxiety than other Black Americans and somewhat lower rates than White veterans, neither of these differences are large enough to be statistically significant. Similarly, there are no significant differences between Black veterans and either group for suicide-related outcomes. Black veterans tend to report more work limitations because of physical, mental, or emotional problems than those who haven't served, regardless of race, but rates are similar for White veterans. This is likely due to veteran status in general, according to the study. “While our research shows that Black veterans do better than non-veteran Black Americans in many important ways, it's clear that a lot needs to be done to improve the health and well-being of all Black people and other marginalized populations,” said Holliday. The authors recommend expanding the scope of future research to examine outcomes not included in this study such as PTSD, community reintegration, family stability, and access to credit to gain a fuller picture of the lives of Black veterans. They also suggest ways in which this study might inform race-conscious programming that supports Black veterans as they transition into civilian life, such as career guidance and marital counseling. Funding for the study, Among Black Americans Is Military Service Associated with a Better Quality of Life?, was provided by RAND internal research and development funds. Other authors are Tepring Piquado, Samantha McBirney, Thomas Trail, Anette Prieto, Charles Goldman, Rachana Seelam, Kelsey O'Hollaren, and Aaron Kofner."
+  }
+}

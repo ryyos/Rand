@@ -1,0 +1,43 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:46:38.002459",
+  "crawling_time_epoch": 1703231198,
+  "type": "Commentary",
+  "title": "Tackling the Existential Threats from Artificial Intelligence",
+  "url": "https://www.rand.org/pubs/commentary/2023/07/tackling-the-existential-threats-from-artificial-intelligence.html",
+  "descriptions": "Addressing potential risks posed by artificial intelligence (AI) could begin with simple steps like finding appropriate risk-management approaches, conducting research to determine how AI can better meet designers' intent, and devising responses to issues related to racism, sexism, and other biases within AI systems.",
+  "posted": "Jul 11, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/07/tackling-the-existential-threats-from-artificial-intelligence/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1689363227834.jpeg",
+    "desc": "artificial intelligence concept with CGI face and programming code, photo by dem10/Getty Images"
+  },
+  "content": {
+    "source": "(The RAND Blog)",
+    "author": {
+      "name": "Carter C. Price Michelle Woods",
+      "profil": "https://www.rand.org/about/people/p/price_carter_c.html",
+      "position": "Codirector, Center for Scalable Computing and Analysis; Research Quality Assurance Manager for the Homeland Security Research Division; Senior Mathematician Associate Director, RAND Homeland Security Research Division; Associate Director, Homeland Security Operational Analysis Center; Senior Defense Researcher",
+      "username": "@CarterCPrice",
+      "contact": "https://www.twitter.com/CarterCPrice"
+    },
+    "topic": [
+      {
+        "blog": "https://www.rand.org/blog.topic.artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.emerging-technologies.html",
+        "tag": "Emerging Technologies"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.science-technology-and-innovation-policy.html",
+        "tag": "Science, Technology, and Innovation Policy"
+      },
+      {
+        "blog": "https://www.rand.org/blog.topic.threat-assessment.html",
+        "tag": "Threat Assessment"
+      }
+    ],
+    "Article": "Addressing potential risks posed by artificial intelligence (AI) could begin with simple steps like finding appropriate risk-management approaches, conducting research to determine how AI can better meet designers' intent, and devising responses to issues related to racism, sexism, and other biases within AI systems. While there have been efforts to enumerate risks, a simple categorization could divide them into current risks that would be exacerbated by AI, like terrorists using AI to develop more-lethal bioweapons, and novel AI-specific risks, like AI choosing the eradication of humankind as the optimal solution to climate change. The risk-management approaches used to address current threats will likely need to be revamped to account for the unforeseen capabilities AI could provide. While there are well-documented risks due to bias in today's AI that need to be addressed, the novel risks posed by AI are currently too ill-defined to be fully addressed by policy, and so researchers and developers will need to take the lead. However, for both the existing and novel cases, steps can be taken to prepare for these risks. The risk-management approaches used in insurance, finance, and other business fields typically focus on risk as the product of the likelihood that something happens and the consequence of that thing happening measured in dollars. This works well in areas where outcomes can readily be converted to dollars, there are easily quantifiable outcomes, and data sets are comprehensive enough to produce reliable estimates of likelihoods. The risk-management approaches used to address current threats will likely need to be revamped to account for the unforeseen capabilities AI could provide. Unfortunately, none of those criteria pertain to AI risks. Instead of thinking of risks as likelihoods and consequences, in contexts where quantification is hard, risks can be thought of as combinations of threats, vulnerabilities, and consequences. This type of approach is used by the Federal Emergency Management Agency to prepare for natural disasters, the Cybersecurity and Infrastructure Security Agency when assessing how to protect critical infrastructure, and by the Department of Defense for threat reduction. Because it is not overly reliant on empirical data, this framework can be used for forward-looking risks such as AI. To apply this framework to existing threats empowered by AI, risk management organizations will need to monitor the progress of AI, the capabilities of the threats, the robustness of the vulnerabilities, and the scale of the consequences to determine whether additional responses are needed. The uniquely AI risks are largely unaddressed today because of their novelty, but that is changing. On July 5th, OpenAI announced a “Superalignment” group to address the existential risks posed by AI. In the context of AI, alignment is the degree to which an AI system's actions match the designer's intent. This emphasis on alignment research for super-intelligence is a great start, but seems too narrow and could be broadened. Other AI researchers have been highlighting issues related to racism (PDF), sexism (PDF), and other biases in current AI systems. If an AI system cannot be designed to be safe against racism or sexism, how can AI possibly be designed to align with humanity's long-term interests? As companies are investing in alignment research, they could also be emphasizing the elimination of these well-known, but lingering biases in their AI systems. If an AI system cannot be designed to be safe against racism or sexism, how can AI possibly be designed to align with humanity's long-term interests? Further, consumers and policymakers have a role. Just as a company would be under pressure from consumers and shareholders to fire an executive who repeatedly made biased statements, a company should not tolerate this type of bias in the AI systems they use. That type of consumer pressure should provide AI developers with incentives to produce better-aligned products. Policymakers can support this type of free market action by requiring AI developers to provide information about bias in their products and the approaches deployed to respond to bias. Other interventions will be needed as AI advances, but this is a concrete step that can incentivize safer development. While the recent advancements in commercial AI can be disorienting and the claims of existential risks made by different groups of AI researchers can be terrifying, policymakers could respond with steps toward ensuring that AI is safely deployed. Carter Price is a senior mathematician and Michelle Woods is associate director of the Homeland Security Research Division at the nonprofit, nonpartisan RAND Corporation. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

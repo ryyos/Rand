@@ -1,0 +1,137 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:51:56.240979",
+  "crawling_time_epoch": 1703231516,
+  "type": "Blog",
+  "title": "20 Years After the Iraq War, China-Russia Ties, Correctional Education: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-march-24.html",
+  "descriptions": "This weekly recap focuses on reflecting on the Iraq War, the pandemic and prison education, North Korea’s latest threats, and more.",
+  "posted": "Mar 24, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-24/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1679687934846.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "China",
+        "blog": "https://www.rand.org/blog.topic.china.html"
+      },
+      {
+        "tag": "Community-Based Participatory Research",
+        "blog": "https://www.rand.org/blog.topic.community-based-participatory-research.html"
+      },
+      {
+        "tag": "Coronavirus Disease 2019 (COVID-19)",
+        "blog": "https://www.rand.org/blog.topic.coronavirus-disease-2019-covid-19.html"
+      },
+      {
+        "tag": "Counterterrorism",
+        "blog": "https://www.rand.org/blog.topic.counterterrorism.html"
+      },
+      {
+        "tag": "International Diplomacy",
+        "blog": "https://www.rand.org/blog.topic.international-diplomacy.html"
+      },
+      {
+        "tag": "Iraq",
+        "blog": "https://www.rand.org/blog.topic.iraq.html"
+      },
+      {
+        "tag": "Military Strategy",
+        "blog": "https://www.rand.org/blog.topic.military-strategy.html"
+      },
+      {
+        "tag": "North Korea",
+        "blog": "https://www.rand.org/blog.topic.north-korea.html"
+      },
+      {
+        "tag": "Nuclear Weapons and Warfare",
+        "blog": "https://www.rand.org/blog.topic.nuclear-weapons-and-warfare.html"
+      },
+      {
+        "tag": "Prison Reform",
+        "blog": "https://www.rand.org/blog.topic.prison-reform.html"
+      },
+      {
+        "tag": "Russia",
+        "blog": "https://www.rand.org/blog.topic.russia.html"
+      },
+      {
+        "tag": "Teachers and Teaching",
+        "blog": "https://www.rand.org/blog.topic.teachers-and-teaching.html"
+      },
+      {
+        "tag": "United States",
+        "blog": "https://www.rand.org/blog.topic.united-states.html"
+      },
+      {
+        "tag": "Warfare and Military Operations",
+        "blog": "https://www.rand.org/blog.topic.warfare-and-military-operations.html"
+      }
+    ],
+    "Article": "This week, we discuss the complex legacy of the Iraq War; why China and Russia are getting closer; how the pandemic affected correctional education; understanding the Russian General Staff; tensions between the U.S. and North Korea; and how teachers feel about restrictions on classroom discussions about race and gender.",
+    "sub_article": [
+      {
+        "title": "Twenty Years After the Iraq War: RAND Experts Reflect",
+        "descriptions": "On March 20, 2003, the United States invaded Iraq, setting off a long, costly, and bloody conflict—the effects of which are still being felt around the world today. We asked a group of RAND experts about the complicated legacy of the Iraq War, lessons the U.S. military learned (or didn't learn), the state of the Middle East today, and more. Here's just a sample of what they had to say:",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "China-Russia Ties Are Strengthening",
+        "descriptions": "Photo by Ramil Sitdikov/Sputnik/Reuters Chinese President Xi Jinping met with Russian President Vladimir Putin in Moscow this week. A 2021 RAND report provides some context for this visit. Overall, the findings suggest that the China-Russia relationship is likely to keep growing stronger. Not only do the two countries share a perceived threat from the United States, but they also benefit from cooperation on key issues. Further, as lead author Andrew Radin pointed out on Twitter this week, sanctions from the war in Ukraine could make Russia more dependent on China.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-24/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1679686518224.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Russian President Vladimir Putin shakes hands with Chinese President Xi Jinping during their meeting on the sidelines of a BRICS summit, in Brasilia, Brazil, November 13, 2019, photo by Ramil Sitdikov/Sputnik via Reuters"
+        }
+      },
+      {
+        "title": "How Did COVID-19 Affect Correctional Education?",
+        "descriptions": "Photo by Brendan McDermid/Reuters The pandemic continues to have profound effects on society. However, discussions about these lingering impacts often omit the 1.2 million incarcerated adults in federal and state prisons. A new RAND report examines COVID-19 infection rates in U.S. prisons, assesses the immediate effects of COVID-19 on prison education programs, and considers potential long-term changes to correctional education that may result from the pandemic.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-24/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1679686612526.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A man exits the Metropolitan Detention Center, which is operated by the U.S. Federal Bureau of Prisons, during the COVID-19 outbreak in Brooklyn, New York, December 8, 2020, photo by Brendan McDermid/Reuters"
+        }
+      },
+      {
+        "title": "Understanding the Russian General Staff",
+        "descriptions": "Photo by Mikhail Klimentyev/Sputnik/Kremlin/Reuters The Russian General Staff has broad authority to ensure the defense of the Russian state. It is unlike any single organization within the U.S. defense establishment. A new RAND report looks at this institution's capacity to influence Russia's national security decisionmaking. Although the analysis focuses on fighting in Ukraine from 2014 to 2021 and in Syria from 2015 to 2019, the authors identify issues that may at least partly explain the Russian military's struggles since the wider invasion of Ukraine began in early 2022.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-march-24/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1679686725366.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Russian President Vladimir Putin (2nd L), Defence Minister Sergei Shoigu (L), and Chief of the General Staff of Russian Armed Forces Valery Gerasimov (2nd R) watch the Zapad-2017 war games held by Russian and Belarussian servicemen, in the Leningrad region, Russia, September 18, 2017, photo by Mikhail Klimentyev/Sputnik/Kremlin via Reuters"
+        }
+      },
+      {
+        "title": "North Korea Is Forcing U.S. Military Counters",
+        "descriptions": "Photo by KCNA/Pool/Latin America News Agency/Reuters According to recent reports, U.S. Indo-Pacific commander Admiral John Aquilino has said that the United States would “immediately” shoot down any intercontinental ballistic missile fired over Guam or into the Pacific region. North Korean officials responded, stating that such an act would be “regarded as a clear declaration of war against the DPRK.” Is Pyongyang forcing Washington's hand? RAND's Bruce Bennett breaks down the latest tense exchange in U.S.-North Korea relations.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Amplifying Teachers' Voices: Q&A with RAND's Ashley Woo",
+        "descriptions": "At least 18 U.S. states have restricted how teachers can address topics related to race, gender, and other “divisive concepts” in the classroom. A recent RAND survey asked more than 8,000 teachers how these restrictions—and the national debate surrounding them—affect their work. In a new Q&A, lead author Ashley Woo, a former elementary school teacher, discusses the study findings, why the data is meaningful to policymakers, and how she hopes to continue highlighting educators' voices through her research.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

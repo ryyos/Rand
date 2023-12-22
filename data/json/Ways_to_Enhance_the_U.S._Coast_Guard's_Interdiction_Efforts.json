@@ -1,0 +1,59 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:40:46.114000",
+  "crawling_time_epoch": 1703230846,
+  "type": "Testimony",
+  "title": "Ways to Enhance the U.S. Coast Guard's Interdiction Efforts",
+  "url": "https://www.rand.org/pubs/testimonies/CTA3080-1.html",
+  "descriptions": "Effective partnerships and investment in technology are essential for successful drug and migrant interception and international fisheries law enforcement. The U.S. Coast Guard's efforts could be improved through better information-sharing and leveraging of existing technology, and further interagency and international collaboration and cooperation.",
+  "posted": "Nov 14, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/testimonies/CTA3080-1/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1699886105933.jpeg",
+    "desc": "U.S. Coast Guard officers watch over more than 54,500 pounds of cocaine and 15,800 pounds of marijuana seized from multiple interdictions before they are unloaded from the Coast Guard Cutter James at Port Everglades, Florida, February 17, 2022, photo by Marco Bello/Reuters"
+  },
+  "content": {
+    "path_data_pdf": "data/pdf/Enhancing_U.S._Coast_Guard_Interdiction.pdf",
+    "descriptions": "Testimony presented before the U.S. House Transportation and Infrastructure Committee, Subcommittee on Coast Guard and Maritime Transportation on November 14, 2023.",
+    "author": {
+      "name": "Aaron C. Davenport",
+      "profile": "https://www.rand.org/about/people/d/davenport_aaron_c.html"
+    },
+    "topics": [
+      {
+        "tag": "Law of the Sea",
+        "blog": "https://www.rand.org/topics/law-of-the-sea.html"
+      },
+      {
+        "tag": "Security Cooperation",
+        "blog": "https://www.rand.org/topics/security-cooperation.html"
+      },
+      {
+        "tag": "United States Coast Guard",
+        "blog": "https://www.rand.org/topics/united-states-coast-guard.html"
+      }
+    ],
+    "details": [
+      {
+        "Copyright": " RAND Corporation"
+      },
+      {
+        "Availability": " Web-Only"
+      },
+      {
+        "Pages": " 8"
+      },
+      {
+        "DOI": "//doi.org/10.7249/CTA3080-1"
+      },
+      {
+        "Document Number": " CT-A3080-1"
+      },
+      {
+        "Year": " 2023"
+      },
+      {
+        "Series": " Testimonies"
+      }
+    ]
+  }
+}

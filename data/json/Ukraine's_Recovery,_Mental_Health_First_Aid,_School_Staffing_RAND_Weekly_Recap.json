@@ -1,0 +1,125 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:50:14.333452",
+  "crawling_time_epoch": 1703231414,
+  "type": "Blog",
+  "title": "Ukraine's Recovery, Mental Health First Aid, School Staffing: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-may-05.html",
+  "descriptions": "This weekly recap focuses on the trade-offs of Ukraine's reconstruction, the effects of a Mental Health First Aid training program, school staffing challenges, and more.",
+  "posted": "May 5, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-05/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1683230129281.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "topic": [
+      {
+        "tag": "Community Health and Well-Being",
+        "blog": "https://www.rand.org/blog.topic.community-health-and-well-being.html"
+      },
+      {
+        "tag": "Coronavirus Disease 2019 (COVID-19)",
+        "blog": "https://www.rand.org/blog.topic.coronavirus-disease-2019-covid-19.html"
+      },
+      {
+        "tag": "Cybersecurity",
+        "blog": "https://www.rand.org/blog.topic.cybersecurity.html"
+      },
+      {
+        "tag": "Disaster Recovery Operations",
+        "blog": "https://www.rand.org/blog.topic.disaster-recovery-operations.html"
+      },
+      {
+        "tag": "Mental Health and Illness",
+        "blog": "https://www.rand.org/blog.topic.mental-health-and-illness.html"
+      },
+      {
+        "tag": "New York City",
+        "blog": "https://www.rand.org/blog.topic.new-york-city.html"
+      },
+      {
+        "tag": "Principals",
+        "blog": "https://www.rand.org/blog.topic.principals.html"
+      },
+      {
+        "tag": "Public Health Preparedness",
+        "blog": "https://www.rand.org/blog.topic.public-health-preparedness.html"
+      },
+      {
+        "tag": "Teachers and Teaching",
+        "blog": "https://www.rand.org/blog.topic.teachers-and-teaching.html"
+      },
+      {
+        "tag": "Ukraine",
+        "blog": "https://www.rand.org/blog.topic.ukraine.html"
+      },
+      {
+        "tag": "Workforce Management",
+        "blog": "https://www.rand.org/blog.topic.workforce-management.html"
+      }
+    ],
+    "Article": "This week, we discuss the trade-offs when making decisions about Ukraine's recovery; New York City's Mental Health First Aid training program; how to better prepare for another pandemic; principals' views on staffing challenges; security challenges related to hybrid work; and the new Veteran Affairs electronic health record system.",
+    "sub_article": [
+      {
+        "title": "Weighing Options for Ukraine's Recovery",
+        "descriptions": "Even as the war in Ukraine drags on, decisions about reconstruction loom large. A new RAND report examines the trade-offs when it comes to determining how to prioritize reconstruction efforts, when to start the recovery process, and who might provide funding. For example, the Ukrainian people want to return to normal life quickly. But starting reconstruction while armed conflict is still active could drain much-needed resources and do little to improve people's lives. Deciding who should pay for the recovery reveals other trade-offs: Using private capital would be faster but would leave the Ukrainian government with less decisionmaking authority. Securing funding from international institutions would slow down the recovery, but it would also come with oversight to help guard against corruption. The authors, all students at the Pardee RAND Graduate School, write that “there are no easy and universally beneficial solutions in recovery efforts of this magnitude.” That's why assessing trade-offs is so important. Their findings may help lead to outcomes that are easier for both the Ukrainian people and the international community to understand and accept.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-05/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1683229431055.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Volunteers remove debris from the House of a Culture in the village of Ivanivka, which was heavily damaged during Russia's attack, in Chernihiv region, Ukraine, September 3, 2022, photo by Vladislav Musienko/Reuters"
+        }
+      },
+      {
+        "title": "Mental Health First Aid: Training People to Help Others",
+        "descriptions": "More than one in five American adults experience a mental illness in any given year. During Mental Health Awareness Month, we're revisiting RAND's evaluation of New York City's Mental Health First Aid training program. According to our survey results, 80 percent of trainees said they had used the skills they learned to help a friend or family member, and one-third said they had helped a stranger in the past six months. These findings suggest that Mental Health First Aid can have a lasting—and potentially life-changing—impact.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "An Opportunity to Learn from COVID-19 Successes and Failures",
+        "descriptions": "Photo by George Frey/Reuters U.S. pandemic response plans were no match for COVID-19. It's time to consider what can be done to better prepare for the next unknown threat, says RAND's Mahshid Abir. Fortunately, the upcoming reauthorization of the Pandemic and All-Hazards Preparedness Act, or PAHPA, offers just such an opportunity. As part of the reauthorization process, policymakers can assess the tough lessons of the last three years to develop a comprehensive health security strategy.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Principals Reveal Insights into School Staffing Struggles",
+        "descriptions": "In the spring of 2022, which coincided with a surge in COVID-19 infections, most principals struggled to keep their classrooms consistently staffed. That's according to a new RAND survey of school leaders. These principals also said that classroom vacancies had increased since the previous school year, largely because of declines in applications and accepted job offers. Notably, staffing issues were most prevalent at lower-income schools and schools serving mostly students of color.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-05/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1683229660058.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "A group of teachers walking in a school hallway, photo by kali9/Getty Images"
+        }
+      },
+      {
+        "title": "Hybrid Work Is Here to Stay. It's Time for Security to Catch Up",
+        "descriptions": "The COVID-19 public health emergency is set to expire next week, but millions of Americans continue to work from home. Workplace security practices are still struggling to adapt to this new normal, says RAND's Douglas Yeung. For example, for workers who require a security clearance, there isn't yet a digital alternative to physical requirements such as in-person fingerprints. As security practices evolve, they should “strive to support everyone who works,” Yeung says, “wherever they are.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "VA Modernization Challenges Go Beyond Software",
+        "descriptions": "Missing physician orders. System outages. Increased risk to patients. The new Veterans Affairs electronic health record system has had its share of problems. Decisions about next steps—fix the new system, rewrite the old one, or do something else entirely—are still to come. But it's not just about fixing the software, says RAND's Shira Fischer. The VA should also consider bigger-picture questions related to hospital standardization, VA culture, and patient safety.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

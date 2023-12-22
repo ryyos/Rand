@@ -1,0 +1,53 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:49:39.475390",
+  "crawling_time_epoch": 1703231379,
+  "type": "Q&A",
+  "title": "AI, ChatGPT, and Language as Technology: Q&A with William Marcellino",
+  "url": "https://www.rand.org/pubs/commentary/2023/05/ai-chatgpt-and-language-as-technology-qa-with-william.html",
+  "descriptions": "William Marcellino, a senior behavioral and social scientist at RAND and professor at the Pardee RAND Graduate School, discusses the rapidly expanding reach of artificial intelligence, the challenges it could pose for both society and policymakers, and how the research community is poised to help.",
+  "posted": "May 12, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/05/ai-chatgpt-and-language-as-technology-qa-with-william/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1683917707647.jpeg",
+    "desc": "ChatGPT user interface is seen on a smartphone screen over a keyboard, photo by Nikos Pekiaridis/NurPhoto via Reuters"
+  },
+  "content": {
+    "article": "",
+    "topics": [
+      {
+        "tag": "Data Analysis",
+        "blog": "https://www.rand.org/blog.topic.data-analysis.html"
+      },
+      {
+        "tag": "Emerging Technologies",
+        "blog": "https://www.rand.org/blog.topic.emerging-technologies.html"
+      },
+      {
+        "tag": "The Internet",
+        "blog": "https://www.rand.org/blog.topic.the-internet.html"
+      },
+      {
+        "tag": "Machine Learning",
+        "blog": "https://www.rand.org/blog.topic.machine-learning.html"
+      },
+      {
+        "tag": "Science, Technology, and Innovation Policy",
+        "blog": "https://www.rand.org/blog.topic.science-technology-and-innovation-policy.html"
+      }
+    ],
+    "questions": [],
+    "answers": [
+      "Artificial intelligence–powered chatbots like ChatGPT hold the potential to transform everything from social media scrolling to entire industries—and faster than William Marcellino would have imagined even just a few months ago. Marcellino, a senior behavioral and social scientist at RAND and professor at the Pardee RAND Graduate School, began his career as a corpus linguist, working with large datasets, and as a sociolinguist, “the old-fashioned, qualitative type,” as he put it, “who goes to live among people to learn their language.” Now, he finds himself at the intersection of these two disciplines, studying generative artificial intelligence applications that talk like humans—and, in some cases, even look like humans—but are actually powered by trillions of data points collected from the internet. We talked with Marcellino about the rapidly expanding reach of AI, the challenges it could pose for both society and policymakers, and how the research community is poised to help. What exactly is generative AI? William Marcellino Generative AI refers to a class of models that, because they have seen what has already been done, they can do a good job guessing at what might be done. An example would be large language models, or LLMs, which are the framework behind applications like ChatGPT. At a very basic level, ChatGPT has been trained on—we think—trillions of tokens of natural language collected from the internet, plus “third-party data” for GPT-4, which no one knows exactly what that means. The same is true for, say, a text-to-image video generator. In that case, it can take what has already been shown. And from that, what could be shown? These applications essentially turn words, images, sound data—any of these things—into very long numbers called embeddings. These long numbers, in addition to representing whatever the image or word is, also contain contextual information, like how that image or word is typically used or what it's usually associated with. That's how text-to-image models like DALL-E or Midjourney work. Text from a user is projected into a latent embeddings space that corresponds to images, which can then be “drawn,” or actually, uncovered from noise. Even more exciting—but also concerning—is that LLMs have exhibited agentic behavior. LLMs can take in user input, come up with courses of action, take those actions, evaluate the outcomes, then repeat and refine until they accomplish their goal. There are plenty of opportunities and challenges that come along with AI. Let's start with the former: What about this technology excites you? You know, my whole life I've been waiting for the Star Trek computer that can talk to you in natural language. And you know that RAND helped come up with that idea, right? You wrote about that in the Los Angeles Times a few years ago. The idea that we could replace these computer interfaces that are clunky and hard to use and just talk to them is incredible. I did! You know, the idea that we could replace these computer interfaces that are clunky and hard to use and just talk to them is incredible. As a linguist 13 years ago, I had a few pieces of clunky software that would let me do some work. Then later on, coding became easier. And now, when I want to code something, I just describe conceptually what I want to analyze to an LLM, and it helps me code. We also now have the ability to do really cool, useful stuff. The coolest project I've ever been involved with is something I'm working on right now at RAND with Peter Schirmer, RAND's director for emerging policy research and methods, and Zev Winkelman, a senior information scientist. We are building a smaller-purpose, ChatGPT-like tool for the U.S. Army. We're teaching it how to talk like a soldier, how to understand Army knowledge of doctrine and culture, as a resource for enlisted service members. I used to be a junior enlisted Marine before I became an officer, and I was a bit mischievous. So, we're imagining: How do you make this thing useful and good, but maybe not vulnerable to someone who just wants to be kind of devilish? And what are some of the trade-offs and potentially dangerous scenarios associated with advancements in AI? I think one of the national security dimensions that we need to confront now is that human beings are used to verifying the world with their physical senses. Seeing is believing. But starting just a few months ago, there is no longer any guarantee that what you see on the internet is real. Actors in China have already stated that they plan to use this technology to create what they call “public opinion guidance” online, to censor AI and “help people think correct thoughts.” We should expect to see that type of disinformation and what we call “astroturfing,” which is propaganda designed to look like a grassroots campaign—giving the sense that lots of people believe a sentiment, when that's not actually true or real. How might existing research help prepare the public for what's to come in this rapidly developing field? That is one of the challenges of AI—scientific community–published research is literally years behind the technology. So, in addition to my work at RAND, I keep up with nontraditional sources like arXiv, an open-access research archive, and even language technology Reddit. RAND has a lot of experience using machine learning to do all kinds of things—for example, trying to predict whether Army contracts are going to fully spend their money. The idea that we can use machines to model things at scale is not new to us. I think RAND's strength in this area is that we have experts from diverse disciplines and policy analysts working together on this. Our data scientists aren't simply siloed somewhere in the organization. We have data scientists sprinkled throughout, and then we have people like me who aren't data scientists but who understand these concepts enough to be able to do something with them in the areas we do understand. That, I think, will continue to be really powerful. —Maria Gardner"
+    ],
+    "all_url": [
+      "https://www.rand.org/about/people/m/marcellino_william.html",
+      "https://www.rand.org/pubs/perspectives/PEA1043-1.html",
+      "https://www.wired.com/story/text-to-video-ai-generators-filmmaking-hollywood/",
+      "https://arxiv.org/",
+      "https://www.reddit.com/r/LanguageTechnology/",
+      "https://www.rand.org/topics/machine-learning.html",
+      "https://www.rand.org/pubs/research_reports/RRA106-1.html",
+      "https://www.rand.org/topics/artificial-intelligence.html"
+    ]
+  }
+}

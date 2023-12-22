@@ -1,0 +1,73 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 14:42:09.921459",
+  "crawling_time_epoch": 1703230929,
+  "type": "Media Advisory",
+  "title": "RAND Experts to Discuss Surge in Misinformation/Disinformation Amid Israel-Hamas War",
+  "url": "https://www.rand.org/news/advisories/2023/10/18.html",
+  "descriptions": "RAND experts will discuss the rapidly degrading environment for authentic information about the Israel-Hamas war, amplified by the proliferation of generative AI. They'll discuss the roles and responsibilities of social media platforms as well as the implications of widespread disinformation on both national security and violence in the United States.",
+  "posted": "Oct 18, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/advisories/2023/10/18/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1697665338112.jpeg",
+    "desc": "Map of southern Israel with a magnifying glass enlarging Gaza Strip, photo by pawel.gaul/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "What": "RAND experts will discuss the rapidly degrading environment for authentic information about the Israel-Hamas war, amplified by the proliferation of generative AI. They'll discuss the roles and responsibilities of social media platforms as well as the implications of widespread disinformation on both national security and violence in the United States."
+      },
+      {
+        "Who": ""
+      },
+      {
+        "When": "Thursday, October 19, 1:00 pm ET/10:00 am PT"
+      },
+      {
+        "Where": "To join this virtual conversation, please contact media@rand.org for a link. Please note this discussion is limited to journalists."
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "topics": [
+      {
+        "url": "https://www.rand.org/topics/artificial-intelligence.html",
+        "tag": "Artificial Intelligence"
+      },
+      {
+        "url": "https://www.rand.org/topics/information-operations.html",
+        "tag": "Information Operations"
+      },
+      {
+        "url": "https://www.rand.org/topics/israel.html",
+        "tag": "Israel"
+      },
+      {
+        "url": "https://www.rand.org/topics/palestinian-territories.html",
+        "tag": "Palestinian Territories"
+      },
+      {
+        "url": "https://www.rand.org/topics/social-media.html",
+        "tag": "Social Media"
+      },
+      {
+        "url": "https://www.rand.org/topics/terrorism.html",
+        "tag": "Terrorism"
+      },
+      {
+        "url": "https://www.rand.org/topics/united-states.html",
+        "tag": "United States"
+      },
+      {
+        "url": "https://www.rand.org/topics/warfare-and-military-operations.html",
+        "tag": "Warfare and Military Operations"
+      }
+    ],
+    "Article": ""
+  }
+}
