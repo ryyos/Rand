@@ -8,11 +8,13 @@ from time import time
 from libs.helpers.Parser import Parser
 from libs.helpers.Writer import Writer
 from libs.service.downloader import Downloader
+from libs.utils.Logs import Logs
 
 class Search:
     def __init__(self) -> None:
         self.__parser = Parser()
         self.__writer = Writer()
+        self.__logs = Logs()
         self.__download = Downloader()
         self.__base_url = 'https://www.rand.org'
         self.__user_agent = FakeUserAgent()
@@ -23,7 +25,7 @@ class Search:
 
     def complement_url(self, pieces_url: str) -> str:
         try:
-            if self.__base_url not in pieces_url:
+            if "https://" not in pieces_url:
                 return self.__base_url+pieces_url
             return pieces_url
         except Exception:
@@ -32,6 +34,65 @@ class Search:
 
     def split_string(self, input_string: str, many: int):
         return [input_string[i:i+many] for i in range(0, len(input_string), many)]
+
+
+    def testimony(self, url_artc: str) -> dict:
+        response = requests.get(url=url_artc, headers=self.__headers)
+        html = PyQuery(response.text)
+
+        body = html.find(selector="#srch")
+        side = html.find(selector="#srch > div.product-body > div.product-right")
+
+
+        ic(body.find(selector="#download > div > div > table tr:nth-child(2) > td.dl > span.format-pdf > a").attr('href'))
+        path = f"data/pdf/{self.__parser.ex(html=body, selector='#RANDTitleHeadingId').text().replace(' ', '_')}.pdf"
+
+        self.__download.ex(path=path, \
+                           url=self.complement_url(body.find(selector="#download > div > div > table tr:nth-child(2) > td.dl > span.format-pdf > a").attr('href')))
+        results = {
+            "path_data_pdf": path,
+            "descriptions": self.__parser.ex(html=body, selector="div.product-body > div.product-main > div.abstract.product-page-abstract > p").text(),
+            "author": {
+                "name": self.__parser.ex(html=body, selector="div.product-header.full-bg-gray > div > div.eight.columns > div > p > a").text(),
+                "profile": self.complement_url(self.__parser.ex(html=body, selector="div.product-header.full-bg-gray > div > div.eight.columns > div > p > a").attr('href')),
+            },
+            "topics": [
+                {
+                    "tag": self.__parser.ex(html=tag, selector="a").text(),
+                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                } for tag in side.find(selector="aside:nth-child(2) > ul > li")],
+            "details": [
+                {
+                    PyQuery(detail).text().split(":")[0] : PyQuery(detail).text().split(":")[-1]
+                } for detail in side.find(selector="aside.document-details > ul li")],
+        }
+
+        return results
+
+
+
+
+    def qna(self, url_artc: str) -> dict:
+        response = requests.get(url=url_artc, headers=self.__headers)
+        html = PyQuery(response.text)
+
+        body = html.find(selector="#srch > article > div.constrain-width")
+        side = html.find(selector="#srch > article > div.constrain-width > div.blog-column-right")
+
+        results = {
+            "article": self.__parser.ex(html=body, selector="div.body-text > p").text(),
+            "topics": [
+                {
+                    "tag": self.__parser.ex(html=tag, selector="a").text(),
+                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                } for tag in side.find(selector="aside.related-topics > ul > li")],
+            "questions": [q.text.replace("\r", "") for q in body.find(selector="div.body-text > div.q-a > h2.question")],
+            "answers": [self.__parser.ex(html=ans, selector="p").text() for ans in body.find("div.body-text > div.q-a")],
+            "all_url": [self.complement_url(PyQuery(url).attr('href')) for url in body.find("div.body-text p a")]
+        }
+
+        return results
+
 
 
     def media_advisory(self, url_artc: str) -> dict:
@@ -236,8 +297,8 @@ class Search:
         return results
         
 
-    def exstract_data(self, pieces_table: str):
-            
+    def exstract_data(self, pieces_table: str, status: int) -> dict:
+
         results = {
             "domain": "www.rand.org",
             "crawling_time": str(datetime.now()),
@@ -252,8 +313,14 @@ class Search:
                 "desc": self.__parser.ex(html=pieces_table, selector='div.img-wrap a img').attr('alt'),
             }
         }
+        
+        self.__logs.info(status=status,\
+                        title=results.get("title"),\
+                        type=results.get("type"),\
+                        url=results.get("url"),\
+                        )
 
-        ic(self.__parser.ex(html=pieces_table, selector='div.text h3.title').text())
+
         match self.__parser.ex(html=pieces_table, selector='div.text p.type').text():
             case "Commentary":
                 results.update({
@@ -290,6 +357,16 @@ class Search:
                     "content": self.media_advisory(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
                 })
 
+            case "Q&A":
+                results.update({
+                    "content": self.qna(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+                })
+
+            case "TESTIMONY":
+                results.update({
+                    "content": self.testimony(url_artc=self.__parser.ex(html=pieces_table, selector='div.text h3.title a').attr('href'))
+                })
+
             case _:
                 ic("belum ada")
                 ic(self.__parser.ex(html=pieces_table, selector='div.text p.type').text())
@@ -300,15 +377,13 @@ class Search:
 
     def execute(self, url: str):
         response = requests.get(url=url, headers=self.__headers)
-        ic(response)
         html = PyQuery(response.text)
         table = html.find(selector='#results > ul')
 
-        if len(table) == 0: return "clear"
+        if len(html.find(selector='#results > ul > li')) == 1: return "clear"
 
         for line in table.find('li'):
-            results = self.exstract_data(pieces_table=line)
-            self.__writer.ex(path=f'data/{results.get("title").replace(" ", "_").replace(":", "").replace("?", "")}.json', content=results)
-            return "extant"
+            results = self.exstract_data(pieces_table=line, status=response.status_code)
+            self.__writer.ex(path=f'data/json/{results.get("title").replace(" ", "_").replace(":", "").replace("?", "")}.json', content=results)
             
 

@@ -11,7 +11,7 @@ class Downloader:
             'User-Agent': self.__user_agent.random
         }
 
-    def download(self, url: str):
+    def ex(self, url: str, path: str):
         response = requests.get(url=url, headers=self.__headers)
         print(response)
-        self.__writer.eby('private/file.pdf', media=response)
+        self.__writer.eby(path=path, media=response)

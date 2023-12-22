@@ -23,15 +23,12 @@ class Logs:
         logger.addHandler(console)
         logger.addHandler(file_log)
 
-    def info(self, offset: int, status: int, requests: str, response: any) -> None:
+    def info(self, status: int, type: str, title: str, url: str) -> None:
         logger = logging.getLogger()
-        logger.info(f"requests: {requests}")
-        logger.info(f"offset: {offset}")
+        logger.info(f"type: {type}")
+        logger.info(f"title: {title}")
+        logger.info(f"url: {url}")
         logger.info(f"status: {status}")
-        logger.info(f"locations: {response['location'].get('name')}")
-        logger.info(f"type: {response['location'].get('type')}")
-        logger.info(f"Latitude: {response['location'].get('lat')}")
-        logger.info(f"longitude : {response['location'].get('lon')}")
 
     def err(self,response: any, requests: str) -> None:
         logger = logging.getLogger()
