@@ -1,0 +1,50 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:19:12.803279",
+  "crawling_time_epoch": 1703240352,
+  "type": "News Release",
+  "title": "Repurposing Commercial Buildings Could Help L.A. Meet Housing Needs, but Financial, Regulatory Barriers Exist",
+  "url": "https://www.rand.org/news/press/2022/04/06.html",
+  "descriptions": "Repurposing underutilized commercial properties such as hotel/motels and vacant office buildings could provide about 9% to 14% of the housing Los Angeles County needs to produce over the next eight years.",
+  "posted": "Apr 6, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Jason M. Ward",
+      "profession": "Co-Director, RAND Center on Housing and Homelessness",
+      "biography": "Jason Ward is an economist at RAND, co-director of the RAND Center on Housing and Homelessness, and a professor of policy analysis at Pardee RAND Graduate School. His work uses the tools of applied microeconomics to study housing and homelessness policy, labor markets, and education and health…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/w/ward_jason_m/_jcr_content/par/bio.crop.130x130.cm.jpeg/1600774842640.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Jason Ward"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      },
+      {
+        "research": "RAND Center on Housing and Homelessness in Los Angeles",
+        "profile": "https://www.rand.org/well-being/community-health-and-environmental-policy/centers/housing-and-homelessness-los-angeles.html"
+      }
+    ],
+    "tags": [
+      "Homelessness",
+      "Housing Markets",
+      "Los Angeles",
+      "Urban Planning",
+      "www.rand.org"
+    ],
+    "Article": "Repurposing underutilized commercial properties such as hotel/motels and vacant office buildings could provide about 9% to 14% of the housing Los Angeles County needs to produce over the next eight years, according to a new RAND Corporation report. The financial feasibility of such efforts, known as adaptive reuse, is mixed, with the conversion of hotel/motel properties appearing to be broadly feasible. But adaptive reuse of office properties—the most common commercial property type—depends significantly on area-specific real estate prices and on the size of the residential units to be produced, according to the analysis. “Repurposing commercial buildings to help address Los Angeles County's housing shortage is a compelling idea, but the economics and logistics of such projects are complex,” said Jason Ward, the study's lead author and an economist at RAND, a nonprofit research organization. “Significant incentives for the conversion of these properties to both market-rate and affordable housing may be needed to realize the full potential of adaptive reuse.” In 1999, lawmakers in the city of Los Angeles introduced an adaptive reuse ordinance for the city's downtown area to foster the redevelopment of scores of vacant buildings that were too costly and time-consuming to redevelop under existing law. The law included a suite of planning exemptions intended to reduce permitting time for such projects from 30 months to 6 months. Housing production in downtown Los Angeles has been one of the few success stories in the city's recent history of housing production. Approximately one-third of the roughly 37,000 new housing units developed in the downtown area since 2000 have been created through adaptive reuse. RAND researchers assessed the number and size of underutilized commercial properties by examining information from the real estate data service CoStar, which maintains an extensive database of commercial real estate. The team also distilled insights from a series of expert interviews with practitioners of adaptive reuse, including developers of both market rate and affordable housing. Also consulted were architects and engineers to understand the unique aspects of the adaptive reuse process, and how policy affects the financial and logistical feasibility of adaptive reuse. The RAND analysis identified about 2,300 potentially underutilized commercial properties that, if fully utilized for residential purposes, could theoretically produce 72,000 to 113,000 units of housing in Los Angeles County, depending on the mix of unit sizes. That housing would be about 9% to 14% of the total housing that Los Angeles County needs to produce in the next eight years according to the sixth cycle of the statewide Regional Housing Needs Assessment process. The report found that hotel/motel properties appear to be the most feasible property type for conversion, conditional on converting existing rooms directly to housing units. The feasibility of office properties varies, with larger apartment types (one- and two-bedroom) appearing generally infeasible financially, but denser studio apartments showing more promise. The study also developed a simple index ranking neighborhoods in Los Angeles and adjacent cities according to their desirability as a site for new housing, using common social and environmental goals such as employment density, existing rent levels, access to higher-quality transit, and commuting time. An analysis using this index found that hotel and motel properties are primarily located in lower-ranked areas, while office properties are more common in higher-ranked areas. “Incorporating social and environmental criteria in the siting of potential housing around the region reveals that there is a significant disconnect between projects that might be financially feasible at market prices and projects that would further these larger goals,” Ward said. “This suggests that there may be a significant role for financial and regulatory incentives to help ensure that new housing can be created where it is most sorely needed.” The report suggests that such incentives could include using an index-based approach to offer tiered levels of allowable density or other regulatory flexibility—similar to the city's existing Transit Oriented Communities program—or to allocate public funding for affordable housing production using repurposed commercial properties. The report also suggests that providing formal guidance around the applicability of alternative building codes and locking in building codes and code guidance for the life of an adaptive reuse project at time of approval, are regulatory reforms that could further boost adaptive reuse. Support for the report, “Can Adaptive Reuse of Underutilized Commercial Real Estate Address the Housing Crisis in Los Angeles?” was provided by the Lowy Family Group through its funding of the RAND Center on Housing and Homelessness in Los Angeles. The report was coauthored by Daniel Schwam. The RAND Social and Economic Well-Being division seeks to actively improve the health, and social and economic well-being of populations and communities throughout the world."
+  }
+}

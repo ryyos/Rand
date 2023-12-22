@@ -1,0 +1,95 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:17:20.974901",
+  "crawling_time_epoch": 1703240240,
+  "type": "Blog",
+  "title": "The Racial Wealth Gap, the Effects of Long COVID, Teacher Diversity: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2022/weekly-recap-december-09.html",
+  "descriptions": "This weekly recap focuses on understanding the racial wealth gap, why long COVID may threaten the U.S. economy, what prevents people of color from becoming and staying teachers, and more.",
+  "posted": "Dec 9, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-09/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1670617090923.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "China",
+      "Coronavirus Disease 2019 (COVID-19)",
+      "Economic Policy",
+      "Employment and Unemployment",
+      "Geopolitical Strategic Competition",
+      "Nation Building",
+      "Opioids",
+      "Political Reform Movements",
+      "Racial Equity",
+      "Substance Use Disorder Treatment",
+      "Teachers and Teaching",
+      "Ukraine",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss the racial wealth gap and potential solutions to address it; China’s global basing ambitions; why long COVID could lead to a “mass disability event”; a decline in opioid disorder treatment early in the pandemic; what prevents people of color from becoming and staying teachers; and three keys to rebuilding Ukraine after the war.",
+    "sub_article": [
+      {
+        "title": "Understanding the Racial Wealth Gap",
+        "descriptions": "Compared with Black Americans, white Americans make 73 percent more in annual income, are about two times more likely to own their home, hold 10 times more wealth, and are 28 times more likely to become millionaires. In a new series of discussion papers, RAND researchers examine these stark inequities, presenting a model for wealth accumulation, assessing challenges facing the Black middle class, and considering policy options to help close the racial wealth gap. The authors conclude that a “historic intervention” in the form of targeted wealth-allocation policies—also known as reparations—could address the problem. But truly eliminating the racial wealth gap would only be possible through broader policies that reduce overall wealth inequality in America.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-09/_jcr_content/par/blogpost/par-blog/wrapperdiv/imagewithclass.fit.800x0.png/1670615996150.png",
+          "width": "800",
+          "height": "450",
+          "desc": "A man's profile in front of an abstract image of branches and hundred dollar bills, illustration by Kekeli Sumah/RAND Corporation, from Andre Hunter/Unsplash and Pete Soriano/RAND Corporation, from Atlas Illustrations/Adobe Stock and dar/Adobe Stock"
+        }
+      },
+      {
+        "title": "China's Global Basing Ambitions",
+        "descriptions": "Photo by Xinhua/Alamy Determined to become a leading global military power, China seeks to establish a network of overseas military bases. And according to a new RAND report, the growth of China's military presence overseas is a matter of when, not if. The authors identify where China is most likely to pursue bases—Pakistan, Bangladesh, Cambodia, and Myanmar top the list—and how the United States might respond.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-09/_jcr_content/par/blogpost/par-blog/wrapperdiv_1696105391/imagewithclass_copy.fit.800x0.jpeg/1670616121376.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "The foundation stone laying ceremony of the support base of China's PLA in Djibouti, August 1, 2017, photo by Xinhua/Alamy"
+        }
+      },
+      {
+        "title": "Opioid Disorder Treatment in the Early Pandemic",
+        "descriptions": "Photo by Kris Tripplaar/Reuters Buprenorphine is a drug used to treat opioid use disorder. According to a new RAND study, the number of active prescriptions for buprenorphine remained constant during the first year of the pandemic. However, the number of new prescriptions was 17 percent lower than expected. Health care delivery disruptions related to COVID-19 may have contributed to such a steep drop in new patients starting the treatment.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-09/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1670616220023.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Packages of Suboxone photographed in a pharmacy in Remington, Virginia, February 26, 2019, photo by Kris Tripplaar/Reuters"
+        }
+      },
+      {
+        "title": "Long COVID Is a Mass Disability",
+        "descriptions": "Photo by Mark Mirko/TNS/ABACA via Reuters An estimated 25 percent of COVID-19 patients will experience symptoms lasting months, causing many to lose earnings and jobs, or end up out of the labor force entirely. This is especially true for the millions of American workers without paid sick days or short-term disability insurance. According to RAND economist Kathryn Edwards, the U.S. economy may be approaching a “mass disability event” that it isn't well prepared to handle.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-09/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1670616310127.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Kathy Spencer sorts the dozens of pills she must take since contracting COVID-19 in November 2020, in Kensington, Connecticut, January 11, 2022, photo by Mark Mirko/TNS/ABACA via Reuters Connect"
+        }
+      },
+      {
+        "title": "Recruiting and Retaining Teachers of Color",
+        "descriptions": "Evidence shows that all students, especially Black and Latino students, benefit from having teachers who are people of color. Yet, America's teaching workforce is far less racially diverse than its student body. What could help get more teachers of color into the classroom—and ensure they stay in the education workforce? A recent RAND study reveals two keys: reducing the costs of becoming and being a teacher, and creating inclusive, collegial school environments.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The Politics of Ukrainian Reconstruction",
+        "descriptions": "Photo by Vyacheslav Madiyevskyy/Ukrinform/Abaca Press via Reuters When the fighting in Ukraine subsides, the country may undergo reconstruction on the scale of the post–World War II Marshall Plan. RAND experts recently broke down key considerations for a successful rebuilding effort, including prioritizing projects, funding sources, and the need for reforms related to government spending in Ukraine. Preparing for post-war construction now is another way the West can show its support for the Ukrainian people, they say.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

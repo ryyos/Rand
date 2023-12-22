@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:18:42.337271",
+  "crawling_time_epoch": 1703240322,
+  "type": "News Release",
+  "title": "Rise in U.S. Firearm Homicides Disproportionately Affecting South-Central and Midwest States",
+  "url": "https://www.rand.org/news/press/2022/07/14.html",
+  "descriptions": "A rise in U.S. firearm homicides in recent years has primarily affected states in the South-Central and Midwest portion of the nation, as well as disproportionately affecting people who are American Indians, Alaska Natives, and Black.",
+  "posted": "Jul 14, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2022/07/14/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1658350446559.jpeg",
+    "desc": "A customer looks at a handgun at The Armories in Kissimmee, Florida, December 31, 2020, photo by Ricardo Ramirez Buxeda/TNS/ABACA via Reuters"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Rosanna Smart",
+      "profession": "Codirector, RAND Drug Policy Research Center",
+      "biography": "Rosanna Smart is a senior economist at RAND, codirector of the RAND Drug Policy Research Center, and affiliate faculty of the Pardee RAND Graduate School. Her research is in applied microeconomics, with a focus on issues related to health behaviors, illicit markets, drug policy, and the…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/s/smart_rosanna/_jcr_content/par/bio.crop.130x130.cm.jpeg/1541448006229.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Rosanna Smart"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "tags": [
+      "Firearms",
+      "Gun Violence",
+      "Homicide",
+      "Midwestern States",
+      "Southern States",
+      "www.rand.org"
+    ],
+    "Article": "A rise in U.S. firearm homicides in recent years has primarily affected states in the South-Central and Midwest portion of the nation, as well as disproportionately affecting people who are American Indians, Alaska Natives, and Black, according to a new RAND Corporation study. While overall rates of racial and geographic disparities in firearm homicides declined in previous decades, the recent spike in firearm killings has reversed that improvement, worsening long-existing disparities. Examining firearm-related homicides from 2006 through 2019, researchers found that trends across the nation varied widely. But the regions and demographic groups that historically have been hard hit by gun violence were more likely to see higher recent increases. The findings are published in the July 14 edition of the New England Journal of Medicine. “Many of the demographic groups that already were heavily exposed to firearm violence have experienced some of the largest recent increases in firearm homicides,” said Rosanna Smart, the study's lead author and an economist at RAND, a nonprofit research organization. “Unfortunately, this ongoing spike in firearm killings has reversed a trend that saw disparities waning over the previous two decades.” After a long period of decline, the rate of homicides in the United States began increasing in 2014. That rise has been driven entirely by a rise in firearm homicides, which diverged from the trend in nonfirearm homicide in the late 2000s and starkly separated from it in 2014. Firearm homicides reached a rate of 4.4 deaths per 100,000 people in 2019. In that year, firearms use accounted for three of every four homicides—the highest ratio since systematic data on homicide mechanisms became available. The ratio has grown even larger since the end of the study period. Although the recent rise in nationwide homicide rates has been widely reported, limited research has evaluated the extent to which the increase is a national phenomenon or is concentrated among geographic areas and certain demographic groups. RAND researchers used mortality microdata from 2006 through 2019 to estimate changes in state-specific rates of firearm homicides during the period. The analysis controlled for demographic characteristics and county urbanicity in the state-specific results. On average, after decreasing by 1 percent annually from 2006 to 2014, firearm homicide rates increased by 6 percent annually from 2014 to 2019. During the period of rising firearm homicides, trends across the 50 U.S. states and the District of Columbia varied substantially. Many of the states with the highest risk in 2014 also had the largest relative increases in risk over time, thereby compounding existing geographic disparities. Among the most notable divergences were the relatively worsening conditions in some Midwest and South-Central states, where there were increases of firearm homicides of 75 percent to 115 percent. Adjusting for demographics, the states that experienced the largest relative increases in firearm homicides were Missouri, Alaska, New Mexico, Kentucky, and Alabama. The states that experienced the lowest relative increases were Connecticut, New York, Nebraska, New Jersey, and Massachusetts. As with the widening geographic disparities, researchers found there was strong evidence of recent trends having diverged substantively across demographic groups in ways that worsened preexisting disparities in the risk of firearm homicide. After accounting for age, urbanicity, sex, and state, the annual increase in the rate of firearm homicide from 2014 to 2019 was 7 percent higher among American Indians and Alaska Natives than it was among non-Hispanic whites. The rate of increased firearm homicide also was 2 percent higher among non-Hispanic Black people than it was among non-Hispanic white people. “These increases are specific to firearm homicide and are not mirrored in trends in other types of homicides,” Smart said. “Research is urgently needed to understand the societal shifts that contribute to these large changes in firearm violence within particular groups and to identify ways to reverse those trends.” Support for the research was provided by the National Institutes of Health and the federal Centers for Disease Control and Prevention. Other authors of the study are Terry L. Schell, Andrew R. Morral, and Nancy Nicosia. The RAND Social and Economic Well-Being division seeks to actively improve the health, social, and economic well-being of populations and communities throughout the world."
+  }
+}

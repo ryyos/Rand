@@ -1,0 +1,98 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:08:36.492124",
+  "crawling_time_epoch": 1703239716,
+  "type": "Blog",
+  "title": "Unidentified Aerial Phenomena, Neurodiversity, Russia's 'Forever War': RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-july-28.html",
+  "descriptions": "This weekly recap focuses on public reports of unidentified aerial phenomena, neurodiversity and national security, Ukraine's path to victory, and more.",
+  "posted": "Jul 28, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1690482926064.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Autism Spectrum Disorders",
+      "Civilian and Commercial Drones",
+      "Depression",
+      "Geopolitical Strategic Competition",
+      "Health Interventions",
+      "Military Health and Health Care",
+      "National Security Organizations",
+      "Pain Management",
+      "Posttraumatic Stress Disorder",
+      "Russia",
+      "Substance Use Disorders",
+      "Taiwan",
+      "Threat Assessment",
+      "Ukraine",
+      "United States",
+      "Warfare and Military Operations",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss public reports of unidentified aerial phenomena; the effects of a potential change in U.S. policy toward Taiwan; how neurodiversity can help national security organizations; treatment for people facing opioid use disorder and mental illness; Ukraine's path to victory; and pain care for U.S. service members.",
+    "sub_article": [
+      {
+        "title": "Where Are Americans Reporting Unidentified Aerial Phenomena?",
+        "descriptions": "The federal government is responsible for tens of millions of square miles of airspace, and it has finite resources to monitor this vast area. At the same time, more people and companies are operating commercially available drones, which both capture and contribute to increased activity in the skies. Public reports of unidentified aerial phenomena, or UAPs, could help U.S. officials identify potential threats from above. A new RAND report dives into the existing data, analyzing more than 100,000 public reports of UAP sightings across the country. (Our analysis should not be interpreted as an endorsement of any individual reports, however.) The most consistent and statistically significant finding: Reported sightings were more likely to occur in areas within 30 kilometers of military operations areas, where routine military training occurs. This suggests that some UAPs may be authorized military aircraft. To continue gathering valuable insights such as these—and to monitor the wide range of threats lurking in our skies more effectively—the authors recommend building a robust system for reporting UAP sightings.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1690479243870.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A drone or other object in the sky during a colorful sunset, photo by Наталья Босяк/Adobe Stock"
+        }
+      },
+      {
+        "title": "How Would Allies View Changes in U.S. Policy Toward Taiwan?",
+        "descriptions": "Photo by Florence Lo/Reuters A new RAND study considers how America's Indo-Pacific allies—Japan, South Korea, and the Philippines—might react if the United States either increased or decreased support to Taiwan. Japan favors increases in many forms of U.S. diplomatic and military support, while South Korea and the Philippines favor the status quo. All three countries oppose reductions in American support to Taiwan, seeing it as a signal of waning U.S. commitment to their own security.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1690479700012.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Visitors stand in front of a giant screen displaying a map of locations around Taiwan where Chinese People's Liberation Army (PLA) conducted military exercises in August, at an exhibition during an organized media tour ahead of the 20th National Congress of the Communist Party of China, in Beijing, China, October 12, 2022, photo by Florence Lo/Reuters"
+        }
+      },
+      {
+        "title": "National Security Organizations Need Neurodiversity",
+        "descriptions": "Within the U.S. intelligence community, archaic policies—combined with dated understandings about autism spectrum disorder—have created an environment where neurodiversity is not valued. This leads many autistic or otherwise neurodivergent people working in the field to hide their diagnoses. A recent study led by RAND's Cortney Weinbaum shows that national security organizations are missing out on key benefits by failing to embrace those who don't use their brains in “typical” ways.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1690479437790.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Silhouettes of human heads with representations of variation in the human brain, photo by VectorMine/Getty Images"
+        }
+      },
+      {
+        "title": "Transforming Care for Patients with Mental Health and Opioid Use Disorders",
+        "descriptions": "Millions of people in the United States have opioid use disorder. And for many of them, this isn't the only health challenge they face. Studies suggest that more than a quarter of those with opioid use disorder also have a serious mental illness, such as depression or PTSD. A recent RAND study examined a promising new treatment program for those struggling with these co-occurring conditions. The key to its success: collaboration.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.png/1690479535349.png",
+          "width": "800",
+          "height": "450",
+          "desc": "Bright colorful human hands over a floral pattern, design by Dori Walker/RAND Corporation from proksima/Getty Images"
+        }
+      },
+      {
+        "title": "Ukraine Is Russia's 'Forever War'",
+        "descriptions": "Photo by Celestino Arce/NurPhoto/Reuters Many believe that the war in Ukraine can only end at the negotiating table. But RAND's Brian Michael Jenkins argues that Ukraine is right to think that talks with Russia will only lead to more aggression. Russian President Vladimir Putin may not even be willing to negotiate anything other than ending Western support for Ukraine, he says. This is one reason why NATO should focus on ensuring the war is a Russian quagmire. “That is Ukraine's path to victory,” Jenkins says, “and Russia knows it.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1690479693176.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A boy waves a Ukrainian flag as an armored vehicle from the Ukrainian army goes to the Bakhmut frontlines, in Sloviansk, Ukraine, June 27, 2023, photo by Celestino Arce/NurPhoto/Reuters"
+        }
+      },
+      {
+        "title": "Delivering Exceptional Pain Care to Service Members",
+        "descriptions": "Pain is the leading cause of disability among active-duty service members. A new RAND study looks at how the Military Heath System treats patients with acute and chronic pain—and how it might improve. The authors find that providers already take steps to mitigate the risk of opioid misuse or dependence when prescribing pain medication. But they would still benefit from more training on opioid prescribing. Additionally, more could be done to remove barriers to nonpharmacologic treatment.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-july-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1690479778011.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Physical Therapist wearing Operational Camouflage Pattern helps a male patient. Photo by Army Enterprise Marketing Office (AEMO)"
+        }
+      }
+    ]
+  }
+}

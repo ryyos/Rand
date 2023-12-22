@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:19:22.405697",
+  "crawling_time_epoch": 1703240362,
+  "type": "Announcement",
+  "title": "Hans Pung interviewed by Global Philanthropic",
+  "url": "https://www.rand.org/randeurope/about/news/2022/hans-pung-interviewed-by-global-philanthropic.html",
+  "descriptions": "As part of Global Philanthropic's 20th anniversary, they interviewed RAND Europe president Hans Pung, one of 20 selected leaders in philanthropy and the nonprofit sector.",
+  "posted": "Mar 16, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/randeurope/about/news/2022/hans-pung-interviewed-by-global-philanthropic/_jcr_content/par/teaser.crop.250x187.cm.png/1657890234241.png",
+    "desc": ""
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "",
+      "name": "",
+      "profile": null,
+      "profession": "",
+      "profile_picture": {
+        "url_pict": null,
+        "width": null,
+        "height": null,
+        "desc": null
+      },
+      "Article": "This video is hosted by YouTube. RAND is not responsible for any materials originating from this third-party server. 16 March 2022 As part of Global Philanthropic's 20th anniversary, the organisation interviewed RAND Europe president Hans Pung, one of 20 selected leaders in philanthropy and the nonprofit sector. In the video, Hans and Global Philanthropic associate Matthew Moss discuss the long term impact the pandemic could have on education for this generation of youth and the impact of mental health on society during the pandemic."
+    }
+  }
+}

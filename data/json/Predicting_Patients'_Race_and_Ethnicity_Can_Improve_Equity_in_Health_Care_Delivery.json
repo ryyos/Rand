@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:18:40.531390",
+  "crawling_time_epoch": 1703240320,
+  "type": "News Release",
+  "title": "Predicting Patients' Race and Ethnicity Can Improve Equity in Health Care Delivery",
+  "url": "https://www.rand.org/news/press/2022/08/01.html",
+  "descriptions": "Algorithms designed to guide medical care can contribute to racially inequitable outcomes, but eliminating information about patient race and ethnicity as an input to algorithms is not the right way to address the issue.",
+  "posted": "Aug 1, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2022/08/01/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1661278073475.jpeg",
+    "desc": "Young Black man having blood drawn, photo by miodrag ignjatovic/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Marc N. Elliott",
+      "profession": "Distinguished Chair in Statistics",
+      "biography": "Marc N. Elliott is a senior principal researcher at the RAND Corporation and holds its Distinguished Chair in Statistics. His areas of interest include health equity, quality measurement, Medicare, healthcare experiences, survey sampling, experimental design, causal inference, and case-mix…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/e/elliott_marc_n/_jcr_content/par/bio.crop.130x130.cm.jpeg/1495299154938.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Marc Elliott"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "tags": [
+      "Health Care Quality",
+      "Health Equity",
+      "Health Information Technology",
+      "Racial Equity",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "Algorithms designed to guide medical care can contribute to racially inequitable outcomes, but eliminating information about patient race and ethnicity as an input to algorithms is not the right way to address the issue, according to new analysis from the RAND Corporation. Instead, using tools to estimate racial and ethnic information about patients where self-identified information is not available actually could catalyze efforts to both improve health care algorithms and empower clinicians to reduce bias in the way they practice. The analysis is published in the August edition of the journal Health Affairs. “Knowledge of race and ethnicity—not ignorance—is necessary to combat algorithmic bias,” said Marc Elliott, the paper's senior author and a senior principal statistician at RAND, a nonprofit research organization. “Imputing race and ethnicity information can expand opportunities to not only identify algorithmic bias, but also combat bias in both clinical and nonclinical settings.” Algorithms—well-defined mathematical procedures for deriving predictions or scores from information—are widely used to aid decisionmaking in health care. Such tools affect decisions about who receives care, the type of care they receive, how the care is provided, and at what cost. Health care algorithms are developed with the goals of improving quality of care by minimizing variation in clinical decisionmaking, promoting greater adherence to best practices, and maximizing the efficient use of scarce resources. For example, multiple studies have found that scores derived from algorithms predict strep throat infections and identify cancerous skin lesions more accurately than clinical assessments. As use of algorithms in health care has grown, there has been a growing recognition that the tools can have the unintended consequence of codifying racial and ethnic biases, potentially perpetuating worse outcomes for patients. For example, a widely used algorithm developed to help guide care for heart failure has been shown to deflate the risk scores of Black patients relative to similar patients of other races. In another case, a commonly used algorithm for predicting the success of vaginal birth after a prior cesarean delivery predicts lower success for Black and Hispanic mothers relative to similar white mothers. RAND researchers say that although biases harbored by algorithms can result in inequitable outcomes, in many cases biased human decisionmaking is the status quo alternative to algorithmic bias. In fact, algorithmic biases often occur when an algorithm learns to detect disparities that are already present in the data on which they are trained. Although few call for the elimination of algorithms to aid health care decisionmaking, one common recommendation to reduce the potential for algorithmic bias is to exclude race and ethnicity as an input—a practice commonly referred to as fairness through unawareness. RAND researchers argue that a better strategy is to employ health disparity tools (including widely used ones developed by the RAND team) to measure algorithmic inequities by race and ethnicity, which may be possible even when a patient's race and ethnicity has not been self-reported. Imputing missing or unreliable race and ethnicity data facilitates identification of algorithmic bias and makes clear what corrective measures are needed to reduce or remove algorithmic bias from treatment decisions. Another example of how imputed race and ethnicity information can improve health care equity would be to use the information to ensure equitability in pay-for-performance schemes that use payment systems to reward clinicians who provide higher-quality care. “Race and ethnicity imputation in health care research traditionally has been applied to identify health disparities,” Elliott said. “The continued growth and use of algorithms in health care decisions spotlights the need to leverage race and ethnicity imputation to address health disparities in new ways.” Other authors of the analysis are Irineo Cabreros, Denis Agniel, Steven C. Martino, and Cheryl L. Damberg. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

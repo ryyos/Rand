@@ -1,0 +1,48 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:06:00.939239",
+  "crawling_time_epoch": 1703239560,
+  "type": "News Release",
+  "title": "Rise in Overdose Deaths Increasingly Affects Those with Lower Educational Attainment",
+  "url": "https://www.rand.org/news/press/2023/10/06.html",
+  "descriptions": "Drug overdose deaths increased sharply among Americans without a college education and nearly doubled over a three-year period among those who don't have a high school diploma. The findings further highlight a potential association between the rise in drug overdose deaths and barriers to education access, a social determinant of health.",
+  "posted": "Oct 6, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2023/10/06/_jcr_content/par/teaser.crop.250x187.rb.jpeg/1696621310614.jpeg",
+    "desc": "A man who was found unconscious after overdosing on opioids is in an ambulance in the Boston suburb of Malden, Massachusetts, December 2, 2017, photo by Brian Snyder/Reuters"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "David Powell",
+      "profession": "Senior Economist",
+      "biography": "David Powell is a senior economist at RAND and a member of the Pardee RAND Graduate School faculty. His areas of expertise include public finance, health economics, labor economics, and econometrics.",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/p/powell_david/_jcr_content/par/bio.crop.130x130.cm.jpeg/1514992554756.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of David Powell"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "tags": [
+      "Academic Achievement",
+      "Mortality",
+      "Opioids",
+      "Social Determinants of Health",
+      "Substance Use",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "Drug overdose deaths increased sharply among Americans without a college education and nearly doubled over a three-year period among those who don't have a high school diploma, according to a new RAND Corporation study. The findings further highlight a potential association between the rise in drug overdose deaths and barriers to education access, a social determinant of health. Lower educational attainment has been one of the socioeconomic factors historically associated with drug use and overdose deaths, but the emergence of fentanyl in street drugs and the rise of the COVID-19 pandemic may have caused this longstanding health disparity to surge, according to the study. The findings are published by the journal JAMA Health Forum. “The analysis shows that the opioid crisis increasingly has become a crisis involving Americans without any college education,” said David Powell, the study's author and a senior economist at RAND, a nonprofit research organization. “The study suggests large and growing education disparities within all racial and ethnic groups—disparities that have accelerated since the beginning of the COVID-19 pandemic.” Drug overdose deaths continue to surge in the United States, contributing to declining life expectancy. Much recent attention has focused on the demographics of the opioid crisis, documenting overdose death rates by sex, race and ethnicity, and age. Less attention has focused on educational attainment—especially during the COVID-19 pandemic—despite its central importance in broader discussions of “deaths of despair.” The RAND study examines how drug overdose deaths have disproportionately affected populations who are affected by lower educational attainment using more recent data than previous examinations of the issue. Examining information from the National Vital Statistics System Mortality Multiple Cause-of-Death Data, Powell investigated the association between educational attainment with the rise in overdose deaths from 2000 to 2021. During that period, the analysis identified 912,057 overdose deaths with education information for those ages 25 and higher. Nearly 70 percent had no college experience, while the remainder had at least some college. Overdose death rates increased from 2000 to 2021 for both education categories, but the no-college group experienced faster growth nearly every year. For people with no college education, the overdose death rate increased from 12 deaths per 100,000 individuals in 2000 to 82 deaths per 100,000 in 2021. Among people with at least some college, the 2000 rate was 4.6 deaths per 100,000 individuals, growing to 18.6 deaths per 100,000 in 2021. The study also highlights overdose deaths from 2018–2021 among people without a high school diploma. During this short time overdose deaths among this group increased by 35 deaths per 100,000 people, or 83 percent. This compared to increases of 32 deaths per 100,000 for people with high school diplomas, 10 deaths per 100,000 for those with some college, and 2 deaths per 100,000 for those with a bachelor's degree. The American Indian and Alaskan Native population showed substantially larger overdose rates than the rest of the population for every educational group, implying that race and ethnicity were independently associated with overdose death rate growth. Relative to White individuals, Black individuals experienced higher overdose death rates among people with high school diplomas. For those without a high school diploma, White individuals showed higher overdose death rates, though Black individuals experienced faster growth since 2018. The study highlights another crucial factor among populations disproportionately affected by overdose deaths, which could help inform development of effective and socially inclusive prevention and intervention strategies. It suggests the importance of providing additional resources, such as expanded treatment access and subsidized naloxone, to economically disadvantaged individuals and communities. It also highlights the potential gains of broader social and economic policies in addressing the opioid crisis. “Understanding who is most affected by overdose deaths provides critical information about how resources, such as access to treatment and preventive medicine like naloxone, should be more effectively allocated,” Powell said. Support for the study was provided by the National Institute on Drug Abuse of the National Institutes of Health under award number 2P50DA046351-06A1 and the federal Centers for Disease Control and Prevention. The content in this news release is solely the responsibility of the authors and does not necessarily represent the official views of these federal agencies. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

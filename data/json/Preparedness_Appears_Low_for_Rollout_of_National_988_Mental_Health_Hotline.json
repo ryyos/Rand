@@ -1,0 +1,46 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:18:58.486041",
+  "crawling_time_epoch": 1703240338,
+  "type": "News Release",
+  "title": "Preparedness Appears Low for Rollout of National 988 Mental Health Hotline",
+  "url": "https://www.rand.org/news/press/2022/06/02.html",
+  "descriptions": "A survey of a large group of public health officials responsible for helping to roll out the nation's new 988 emergency mental health telephone service found that fewer than half expressed confidence their jurisdiction was prepared in terms of financing, staffing, or infrastructure.",
+  "posted": "Jun 2, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/press/2022/06/02/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1654289062356.jpeg",
+    "desc": "Indian woman on a call at a help line, photo by fizkes/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Ryan K. McBain",
+      "profession": "Senior Policy Researcher",
+      "biography": "Ryan K. McBain is a policy researcher at RAND and a professor of policy analysis at the Pardee RAND Graduate School. He focuses on the design and evaluation of health policies and programs meant to reach vulnerable populations—including those coping with mental health conditions, HIV/AIDS,…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/m/mcbain_ryan/_jcr_content/par/bio.crop.130x130.cm.jpeg/1543843792167.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Ryan McBain"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "tags": [
+      "Emergency Medical Services",
+      "Mental Health Treatment",
+      "Suicide",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "A survey of a large group of public health officials responsible for helping to roll out the nation's new 988 emergency mental health telephone service found that fewer than half expressed confidence their jurisdiction was prepared in terms of financing, staffing, or infrastructure, according to a new RAND Corporation publication. The analysis, the first effort to gauge national preparedness for the new mental health service debuting in July, interviewed 180 state, regional, and county behavioral health program directors who provide jurisdictional coverage for more than 120 million Americans—roughly one-third of the United States. More than one-half (51 percent) of survey participants reported that they had not been involved in the development of a strategic plan related to the launch of 988. Similarly, only 16 percent of respondents reported that they had helped develop a budget to support 988 operations. “Our findings have confirmed what many advocates and experts feared: communities throughout the United States have not had the time or resources to adequately prepare for the debut of the 988 hotline number,” said Ryan McBain, colead on the research project and a policy researcher at RAND, a nonprofit research organization. “We highlight several areas that jurisdictions need to address both prior to the launch of 988 in July and in the months that follow.” Untreated mental health symptoms are a pervasive and persistent public health problem. Around 39 million people in the United States were identified as having a mental illness in 2019 and fewer than half of those people received treatment. In an effort to curb this silent epidemic, the U.S. Congress in 2020 approved legislation to create a new mental health emergency hotline that will go live on July 16. The three-digit number will supersede the current National Suicide Prevention Lifeline, which has grown from about 50,000 calls in 2005 to more than 2.4 million in 2020. Although mandated at a national level, the launch of 988 will require substantial effort on the part of state and local agencies to ensure sufficient capacity to handle 988 calls and connect callers with local mental health emergency services if needed. To learn about the status of local preparedness for the rollout of 988, RAND researchers surveyed directors of mental health agencies about their preparedness for the launch, asking questions pertaining to four domains: strategic planning, financing, infrastructure, and service coordination. About 85 percent reported that there was a mental health emergency response hotline or call center operating in their jurisdiction, although fewer than one-half of those hotlines were reported as part of the Lifeline network that will field 988 calls—meaning that callers from those jurisdictions may reach a Lifeline call center that is unfamiliar with local resources. Regarding the continuum of mental health emergency care, researchers found that 48 percent of survey respondents' jurisdictions had a short-term crisis stabilization program and only 28 percent possessed urgent care units for mental health. Moreover, only 22 percent of jurisdictions had crisis call centers or hotlines that can schedule intake and outpatient appointments on behalf of individuals in need. Among those jurisdictions with hotlines, a majority (55 percent) contained staff specifically trained to interact with children and adolescents, but a minority had training to interact with other special populations, such as individuals experiencing homelessness (46 percent) or LGBTQ individuals (45 percent). Although a large majority of hotlines supported phone-based communication, fewer than half supported text/SMS, and fewer yet supported online chat. Researchers say that with particularly high rates of suicide observed among adolescents and young adults, interfaces like online chat and SMS have become increasingly important. “Although mandated at a national level, the launch of 988 will require substantial effort on the part of state and local agencies to ensure sufficient capacity to handle these calls and connect callers with local mental health emergency services if needed,” said Stephanie Brooks Holliday, a coleader of the project and a RAND behavioral scientist. “Our findings show much more work needs to be done.” Support for the research was provided by the Sozosei Foundation. The analysis, “Preparedness for 988 Throughout the United States: The New Mental Health Emergency Hotline,” is available at www.rand.org. Other authors of the publication are Jonathan H. Cantor, Samantha Matthews, Armenda Bialas, Nicole Eberhart, and Joshua Breslau. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

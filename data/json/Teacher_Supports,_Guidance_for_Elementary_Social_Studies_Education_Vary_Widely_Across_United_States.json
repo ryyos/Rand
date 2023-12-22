@@ -1,0 +1,50 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:14:06.024105",
+  "crawling_time_epoch": 1703240046,
+  "type": "News Release",
+  "title": "Teacher Supports, Guidance for Elementary Social Studies Education Vary Widely Across United States",
+  "url": "https://www.rand.org/news/press/2023/03/07.html",
+  "descriptions": "The basic infrastructure to support elementary (grades K–5) social studies instruction—academic standards, accountability requirements, assessment programs—is inadequate in many states. Even where state-level infrastructure to guide teachers' instruction is in place, its comprehensiveness and quality vary greatly.",
+  "posted": "Mar 7, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Melissa Kay Diliberti",
+      "profession": "Assistant Policy Researcher, RAND, and Ph.D. Candidate, Pardee RAND Graduate School",
+      "biography": "Melissa Kay Diliberti is an assistant policy researcher at RAND and a Ph.D. candidate at the Pardee RAND Graduate School. She analyzes data from RAND's American Educator Panels to investigate how the COVID-19 pandemic is changing the U.S. education system. Her research interests include domestic…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/d/diliberti_melissa_kay/_jcr_content/par/bio.crop.130x130.cm.jpeg/1613393625302.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Melissa Diliberti"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Education and Labor",
+        "profile": "https://www.rand.org/education-and-labor.html"
+      }
+    ],
+    "tags": [
+      "Civic Education",
+      "Education Curriculum",
+      "Education Policy",
+      "Educational Institutions",
+      "Elementary Education",
+      "Principals",
+      "Teachers and Teaching",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "A new RAND Corporation report finds that the basic infrastructure to support elementary (grades K–5) social studies instruction—academic standards, accountability requirements, assessment programs—is inadequate in many states. Even where state-level infrastructure to guide teachers' instruction is in place, its comprehensiveness and quality vary greatly. Support and guidance at the district and school level to underpin social studies instruction are also lacking compared to other core academic subjects. For example, elementary principals report less teacher evaluation and professional learning focused on social studies instruction than on reading/language arts, math, and—to a lesser extent—science instruction. Researchers conducted a review of state policies for social studies and analyzed results from nationally representative surveys of elementary teachers and principals about social studies instruction during the 2021–2022 school year. “Over the past few decades, school systems have invested less in students' civic development and more in academic and career preparation as educational priorities,” said Melissa Kay Diliberti, lead author of the report and assistant policy researcher at RAND, a nonprofit, nonpartisan research organization. “Our findings suggest that inadequate state and local infrastructure focused on social studies instruction may have affected what elementary teachers did in their classrooms in 2021–2022.” For example, 29 percent of elementary principals surveyed said their schools had not adopted any recommended or required social studies curriculum materials, meaning that their schools or districts had not chosen any curricula to provide to teachers to support such instruction. In turn, only 16 percent of elementary teachers surveyed reported using a required textbook for most of their social studies instructional time. More commonly, teachers cobbled together their instructional materials or leaned on self-created materials. The researchers suggest that, ideally, all elementary social studies policies and guidance—state standards, accountability policies, assessment programs, teacher evaluation, professional learning opportunities, and guidance around materials—would work together to build coherent and strong infrastructure to support teachers' instruction. This effort requires additional investments at all levels of the U.S. education system, from state policy to investments by school and district leaders themselves. Other authors of “The Missing Infrastructure for Elementary (K–5) Social Studies Instruction: Findings from the 2022 American Instructional Resources Survey” are Ashley Woo and Julia H. Kaufman. RAND Education and Labor, a division of RAND, is dedicated to improving education and expanding economic opportunities for all through research and analysis. Its researchers address key policy issues in U.S. and international education systems and labor markets, from pre-Kindergarten to retirement planning."
+  }
+}

@@ -13,7 +13,7 @@ class Main:
         while True:
             ic(page)
             conditions = self.__search.execute(url=f"{self.__base_url}?page={page}")
-            if conditions == "clear": break
+            if conditions: break
             page += 1
 
 

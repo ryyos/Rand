@@ -1,0 +1,46 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:07:00.440256",
+  "crawling_time_epoch": 1703239620,
+  "type": "News Release",
+  "title": "U.S. Teachers Are Less Satisfied with Their Pay Than Most Working Adults",
+  "url": "https://www.rand.org/news/press/2023/09/12.html",
+  "descriptions": "Sixty-six percent of U.S. teachers who responded to a new, nationally representative survey said their base salary was inadequate, compared with 39 percent of U.S. working adults. These teachers want a $17,000 increase in base pay, on average, to feel that their pay is adequate.",
+  "posted": "Sep 12, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Elizabeth D. Steiner",
+      "profession": "Policy Researcher",
+      "biography": "Elizabeth D. Steiner (she/her) is a policy researcher at RAND with expertise in education policy, policy analysis, program evaluation, and qualitative methods and analysis. She is also a professor of policy analysis at the Pardee RAND Graduate School. Steiner's research is focused on ways to…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/s/steiner_elizabeth/_jcr_content/par/bio.crop.130x130.cm.jpeg/1508360612110.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Elizabeth Steiner"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Education and Labor",
+        "profile": "https://www.rand.org/education-and-labor.html"
+      }
+    ],
+    "tags": [
+      "Education Policy",
+      "Educator Well-Being",
+      "Teachers and Teaching",
+      "Wages and Compensation",
+      "www.rand.org"
+    ],
+    "Article": "Sixty-six percent of U.S. teachers who responded to a new, nationally representative RAND Corporation survey said their base salary was inadequate, compared with 39 percent of U.S. working adults. These teachers want a $17,000 increase in base pay, on average, to feel that their pay is adequate. This equates roughly to a 27 percent pay increase, which is comparable to the estimated gap in pay between teachers and other similarly college-educated workers, also known as the “teacher pay penalty.” In early 2023, RAND researchers surveyed public-school teachers about how salary and work hours affect intentions to leave their jobs and relate to well-being. Researchers also conducted a parallel survey of working adults to provide context for teachers' responses. “Most teachers feel overworked and underpaid, but we didn't know what teachers considered to be fair pay or how the amount of their desired pay is related to cost of living and the working conditions in their schools,” said Elizabeth D. Steiner, lead author of the report and a policy researcher at RAND, a nonprofit, nonpartisan research organization. “Teachers at all levels of experience said they deserved higher pay, suggesting the importance of raising pay across the salary schedule.” Low salary and long working hours were the top-ranked reasons why teachers said they were considering leaving their jobs as well as commonly reported job-related stressors. The researchers found that dissatisfaction with pay was strongly related to dissatisfaction with weekly hours worked. The survey also found that, during the school year, teachers worked more hours per week, on average, than all working adults—53 hours compared with 46. About one of every four hours teachers worked per week was uncontracted and uncompensated. “The survey shows that pay, hours worked and working conditions are interrelated, suggesting that pay increases alone—without improvements in working hours or conditions—are unlikely to bring about large shifts in teachers' well-being or intentions to leave the profession,” said Ashley Woo, coauthor and an assistant policy researcher at RAND. Black teachers were also more likely than White teachers to consider leaving their jobs, potentially threatening recent gains in racial and ethnic diversity in the teacher workforce. Black teachers reported working more hours per week, receiving slightly lower base salaries, and being less satisfied than White teachers with their base salary. The authors recommend increasing teacher pay, reducing hours worked—particularly uncontracted and uncompensated hours—and improving working conditions to boost teacher retention. The report is based on research funded by the National Education Association and the American Federation of Teachers. The findings and conclusions are those of the authors and do not necessarily reflect the positions or policies of the funders. Another author of the report, “All Work and No Pay—Teachers' Perceptions of Their Pay and Hours Worked: Findings from the 2023 State of the American Teacher Survey,” is Sy Doan, associate policy researcher at RAND. RAND Education and Labor, a division of RAND, is dedicated to improving education and expanding economic opportunities for all through research and analysis. Its researchers address key policy issues in U.S. and international education systems and labor markets, from pre-kindergarten to retirement planning."
+  }
+}

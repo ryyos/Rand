@@ -1,0 +1,34 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:12:20.152587",
+  "crawling_time_epoch": 1703239940,
+  "type": "Commentary",
+  "title": "Do Car Companies Know Where Their Critical Minerals Come From?",
+  "url": "https://www.rand.org/pubs/commentary/2023/04/do-car-companies-know-where-their-critical-minerals.html",
+  "descriptions": "The initial slate of electric vehicles qualifying for a new federal tax credit was announced in April. Key to eligibility is the source of critical minerals used in their batteries. While the list of acceptable nations of origin is still being worked out, there's an important practical question the IRS should ask: Do carmakers really know where their critical minerals come from?",
+  "posted": "Apr 28, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/04/do-car-companies-know-where-their-critical-minerals/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1682973250242.jpeg",
+    "desc": "Sacks of lithium carbonate at Albemarle Lithium production facility in Silver Peak, Nevada, October 6, 2022, photo by Carlos Barria/Reuters"
+  },
+  "content": {
+    "source": "(Barron's)",
+    "author": {
+      "name": "Tom LaTourrette Fabian Villalobos",
+      "profil": "https://www.rand.org/about/people/l/latourrette_tom.html",
+      "position": "Senior Physical Scientist Engineer; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@doktor_wolfhaus",
+      "contact": "https://www.twitter.com/doktor_wolfhaus"
+    },
+    "tags": [
+      "Alternative Fuel Vehicles",
+      "Earth Sciences",
+      "Environmental and Natural Resource Management",
+      "Supply Chain Management",
+      "Trade Regulation",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "The initial slate of electric vehicles qualifying for the new $7,500 federal tax credit in the U.S. Inflation Reduction Act was announced earlier this month. Key to eligibility is the source of critical minerals used in their batteries. While the list of acceptable nations of origin is still being worked out, there's an important practical question the IRS should ask: Do carmakers really know where their critical minerals come from? This is not the first time U.S. companies have been required to trace the origins of minerals. Section 1502 of the landmark Dodd-Frank Wall Street Reform Act requires electronics manufacturers to disclose whether their products contain “conflict minerals,” that is, tantalum, tin, tungsten, or gold from the Democratic Republic of the Congo or adjoining countries. It turns out that meeting this requirement has been fraught with uncertainty. Six years after implementation, some 80 percent of companies reporting to the SEC were still “unable to determine their raw materials' country of origin,” according to a 2017 study in Harvard Business Review. Even now, Fortune 500 companies produce vague statements like, “we found no reasonable basis for concluding that (PDF)” their products contain conflict minerals. The more multinational the company and more global its supply chain, the less likely it was to declare its products “conflict-free.” The reason this is so difficult is that supply chains are long and geographically dispersed; mining, mineral processing, component production, and final product assembly could each be conducted by different companies across multiple countries. Further, raw materials often come from developing countries, where capacity for supervision, recordkeeping, and enforcement may be limited. This lack of clear records, and in some cases corruption, make it hard to say with certainty that products are free of conflict minerals. Indeed, the HBR study showed that the more multinational the company and more global its supply chain, the less likely it was to declare its products “conflict-free.” Based on the experience with conflict minerals, tracing the origins of lithium, cobalt, nickel, and other critical battery minerals may be difficult. The specific critical minerals sourcing requirements for the clean vehicle credit are meant to incentivize more production outside China, which dominates global EV battery supply chains. A certain percentage of the minerals must be domestic or from a country with which the United States has a free trade agreement, and none can be from a “foreign entity of concern,” which includes China. Dominance by any single source of supply leaves the rest of the world vulnerable to disruptions, and the fact that this source is China only heightens concerns for the United States and its allies. So how can anyone be sure vehicle manufacturers are complying with these battery-supply rules? The Organisation for Economic Co-operation and Development developed guidance for reporting sourcing, which was instrumental in introducing at least some transparency into the electronics supply chain. (Dodd-Frank recommends aligning U.S. industrial practices with OECD's guidance.) Such international standards could help automakers—not just those in the United States—align their EV critical mineral sourcing with various evolving policy requirements. If manufacturers cannot determine if a supplier gets minerals from Chinese companies, it's possible they'll just abandon that supplier altogether. If manufacturers cannot determine if a supplier gets minerals from Chinese companies, it's possible they'll just abandon that supplier altogether, effectively establishing a “zero trust” supply chain architecture in which they assume all suppliers are sourcing from China unless the suppliers can prove otherwise. One important difference between the sourcing and reporting requirements for the clean vehicle credit and conflict minerals is that industry has a greater incentive to comply with the former—a tax credit translates into greater sales and profit, while Dodd-Frank Section 1502 simply requires a good-faith effort to disclose sources, with no particular upside to avoiding conflict minerals. A sweeter carrot this time around may incentivize industry to finally undertake—and reliably certify—a shift to new sources of critical minerals. If not, qualification for the EV tax credit could be sullied by uncertainty and even suspicion. Tom LaTourrette is a senior physical scientist at the RAND Corporation. Fabian E. Villalobos is an engineer at RAND and a professor of policy analysis at the Pardee RAND Graduate School. This commentary originally appeared on Barron's on April 21, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

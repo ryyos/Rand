@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:18:35.004319",
+  "crawling_time_epoch": 1703240315,
+  "type": "Announcement",
+  "title": "RAND Europe supports Review of Armed Forces Incentivisation",
+  "url": "https://www.rand.org/randeurope/about/news/2022/review-of-armed-forces-incentivisation.html",
+  "descriptions": "RAND Europe is collaborating with partner Ernst & Young to support the UK Ministry of Defence in conducting the Haythornthwaite Review of Armed Forces Incentivisation.",
+  "posted": "Aug 15, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/randeurope/about/news/2022/review-of-armed-forces-incentivisation/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1662043477109.jpeg",
+    "desc": "Members of all the Armed Forces and veterans on parade at the Armed Forces Day National Event in Plymouth, UK, photo by SAC Ben Tritta, MoD/CC BY-NC 2.0"
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "",
+      "name": "",
+      "profile": null,
+      "profession": "",
+      "profile_picture": {
+        "url_pict": null,
+        "width": null,
+        "height": null,
+        "desc": null
+      },
+      "Article": "Armed Forces Day National Event in Plymouth SAC Ben Tritta / MoD 15 August 2022 RAND Europe is collaborating with partner Ernst & Young to support the UK Ministry of Defence in conducting the Haythornthwaite Review of Armed Forces Incentivisation. The review will examine the Armed Forces’ (Regular and Reserve) approach to incentivisation and how Defence can improve how it attracts, recruits and retains the people it requires. This will help the MOD to adapt to changing expectations of work and ways of living in the 21st century. The review will recommend changes required to make the incentivisation approach appropriate to the needs of the Armed Forces as they deliver the Integrated Operating Concept now and into the 2040s. RAND Europe will support the review as a research partner, providing an evidence backbone and providing modelling and analytics activities. The review is expected to conclude by spring 2023, when a report will be submitted to the Secretary of State for Defence. Linda Slapakova, Senior Analyst in the Defence and Security research group at RAND Europe, said: “We are delighted to be able to support the UK Ministry of Defence in this important effort to examine how it can better recruit and incentivise its people in a complex defence and work environment. The RAND Corporation has been fortunate to support military compensation reviews for many years in the United States, and are thrilled to be extending this expertise to the UK.”"
+    }
+  }
+}

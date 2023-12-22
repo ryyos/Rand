@@ -1,0 +1,34 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:06:34.531410",
+  "crawling_time_epoch": 1703239594,
+  "type": "Commentary",
+  "title": "Disaster Recovery Creates Its Own Bubble",
+  "url": "https://www.rand.org/pubs/commentary/2023/09/disaster-recovery-creates-its-own-bubble.html",
+  "descriptions": "Shortages of workers and materials inevitably make rebuilding slower and more expensive after a natural disaster. In Maui, this is likely to be a problem for agencies like FEMA that provide public assistance. But it will also be a problem for individual households if private insurance payouts are insufficient to rebuild.",
+  "posted": "Sep 20, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/09/disaster-recovery-creates-its-own-bubble/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1695227996668.jpeg",
+    "desc": "Burned cars and homes are seen in Lahaina, Hawaii, after the August 8 wildfires, August 18, 2023, photo by Sandy Hooper/USA Today via Reuters"
+  },
+  "content": {
+    "source": "(Barron's)",
+    "author": {
+      "name": "Aaron Strong",
+      "profil": "https://www.rand.org/about/people/s/strong_aaron.html",
+      "position": "Senior Economist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@resourceecon",
+      "contact": "https://www.twitter.com/resourceecon"
+    },
+    "tags": [
+      "Disaster Recovery Operations",
+      "Hawaii",
+      "Hurricanes",
+      "Insurance",
+      "Labor Markets",
+      "Wildfires",
+      "www.rand.org"
+    ],
+    "Article": "The initial estimates of damage from the wildfire on Maui last month suggest it will cost $5.5 billion to rebuild just the town of Lahaina. But that is certain to be too low, and not just because construction costs in Hawaii are about 20% above the national average. When one house burns down, it's relatively simple to estimate the cost of building a new one. But the math on disaster recovery isn't a simple sum of the losses. Large-scale reconstruction projects fundamentally change local economics—and in ways that drive costs up, not down. Traditional estimation methods don't capture this dynamic. Shortages of workers and materials inevitably make rebuilding slower and more expensive after a natural disaster, as we saw in Puerto Rico and the U.S. Virgin Islands and Paradise, Calif. In Maui, this is likely to be a problem for agencies like the Federal Emergency Management Agency that provide public assistance. But it will also be a problem for individual households if private insurance payouts are insufficient to rebuild. The biggest variable is how quickly the construction sector can expand. Based on our analysis of Puerto Rico after Hurricane Maria, labor makes up about 38% of the cost of a building. As of June, there were only about 4,500 construction jobs on Maui and 12,000 in all of Hawaii. A $1 billion-per-year recovery effort would require doubling Maui's construction workforce. That means hiring workers from elsewhere. Not only will this drive wages up, but builders might also have to provide housing to employees from the other islands or the mainland. After hurricanes Irma and Maria in 2017, Puerto Rico was able to increase its construction labor force from approximately 20,000 jobs before the storms to more than 36,000 jobs today with little change to wages. It was a different story in the U.S. Virgin Islands, however. There, wages more than doubled as the construction labor force expanded from 1,500 to a peak of more than 5,000. Today there are about 2,000 jobs with wages about 20% higher than prestorm levels. The biggest variable is how quickly the construction sector can expand. A $1 billion-per-year recovery effort would require doubling Maui's construction workforce. Around Paradise, Calif., construction employment has increased about 30% since the Camp Fire in 2018. Construction wages are still up about 30% in Butte County. This suggests how big and lasting the effect can be even from a moderate ramp-up in the construction sector, especially when people leave the areas in large numbers after the disaster. The other major factor is building materials, which make up 57% of construction costs. High demand and limited port capacity on islands can drive up prices and slow delivery. Six years after Hurricane Maria, material prices are about 3% higher in Puerto Rico compared with the national average. The port in San Juan also has 15 piers and is much closer to the mainland and other international sources of materials, like South America. By comparison, in Maui, the main port at Kahului has three piers and is considerably smaller. Our research also noted that there are two thresholds for how expensive postdisaster rebuilding can get. Once per-capita damages are above $10,000, additional costs are to be anticipated due to pressures on supply chains and labor costs. Wages in particular can shoot up in areas that aren't otherwise growing; they don't have the economic vitality to attract more workers. There is another step up on costs when per capita damages go beyond $55,000. In Maui, the damage estimates are already $33,000 per capita. Indeed, Maui's small construction labor market might react like that of the U.S. Virgin Islands. And its remote location and smaller port could drive materials prices much higher than in Puerto Rico. After the 2017 hurricanes, FEMA wound up paying 20% to 40% more than initially anticipated for reconstruction, depending on the project and timing. We'd expect excess rebuilding costs on Maui to be similar—and likely on the high end of that range. There is already concern that property developers are trying to buy lots from Hawaiians displaced by the wildfire. The governor and attorney general are trying to prevent predatory purchases. But one of the best ways to make sure local residents aren't permanently displaced is to ensure that insurers, as well as FEMA, the Department of Housing and Urban Development, and other federal agencies, give them enough money to rebuild. Aaron Strong is an applied microeconomist at the nonprofit, nonpartisan RAND Corporation who specializes in environmental and natural resource economics. This commentary originally appeared on Barron's on September 13, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

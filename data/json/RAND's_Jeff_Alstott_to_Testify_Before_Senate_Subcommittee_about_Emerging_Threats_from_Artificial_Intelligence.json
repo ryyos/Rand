@@ -1,0 +1,45 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:06:47.105418",
+  "crawling_time_epoch": 1703239607,
+  "type": "Media Advisory",
+  "title": "RAND's Jeff Alstott to Testify Before Senate Subcommittee about Emerging Threats from Artificial Intelligence",
+  "url": "https://www.rand.org/news/advisories/2023/09/18.html",
+  "descriptions": "RAND AI expert Jeff Alstott will testify before the Senate Committee on Homeland Security and Governmental Affairs Subcommittee on Emerging Threats and Spending Oversight on Tuesday, September 19, during a hearing on emerging threats to national security from advanced technologies.",
+  "posted": "Sep 18, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/advisories/2023/09/18/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1695951345030.jpeg",
+    "desc": "A green and black digital biohazad symbol, photo by alengo/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "Who": "RAND Artificial Intelligence (AI) expert Jeff Alstott will testify before the Senate Committee on Homeland Security and Governmental Affairs (HSGAC) Subcommittee on Emerging Threats and Spending Oversight (ETSO) on Tuesday, September 19, during a hearing on emerging threats to national security from advanced technologies."
+      },
+      {
+        "What": "Alstott's testimony will focus on the potential impact of AI on national security and public safety, including the growing relationship between advanced AI development and biosecurity, as well as the need for effective governmental oversight of AI technologies. Alstott will highlight specific actions that the federal government can take to mitigate national security threats, including reporting and security requirements for large computing activities, independent assessments for frontier AI developments, the creation of safe harbor information-sharing environments for private and public sectors and the establishment of know-your-customer requirements and screening mechanisms for gene synthesis providers."
+      },
+      {
+        "When": "Tuesday, September 19, 2023\n2:30 p.m. EDT"
+      },
+      {
+        "Where": "Senate Dirksen Building, SD-562\nHearing link: https://www.hsgac.senate.gov/subcommittees/etso/hearings/advanced-technology-examining-threats-to-national-security/"
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Emerging Technologies",
+      "Threat Assessment",
+      "www.rand.org"
+    ],
+    "Article": ""
+  }
+}

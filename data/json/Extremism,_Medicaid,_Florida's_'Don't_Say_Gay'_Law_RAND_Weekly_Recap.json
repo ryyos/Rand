@@ -1,0 +1,96 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:11:23.695002",
+  "crawling_time_epoch": 1703239883,
+  "type": "Blog",
+  "title": "Extremism, Medicaid, Florida's 'Don't Say Gay' Law: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-may-19.html",
+  "descriptions": "This weekly recap focuses on addressing domestic extremism, managing reductions in Medicaid enrollment, the effects of Florida's “Don't Say Gay” law, and more.",
+  "posted": "May 19, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-19/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1684533187860.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Arctic Region",
+      "Domestic Terrorism",
+      "Florida",
+      "Geopolitical Strategic Competition",
+      "Health Care Access",
+      "Homelessness",
+      "LGBTQ+ Populations",
+      "Los Angeles",
+      "Medicaid",
+      "Russia",
+      "Security Cooperation",
+      "Teachers and Teaching",
+      "Violent Extremism",
+      "Wages and Compensation",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss what can be done to address domestic extremism; managing Medicaid reductions; workers in the Los Angeles homeless response sector; the effects of Florida's “Don't Say Gay” law; U.S. peacetime policy toward Russia; and what's next for the Arctic Council.",
+    "sub_article": [
+      {
+        "title": "Time for an Extremism Moonshot?",
+        "descriptions": "Last weekend, in a commencement address at Howard University, President Biden said it's time for Americans to “stand up against the poison of white supremacy,” calling it “the most dangerous terrorist threat” facing the nation. RAND's Marek Posard and Jack Riley recently wrote about the importance of addressing white supremacy and other forms of domestic extremism. “Extremism is like cancer,” they wrote. “There is, at present, both a need to depoliticize the issue … and for bold investments in policies that would prevent it from metastasizing.” The creation of such policies would rely on a clearer definition of extremism, a better understanding of why people become attracted to extremist activities, and having the right support systems in place. Adopting this approach at a scale similar to that of Biden's “cancer moonshot” could help federal agencies diagnose extremism in its earliest stages—and ensure that this cancer on American democracy stays in remission.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Managing Massive Medicaid Reductions",
+        "descriptions": "Before the pandemic, Medicaid enrollees in most states could suddenly become ineligible if their incomes rose above a qualifying threshold in a given month. COVID-19 public health emergency policies temporarily halted these requirements. But those policies are now expiring, forcing as many as 15 million people off the Medicaid rolls. Policymakers have several options to manage this coverage disruption, says RAND's Christine Eibner, including by limiting Medicaid eligibility redeterminations to once a year, rather than monthly.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Workers in L.A.'s Homeless Response Sector Don't Earn a Living Wage",
+        "descriptions": "A new RAND study finds that workers at Los Angeles County homeless service agencies often do not earn a living wage. These workers are employed at nonprofits that provide supports such as child and family services, health care, and job skills training. Study lead Lisa Abraham points out that earning such low wages may lead to housing insecurity among workers themselves. The findings suggest that pay increases are dependent on government and philanthropic funders covering the costs.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-19/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1684531991463.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "A woman giving clothes to a child who is homeless, photo by shironosov/Getty Images"
+        }
+      },
+      {
+        "title": "The Effects of Florida's 'Don't Say Gay' Law",
+        "descriptions": "Photo by Octavio Jones/Reuters The Florida Board of Education recently expanded the scope of the state's Parental Rights in Education law, the so-called “Don't Say Gay” bill, which restricts classroom discussions of gender identity and sexual orientation. Findings from recent RAND research suggest these restrictions lead to fear and anxiety among students and educators alike. Further, the conflict over politicized issues in schools is linked to lower educator well-being and increased intentions to leave the profession.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Future U.S. Peacetime Policy Toward Russia",
+        "descriptions": "Photo by Everett Collection/Alamy Stock Photo What should U.S. policy toward Russia look like in the long term, in the years after the war in Ukraine ends? A new RAND report draws potential lessons from four historical case studies in which a stronger state adopted a “less-hardline” approach to its weaker rival. The key takeaway: Limited use of these less-hardline policies can produce some durable gains without emboldening the rival—but these approaches tend not to stabilize rivalries over the long term.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-may-19/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1684532391521.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Brezhnev and Nixon talk during Brezhnev's June 1973 visit to Washington during the beginning of detente between the United States and the Soviet Union, photo by World History Archive/Alamy "
+        }
+      },
+      {
+        "title": "What's Next for the Arctic Council?",
+        "descriptions": "The war in Ukraine has largely stalled cooperation between Russia and other Arctic Council members. According to RAND’s Abbie Tingstad and Stephanie Pezard, this stalemate has prevented the countries from working together in several areas key to regional stability and governance. Can Norway—the council’s new chair—leverage its extensive experience managing Arctic-related issues with Russia and move the organization beyond its current tensions?",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

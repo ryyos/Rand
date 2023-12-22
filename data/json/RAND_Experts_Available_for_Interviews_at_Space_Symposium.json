@@ -1,0 +1,32 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:12:43.432467",
+  "crawling_time_epoch": 1703239963,
+  "type": "Media Advisory",
+  "title": "RAND Experts Available for Interviews at Space Symposium",
+  "url": "https://www.rand.org/news/advisories/2023/04/17.html",
+  "descriptions": "RAND space experts will participate in the Space Symposium in Colorado Springs April 17–20 and are available to comment on a variety of topics.",
+  "posted": "Apr 17, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/news/advisories/2023/04/17/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1681754121019.jpeg",
+    "desc": "View of the Earth over the Pacific Ocean from space, June 13, 2003, photo courtesy of NASA"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "tags": [
+      "Space Exploration",
+      "Space Science and Technology",
+      "www.rand.org"
+    ],
+    "Article": "April 17, 2023 The following RAND space experts will participate in the Space Symposium in Colorado Springs April 17–20 and are available to comment on a variety of topics: To arrange an interview, contact Erin Dick at erind@rand.org or media@rand.org or call +1.310.625.8162 or +1.310.451.6913 The RAND Corporation's Space Enterprise Initiative is a virtual center, providing a focal point for RAND's space-related research for the U.S. government and U.S. allies."
+  }
+}

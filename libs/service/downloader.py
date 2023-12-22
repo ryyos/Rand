@@ -13,5 +13,4 @@ class Downloader:
 
     def ex(self, url: str, path: str):
         response = requests.get(url=url, headers=self.__headers)
-        print(response)
-        self.__writer.eby(path=path, media=response)
+        self.__writer.write_byte(path=path, media=response)

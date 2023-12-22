@@ -1,0 +1,55 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:03:29.106009",
+  "crawling_time_epoch": 1703239409,
+  "type": "Testimony",
+  "title": "Enhancing Security in a Changing Arctic",
+  "url": "https://www.rand.org/pubs/testimonies/CTA3097-1.html",
+  "descriptions": "Security in the Arctic requires continuous effort to maintain, particularly in periods of transition—from climate change to demographic shifts to economic opportunities and risks to geopolitical dynamics. As an Arctic nation, it is the United States’ responsibility to take steps toward enhancing regional security.",
+  "posted": "Nov 29, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/testimonies/CTA3097-1/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1701267603138.jpeg",
+    "desc": "The 23rd Space Operations Squadron, Det. 1 is located more than 700 miles north of the Arctic Circle, Photo by Airman Jonathan Whitely"
+  },
+  "content": {
+    "path_data_pdf": "data/pdf/Enhancing_Security_in_a_Changing_Arctic.pdf",
+    "descriptions": "Testimony submitted to the U.S. House Committee on Homeland Security on November 29, 2023.",
+    "author": {
+      "name": "Abbie Tingstad",
+      "profile": "https://www.rand.org/about/people/t/tingstad_abbie.html"
+    },
+    "tags": [
+      "Alaska",
+      "Arctic Ocean",
+      "Arctic Region",
+      "China",
+      "Geopolitical Strategic Competition",
+      "Russia",
+      "United States",
+      "www.rand.org"
+    ],
+    "details": [
+      {
+        "Copyright": "RAND Corporation"
+      },
+      {
+        "Availability": "Web-Only"
+      },
+      {
+        "Pages": "12"
+      },
+      {
+        "DOI": "https://doi.org/10.7249/CTA3097-1"
+      },
+      {
+        "Document Number": "CT-A3097-1"
+      },
+      {
+        "Year": "2023"
+      },
+      {
+        "Series": "Testimonies"
+      }
+    ]
+  }
+}

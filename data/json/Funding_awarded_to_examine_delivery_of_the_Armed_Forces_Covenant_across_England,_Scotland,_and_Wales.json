@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:08:03.458226",
+  "crawling_time_epoch": 1703239683,
+  "type": "Announcement",
+  "title": "Funding awarded to examine delivery of the Armed Forces Covenant across England, Scotland, and Wales",
+  "url": "https://www.rand.org/randeurope/about/news/2023/examining-delivery-of-armed-forces-covenant.html",
+  "descriptions": "King’s College London (KCL) has successfully secured the Ministry of Defence (MoD) contract to deliver professional military education at the Defence Academy of the United Kingdom. RAND Europe and Cranfield University will be collaborating with KCL to deliver this contract over the next few years.",
+  "posted": "Aug 16, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/randeurope/about/news/2023/examining-delivery-of-armed-forces-covenant/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1692295857404.jpeg",
+    "desc": "British military uniform laying on top of the Union Flag, photo by BellPhotography423/Getty Images"
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "RAND is extremely pleased to be leading this research which will further build on the impact achieved through the Our Community, Our Covenant studies. Much of the support to the Armed Forces Community is delivered collaboratively, with different national, regional and local actors involved; we hope this research will advance our understanding of the roles of all these actors and how their collaboration could be further enabled and harnessed to deliver the best possible support to the community.",
+      "name": "Linda Slapakova",
+      "profile": "https://www.rand.org/about/people/s/slapakova_linda.html",
+      "profession": "Senior Analyst",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/s/slapakova_linda/_jcr_content/par/bio.crop.150x150.ct.jpeg/1621353493698.jpeg",
+        "width": "150",
+        "height": "150",
+        "desc": "Linda Slapakova"
+      },
+      "Article": "Photo by BellPhotography423/Getty Images 24 February 2023 Forces in Mind Trust has awarded £500,000 to RAND Europe in partnership with Shared Intelligence and Meri Mayhew Consulting to investigate the delivery of the Armed Forces Covenant and wider support for the Armed Forces Community. The two-year study will engage statutory and non-statutory bodies to examine how members of the Armed Forces Community are supported at a regional level across multiple policy areas such as housing, employment and health. In 2011 the Armed Forces Covenant set out a promise from the UK to all UK military personnel, veterans and their families that none of them should be disadvantaged by their time in service. This project is the latest in the Our Community Our Covenant series and builds on three prior studies into the delivery and impact of the Covenant. This research will focus on the partnerships that deliver support to the Armed Forces Community, such as between local government authorities, non-statutory organisations, and the charity sector. The research team will also assess how different local government structures shape the delivery of the Covenant. For more information on the announcement, visit the Forces in Mind Trust's News Release. Find out more about our defence and security research."
+    }
+  }
+}

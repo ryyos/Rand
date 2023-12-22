@@ -1,0 +1,95 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:07:52.209604",
+  "crawling_time_epoch": 1703239672,
+  "type": "Blog",
+  "title": "Maui Wildires, Regulating AI, Ukraine's Civilian Resistance: RAND Weekly Recaps",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-august-18.html",
+  "descriptions": "This weekly recap focuses on the invisible damage of Maui’s wildfires, making the artificial intelligence supply chain safer, how Ukrainian civilians resist Russia, and more.",
+  "posted": "Aug 18, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1692384322761.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Artificial Intelligence",
+      "Civil Defense",
+      "Disaster Recovery Operations",
+      "Educator Well-Being",
+      "Hawaii",
+      "Housing Markets",
+      "International Humanitarian Law",
+      "The Islamic State (Terrorist Organization)",
+      "New York City",
+      "Russia",
+      "Syria",
+      "Ukraine",
+      "Wildfires",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss the invisible damage from the Maui wildfires; improving the safety of America’s AI industry; what makes teachers of color feel a sense of belonging; Ukraine’s civilian resistance; how to increase housing affordability in New York City; and the situation of ISIS prisoners in Syria.",
+    "sub_article": [
+      {
+        "title": "The Invisible Damage from Maui's Fires",
+        "descriptions": "The wildfires on the Hawaiian island of Maui have killed at least 110 people. This loss of life is undoubtedly the fire’s most tragic outcome, but with thousands of buildings in the town of Lahaina damaged or destroyed, the rebuilding effort—estimated to cost more than $5 billion—looms large. According to RAND's Isaac Opper, the full economic cost of rebuilding will likely be far higher. That's because, in addition to decimating buildings and other infrastructure, disasters also destroy human capital, the collective knowledge and skills that drive individual economic earnings, as well as regional economic growth. The primary way that disasters affect human capital is by disrupting education. Recent research led by Opper shows that school closures and stress and trauma among students lead to prolonged negative impacts: Test scores and college attendance rates drop in the year after a disaster strikes, and there is no evidence they ever rebound. Thus, natural disasters can end up being economic shocks—akin to automation or international trade competition. “There’s no easy remedy for recovering significant amounts of lost education,” Opper says. “But as our analysis points out, failing to address these more hidden damages is incredibly costly.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1692381951346.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "The Vaa family escaped the deadly wildfire that swept through Lahaina, on the Hawaiian island of Maui, August 13, 2023, photo by Mike Blake/Reuters"
+        }
+      },
+      {
+        "title": "To Regulate AI, Start with the Supply Chain",
+        "descriptions": "Earlier this year, an artificial intelligence model developed by Meta (which was not intended to be publicly accessible) was leaked online. Fortunately, Meta's model is relatively harmless. But as RAND president and CEO Jason Matheny writes in the Washington Post, the next AI model that is compromised may not be so benign. That’s why it's time to establish a system of oversight that focuses on the three parts of the AI supply chain: hardware, training, and deployment.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1692382418028.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Closeup digital rendering of a human eye, photo by Vertigo3d/Getty Images"
+        }
+      },
+      {
+        "title": "We Asked Teachers of Color What Makes Them Feel a Sense of Belonging",
+        "descriptions": "A racially and ethnically diverse teaching workforce supports the development of all students and is particularly critical for students of color. One key to building and retaining such a workforce is to cultivate a sense of belonging among teachers of color. New RAND survey results highlight ways schools can achieve this: consider student and staff demographics in schoolwide planning, establish groups that support teacher diversity, and foster strong relationships among teachers.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1692382176246.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Two teachers walking and talking in a school hallway, photo by kali9/Getty Images"
+        }
+      },
+      {
+        "title": "How Ukrainian Civilians Are Resisting Russia",
+        "descriptions": "Photo by Serhii Hudak/Reuters Ukraine's civilian resistance began within hours of Russia launching its invasion in February 2022. These efforts continue today, supporting Ukraine's goals of regaining territory and maintaining political sovereignty. A new RAND report assesses Ukrainians' resistance activities during the first four months of the conflict. Civilian tactics ranged from blocking Russian forces in the streets, to delivering humanitarian aid, to carrying out cyber operations against Russian targets. Our findings provide a glimpse into what future civilian contributions to wars might look like.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1692383260901.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Local residents make anti-tank obstacles to defend the city after Russia launched a massive military operation against Ukraine, in Uzhhorod, Ukraine, February 27, 2022, photo by Serhii Hudak/Reuters"
+        }
+      },
+      {
+        "title": "Supporting Housing Affordability in New York City",
+        "descriptions": "Photo by Richard B. Levine/Sipa USA/Reuters New York City's housing crisis has reached unprecedented levels. The root cause: housing production has not kept pace with growing demand to live in America's largest metropolis. A new RAND study examines six proposals that aim to address this problem by boosting residential housing construction. These strategies are not a panacea but, if fully enacted, they could lead to roughly 300,000 additional new housing units over a decade. This would improve both short- and long-term housing affordability for New Yorkers.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1692383095945.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Construction of senior affordable housing in the Chelsea neighborhood of New York City, July 8, 2023, photo by Richard B. Levine/Sipa USA/Reuters"
+        }
+      },
+      {
+        "title": "How to Approach the Situation of ISIS Prisoners in Syria",
+        "descriptions": "Photo by Goran Tomasevic/Reuters Approximately 10,000 presumed ISIS-affiliated men and hundreds of youths are detained in prisons across northeastern Syria. A new RAND study finds that guarding these prisons is a challenge because of overcrowding, low resources for guards, and insufficient physical building protections. Given these issues, the most critical security risk is a potential prison breakout. Policy actions to address this may include implementing prisoner repatriation processes, constructing prisons to meet international standards, and professionalizing security forces.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-august-18/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1692383023621.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Prisoners suspected of being part of the Islamic State, lie inside a prison cell in Hasaka, Syria, January 7, 2020, photo by Goran Tomasevic/Reuters"
+        }
+      }
+    ]
+  }
+}

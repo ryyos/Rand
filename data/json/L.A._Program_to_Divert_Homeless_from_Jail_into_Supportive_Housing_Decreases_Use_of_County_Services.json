@@ -1,0 +1,51 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:18:33.413631",
+  "crawling_time_epoch": 1703240313,
+  "type": "News Release",
+  "title": "L.A. Program to Divert Homeless from Jail into Supportive Housing Decreases Use of County Services",
+  "url": "https://www.rand.org/news/press/2022/08/16.html",
+  "descriptions": "A program that diverts some people with a history of homelessness from Los Angeles County jails into permanent supportive housing can significantly lower taxpayer spending on services such as hospital care and shelter use.",
+  "posted": "Aug 16, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Sarah B. Hunter",
+      "profession": "Director, RAND Center on Housing and Homelessness",
+      "biography": "Sarah Hunter is director of the RAND Center on Housing and Homelessness, a senior behavioral scientist at RAND, and a professor at the Pardee RAND Graduate School. Hunter's primary areas of interest are improving services for vulnerable populations; building community capacity for evidence-based…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/h/hunter_sarah_b/_jcr_content/par/bio.crop.130x130.cm.jpeg/1701804744077.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Sarah Hunter"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "tags": [
+      "Criminal Justice",
+      "Homeless Populations",
+      "Homelessness",
+      "Housing Allowances",
+      "Impoverished Populations",
+      "Los Angeles",
+      "Mental Health and Illness",
+      "Recidivism",
+      "Social Services and Welfare",
+      "www.rand.org"
+    ],
+    "Article": "A program that diverts some people with a history of homelessness from Los Angeles County jails into permanent supportive housing can significantly lower taxpayer spending on services such as hospital care and shelter use, according to a new RAND Corporation report. Examining the experimental program over a two-year period, researchers found that the savings offset from about 50 percent to 100 percent of the cost of providing permanent supportive housing to those enrolled in the effort. Los Angeles County's Just in Reach Pay for Success program had a broad impact on an array of county services, decreasing use of crisis services such as emergency shelters and cutting inpatient hospital stays, in addition to reducing jail costs. “The Just in Reach Pay for Success program appears to significantly reduce participants' use of many county services,” said Sarah B. Hunter, the study's lead author and a senior behavioral scientist at RAND, a nonprofit research organization. “The program may provide a feasible alternative—from a cost perspective—for addressing homelessness among individuals with chronic health conditions involved with the justice system in Los Angeles County.” The program used a pay-for-success approach in which investors provide up-front funding and are repaid based upon positive results. The LA County Just in Reach Pay for Success model was one of the first to launch with funding from the Department of Housing and Urban Development (HUD)/Department of Justice (DOJ) Pay for Success Permanent Supportive Housing Demonstration Program (HUD-DOJ) and the California Board of State Community Corrections (BSCC). County officials in 2017 adopted the Just in Reach Pay for Success model with a goal of providing permanent supportive housing to about 300 individuals deemed eligible for clinical diversion from the county jail between October 2017 and September 2019. Individuals with a history of homelessness and with one or more diagnosable chronic behavioral or physical health conditions were targeted for the program, which is operated by the Los Angeles County Department of Health Services' Office of Diversion and Reentry. Each placement to the program was approved by the courts. Using program administrative information and county service data, researchers compared the experiences of 336 participants in the Just in Reach Pay for Success program with a comparison group of more than 600 similar people who met the program's requirements, but were not enrolled because of limited space. The analysis included an examination of service use and costs during the 12 months prior to jail release and the 12 months after enrollment in the program. Researchers estimated that the total county service costs were approximately $6,202 per participant per year. The analysis suggests that during the first year, roughly 42 percent to 113 percent of the service costs in the 12 months prior to jail release were offset by reductions in other areas. In particular, the program costs—including housing support and intensive case management services, as well as more-frequent use of mental health outpatient and probation services—were mostly offset by savings in other service areas. This included less county jail time, fewer inpatient days for mental health and physical health care, fewer emergency department visits, and less temporary housing use relative to the comparison group. Researchers also examined whether race/ethnicity was related to Just in Reach Pay for Success program retention rates among program participants. An analysis of time housed during the first year post-housing found a statistically significant difference between retention among Black and Hispanic participants, with Hispanic participants having an average of 21 fewer days in housing than Black participants because of program exits. This research was sponsored by the Just in Reach Pay for Success (JIR PFS) initiative and a grant awarded to the Corporation for Supportive Housing (CSH) through the Department of Housing and Urban Development/Department of Justice Pay for Success Permanent Supportive Housing Demonstration Program. Project investors were the Conrad N. Hilton Foundation and United Healthcare. Evident Change and CSH were cointermediaries, and services were provided by Brilliant Corners, Special Services for Groups, Telecare, The People Concern, and Volunteers of America. The report, “Just in Reach Pay for Success: Impact Evaluation and Cost Analysis of a Permanent Supportive Housing Program,” is available at www.rand.org. Other authors of the report are Adam Scherling, Matthew Cefalu, and Ryan K. McBain. The RAND Social and Economic Well-Being division seeks to actively improve the health, and social and economic well-being of populations and communities throughout the world."
+  }
+}

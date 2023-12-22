@@ -1,0 +1,33 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:16:27.502086",
+  "crawling_time_epoch": 1703240187,
+  "type": "Commentary",
+  "title": "Lost Opportunities to Contain COVID-19 in China",
+  "url": "https://www.rand.org/pubs/commentary/2023/01/lost-opportunities-to-contain-covid-19-in-china.html",
+  "descriptions": "Three years after the SARS-COV-2 virus emerged in Wuhan, China is now facing a tsunami of COVID-19 infections. The unprecedented spread of the disease appears to have been fueled by an ill-timed change in COVID-19 policy and a lack of vaccination and boosting. A rethinking of national strategy could still help.",
+  "posted": "Jan 6, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/commentary/2023/01/lost-opportunities-to-contain-covid-19-in-china/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1674048473650.jpeg",
+    "desc": "A man takes a COVID test at a nucleic acid testing site in Guiyang, Guizhou province, China, December 8, 2022, photo by Costfoto/Sipa USA/Reuters"
+  },
+  "content": {
+    "source": "(The RAND Blog)",
+    "author": {
+      "name": "Jennifer Bouey",
+      "profil": "https://www.rand.org/about/people/b/bouey_jennifer.html",
+      "position": "Senior Policy Researcher; Tang Chair in China Policy Studies; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "@BoueyHuang",
+      "contact": "https://www.twitter.com/BoueyHuang"
+    },
+    "tags": [
+      "China",
+      "Coronavirus Disease 2019 (COVID-19)",
+      "Health Care Services Capacity",
+      "Pandemic",
+      "Public Health Preparedness",
+      "www.rand.org"
+    ],
+    "Article": "Three years after the SARS-COV-2 virus emerged in Wuhan, China is now facing a tsunami of COVID-19 infections. The unprecedented spread of the disease appears to have been fueled by an ill-timed sudden change in COVID-19 policy and the lack of vaccination and boosting. A rethinking of national strategy could still help. From Beijing to Shanghai to Shengzhen, the megacities in China have had empty streets, vacant buses, and empty pharmacy shelves for several weeks as COVID-19 swept the country after an abrupt reversal of the Zero-COVID policy. Three weeks into this outbreak, most of the country's hospital beds were occupied by severe COVID cases, and bodies were piling up at morgues. The country lost its reliable case counting system after the vice premier hastily announced the change to the Zero-COVID policy on December 1. News from a few cities recently suggested that between 40 percent and 80 percent of people were infected in just two weeks. News from a few cities recently suggested that between 40 percent and 80 percent of people were infected in just two weeks. In Beijing alone, 18 million people were estimated to be symptomatic by New Year's Eve. These estimates confirmed the findings of an outbreak model by Chinese scientists published in July 2022 that predicted there could be over 100 million cases, 5 million hospitalizations, and 1.6 million deaths within six months of the stop of the Zero-COVID policy. In response to this crisis, many countries announced a new requirement for SARS-COV-2 tests for passengers from China and the IMF lowered the 2023 GDP perspective for China. Epidemic patterns are determined by three factors: the agent (virus), the host (people's vulnerability), and the environment. The Omicron virus is one of the most infectious that has ever been recorded with a reproductive R number estimated to be up to 16. The dense and highly mobile population in China created a suitable environment for the highly contagious virus to spread quickly. At the same time, the population's immunity to COVID-19 in China is lower than that of people in the rest of the world due to two factors: the fact that elderly people in China were least likely to be vaccinated and the low booster rate in the last six months before the end of the Zero-COVID policy. More than 85 million Chinese people 60 and over failed to get vaccinated because of the low-infection environment, a lack of confidence in the vaccines' efficacy, and misguided concerns about possible complications. At the same time, over the last six months only 0.5 percent of people in China received the booster, which has been shown to be the best strategy to boost immunity. Naturally, there will be questions as to why China didn't build a road map to reopening. China had plenty of warning about the threat posed by Omicron, given the outbreaks in the United States, Hong Kong, and Shanghai last year. The United States reported a reproductive number of 11 for the Omicron variant; Hong Kong recorded one of the worst mortality rates in the world during its winter outbreak; and Shanghai's spring cases grew astronomical even with the Zero-COVID policy. More than 85 million Chinese people 60 and over failed to get vaccinated. Instead of scaling up hospital capacity and strengthening health care professional training, the focus of the government over the last six months was on building temporary clinics for quarantine of asymptomatic cases like the Fang Cang clinics. Between July and December of 2022, China's vaccine rollout rate was the lowest since the vaccine became available (Figure 1), missing out on the optimal time for boosters before the opening. There was also no stockpiling on Paxlovid, the antiviral medicine that can reduce COVID-19 hospitalization by 90 percent, even though Zhe-Jiang Hua-Hai Pharmaceuticals obtained a license from Pfizer to produce the drug locally in April. Source: Official data collated by Our World in Data The rapid spread of the virus, which infected 250 million Chinese people in just two weeks, could mean that the number of new cases in China will exceed the 660 million total cases reported globally over the last three years. The rest of the world is watching the unprecedented crisis unfolding in China, and many are willing to provide assistance with vaccines while strengthening border screening, and variant monitoring. Public health professionals understand when and how to switch from a strategy focused on nonpharmaceutical interventions to one that relies on vaccines and pharmaceutical treatments. Prodding Chinese leaders, physicians, and communities toward such a policy change could be a worthy next step. Jennifer Bouey is a senior policy researcher, Tang Chair for China Policy Studies, and an epidemiologist at the nonprofit, nonpartisan RAND Corporation. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

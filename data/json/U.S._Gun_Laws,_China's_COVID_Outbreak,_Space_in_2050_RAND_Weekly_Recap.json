@@ -1,0 +1,95 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:16:10.485102",
+  "crawling_time_epoch": 1703240170,
+  "type": "Blog",
+  "title": "U.S. Gun Laws, China's COVID Outbreak, Space in 2050: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-january-13.html",
+  "descriptions": "This weekly recap focuses on gun policy in America, the myth of America's “Ukraine fatigue,” the COVID outbreak in China, and more.",
+  "posted": "Jan 13, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-january-13/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1673652048976.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "China",
+      "Coronavirus Disease 2019 (COVID-19)",
+      "Crime and Violence Prevention",
+      "Democracy",
+      "Gun Policy",
+      "Military Health and Health Care",
+      "Pandemic",
+      "Russia",
+      "Sexual Assault",
+      "Sexual Harassment",
+      "Space Exploration",
+      "Ukraine",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss what the evidence says about U.S. gun laws; containing the COVID-19 outbreak in China; whether or not Americans are growing tired of the war in Ukraine; sexual harassment and sexual assault in military settings; measuring “civic infrastructure” to assess the health of democracy; and what space might look like in 2050.",
+    "sub_article": [
+      {
+        "title": "What Does the Evidence Say About U.S. Gun Laws?",
+        "descriptions": "Since we first launched the RAND Gun Policy in America initiative in 2018, there has been a surge in scientific research focused on firearms. This week, we published a significant update to our review of the evidence, to include 29 new studies on the effects of 18 different gun laws. Among the key findings, there is now supportive evidence that child-access prevention laws reduce firearm homicides and self-injuries among youth. There is also supportive evidence that stand-your-ground laws and “shall-issue” concealed-carry laws increase levels of firearm violence. States with gun policies that are not in line with this evidence should consider making changes as a strategy to reduce deaths and injuries. RAND experts will continue to review available data on the effects of gun laws. The goal is to establish a shared set of facts to improve public discussions and support the development of fair and effective gun policies.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-january-13/_jcr_content/par/blogpost/par-blog/wrapperdiv/imagewithclass.fit.800x0.jpeg/1673651337670.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A line of guns on display in a store, photo by Alexandor Filon/Adobe Stock"
+        }
+      },
+      {
+        "title": "Containing China's COVID Outbreak",
+        "descriptions": "Photo by Costfoto/Sipa USA/Reuters China is facing a tsunami of COVID-19 infections. In Beijing alone, an estimated 18 million people were symptomatic by New Year's Eve, and recent reports indicate that hospitals and crematoriums are overwhelmed. RAND epidemiologist Jennifer Bouey explains what led to this outbreak and what can be done about it. Shifting to a strategy that relies on vaccines and pharmaceutical treatments—and away from one focused on nonpharmaceutical interventions—could be a worthy next step, she says.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The Myth of America's Ukraine Fatigue",
+        "descriptions": "Photo by Kevin Lamarque/Reuters As Russia's war in Ukraine grinds into its second year, some media reports and polls have suggested that the United States and its allies are growing tired. RAND's Raphael Cohen and Gian Gentile cast doubt on this notion. To start, few Americans are actively engaged in the conflict. Further, the United States is not suffering losses on the battlefield or enduring energy shortages. Americans aren't paying higher taxes either. In other words, “Ukraine fatigue is more myth than reality,” they say.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Sexual Harassment and Sexual Assault in Military Settings",
+        "descriptions": "In a new study, RAND researchers review the evidence on sexual assault and sexual harassment during military service, the mental health conditions associated with sexual trauma, the effectiveness of treatments, and barriers to accessing and receiving care. The findings may help the Department of Defense improve the health care response for service members who have been victims of sexual assault or harassment.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-january-13/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1673651478189.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Female service member sitting on a couch, photo by Prostock-Studio/Getty Images"
+        }
+      },
+      {
+        "title": "How's Democracy Doing? To Find Out, Measure Civic Infrastructure",
+        "descriptions": "Photo by Evelyn Hockstein/Reuters Last year's midterm elections saw high voter turnout in many states. This is a good sign, but it may not mean that American democracy is on the upswing, say RAND experts. While voting is a useful measurement of public participation in the democratic process, it doesn't tell the whole story. Finding ways to measure and monitor other important aspects of “civic infrastructure,” such as voter laws, civic education opportunities, and trust in government, could help fill in the gaps.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "What Might Space Look Like in 2050?",
+        "descriptions": "Could humans soon grow food, play sports, or film movies in space? Researchers at RAND Europe looked at how trends in more than a dozen economic sectors could play out in space between now and 2050. They found it would not take huge breakthroughs to make space and space travel a much bigger part of everyday life. In fact, if the cost to launch people and payloads into space continues to drop, then it could kick off a new era of extraterrestrial development.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:18:10.485540",
+  "crawling_time_epoch": 1703240290,
+  "type": "Announcement",
+  "title": "Panel Discussion on \"Truth Decay\" in Europe",
+  "url": "https://www.rand.org/randeurope/about/news/2022/truth-decay-panel-discussion.html",
+  "descriptions": "RAND Europe, together with the German Marshall Fund of the United States (GMF) in Brussels, co-hosted an event on 20 September 2022 focused on Truth Decay in Europe. Attended by 40 external guests, the event was an opportunity to re-connect with Brussels contacts and introduce RAND Europe’s work to new audiences.",
+  "posted": "Sep 29, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/randeurope/about/news/2022/truth-decay-panel-discussion/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1671831378597.jpeg",
+    "desc": ""
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "",
+      "name": "",
+      "profile": null,
+      "profession": "",
+      "profile_picture": {
+        "url_pict": null,
+        "width": null,
+        "height": null,
+        "desc": null
+      },
+      "Article": "Ian Lesser, David Salvo, Lutz Güllner, Axelle Devaux, and Stijn Hoorens Photo by Magdalena Douleva/RAND Europe 29 September 2022 RAND Europe, together with the German Marshall Fund of the United States (GMF) in Brussels, co-hosted an event on 20th September focused on Truth Decay in Europe. Attended by 40 external guests, the event was an opportunity to re-connect with our Brussels contacts and introduce RAND Europe’s work to new audiences. Stijn Hoorens presented the key findings of RAND’s Truth Decay in Europe report, after which followed a panel discussion featuring Lutz Güllner, Head of Division for Strategic Communication, Task Forces and Information Analysis at the European External Action Service; David Salvo, Deputy Director of the Alliance for Securing Democracy and a GMF Senior Fellow; and Axelle Devaux, RAND Europe Research Leader. Ian Lesser, Vice President and Executive Director of the GMF Brussels Office, moderated the discussion. The interactive and wide-ranging conversation touched on the confusion that persists when defining and naming the problem, and that it is not necessarily a new phenomenon, but that its effects are exacerbated by technological developments and changing media business models. There was an acknowledgement that Europe is not homogenous when it comes to individual countries’ contexts and the extent to which Truth Decay can be observed locally, and a consensus that, while not as prevalent as in the United States, an effective response to Truth Decay in Europe would require piecing together, at an unprecedented level, multiple policy areas (education, skills, social media regulation) and building resilience."
+    }
+  }
+}

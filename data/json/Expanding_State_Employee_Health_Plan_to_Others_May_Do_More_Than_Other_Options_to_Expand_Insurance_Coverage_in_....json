@@ -1,0 +1,46 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:19:17.670189",
+  "crawling_time_epoch": 1703240357,
+  "type": "News Release",
+  "title": "Expanding State Employee Health Plan to Others May Do More Than Other Options to Expand Insurance Coverage in ...",
+  "url": "https://www.rand.org/news/press/2022/03/31/index1.html",
+  "descriptions": "Among options to increase health insurance coverage in Connecticut, making a version of the state's employee health plan available to small businesses and some other employers would insure the most people at the lowest cost to the state.",
+  "posted": "Mar 31, 2022",
+  "image": {
+    "thumb": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Preethi Rao",
+      "profession": "Health Economist",
+      "biography": "Preethi Rao (she/her) is a health economist at the RAND Corporation. Her research focuses on topics related to health policy. In particular, she is interested in policy issues related to the Affordable Care Act, prescription drug costs, access to health care, and quality measurement in health…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/r/rao_preethi/_jcr_content/par/bio.crop.130x130.cm.jpeg/1691674091329.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Preethi Rao"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "tags": [
+      "Connecticut",
+      "Employer Sponsored Health Insurance",
+      "Health Insurance Cost Sharing",
+      "Health Insurance Markets",
+      "www.rand.org"
+    ],
+    "Article": "Among options to increase health insurance coverage in Connecticut, making a version of the state's employee health plan available to small businesses and some other employers would insure the most people at the lowest cost to the state, according to a new RAND Corporation report. Creating a version of the state health plan for small businesses holds the promise for stabilizing or reducing consumer costs, improving plan generosity, and bringing more people into the market, according to the analysis. Other strategies such as expanding state subsidies for people buying into the state's marketplace for individual insurance plans or creating a state-contracted, privately operated plan (“public option plan”) also could help reduce the number of uninsured Connecticut residents. But those options are likely to insure fewer people and could have unexpected consequences, such as increasing costs for some low-income enrollees because of the complex nature of rules governing subsidies for insurance marketplaces for individuals, according to the report. “Our analysis of the options being discussed in Connecticut to increase health insurance enrollment in the individual marketplace suggests there could be winners and losers,” said Preethi Rao, the report's lead author and a policy researcher at RAND, a nonprofit research organization. “Some people might be better off under some of the scenarios and others might be less well off.” Although the federal Affordable Care Act greatly increased health insurance enrollment in Connecticut, policymakers have expressed interest in considering policies to further expand coverage and improve affordability for consumers. Options under consideration include: expanding subsidies to people who purchase coverage on the state's health insurance marketplace; introducing a public option plan on the state's marketplace; and offering a version of the state employee health plan that would be available to small businesses, large nonprofit organizations, and certain other types of workers. RAND researchers used the COMPARE microsimulation model to examine various policy options to understand how they might influence the number of Connecticut residents enrolled in health insurance, costs to individuals, and costs to the state. The study models outcomes under both the assumption that subsidy enhancements that were implemented as part of the American Rescue Plan Act of 2021 will continue after 2022, as well as under the assumption that the enhancements disappear at the end of 2022 (this now appears to be the most likely scenario). The report found that, on average, the addition of a version of the state employee health plan would increase affordability for consumers by offering lower premiums (due to lower administrative costs for the plan) and higher generosity of the services covered. The analyses showed that total insurance enrollment would increase by 5,500 to 6,900, depending on the details of the plan under the most likely scenario. Total insurance enrollment increased modestly relative to current law under most of the scenarios modeled when enhanced marketplace subsidies were introduced. The report found that introduction of a public option plan along with increased subsidies led to a substantial increase in enrollment among unsubsidized individual market enrollees, many of whom switched from employer-sponsored insurance. However, there was also a reduction in enrollment among subsidized marketplace enrollees. This occurs because the introduction of a lower-cost public option plan would lead to a reduction in the value of their subsidies on the marketplace. Among Connecticut residents who receive government subsidies to buy insurance in the individual marketplace, consumer spending on premiums and out-of-pocket costs falls when more-generous subsidies are introduced by themselves. However, the introduction of a public option plan reduces the value of subsidies for these individuals, leading to an increase in consumer spending relative to current law. Among unsubsidized individuals, spending remained relatively constant when subsidies became more generous for others, but spending fell when the public option was introduced. “Under current laws, it would be hard for a public option in the individual marketplace to make everyone better off, since lowering premiums generally reduces costs for unsubsidized enrollees, but also lowers the value of the subsidy for subsidized enrollees,” Rao said. “There would need to be changes to underlying federal regulations before a public option could benefit everyone.” For example, she said, if the public option plan could be offered only on the bronze and gold tiers of the state's insurance marketplace, this would allow for lower marketplace premiums while avoid substantial change to the silver tier, and therefore to subsidies. However, this is not permissible under current federal law. Alternatively, if the introduction of the public option plan would lead to federal advanced premium tax credit savings, Connecticut could apply for a waiver to use the federal savings toward reducing costs for low-income individuals. Support for the research was provided by Arnold Ventures and the Commonwealth Fund. The findings are contained in two publications, “Increasing Subsidies and Expanding Health Insurance Options in Connecticut” and “Increasing Subsidies and Expanding Health Insurance Options in Connecticut: Findings Without the Build Back Better Act,” which are available at www.rand.org. Other authors of the research are Federico Girosi, Raffaele Vardavas, Lawrence Baker, and Christine Eibner. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:05:14.759112",
+  "crawling_time_epoch": 1703239514,
+  "type": "Blog",
+  "title": "Risks of AI, Israel Faces Hard Choices, China 'Doesn't Get It': RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-october-20.html",
+  "descriptions": "This weekly recap focuses on the risks of artificial intelligence, tough choices facing the Israeli government, China's blunders on the international stage, and more.",
+  "posted": "Oct 20, 2023",
+  "image": {
+    "thumb": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1697818434748.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Artificial Intelligence",
+      "China",
+      "Gaza Strip",
+      "Geopolitical Strategic Competition",
+      "Infrastructure",
+      "Israel",
+      "Los Angeles",
+      "Military Veterans",
+      "Postsecondary Education",
+      "Racial Equity",
+      "Residential Housing",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss the potential implications of an AI revolution; difficult choices facing the Israeli government; why China needs a wake-up call; the housing cost burden among U.S. veterans; what states and colleges are doing to build “stackable” credentials; and the importance of focusing on equity for the 2028 Olympic Games.",
+    "sub_article": [
+      {
+        "title": "Could AI Be Misused to Plan Biological Attacks?",
+        "descriptions": "Artificial intelligence is advancing rapidly—with serious implications. For example, biological attacks that failed in the past because of a lack of knowledge might succeed in a world in which bad actors can use AI tools to bridge the information gap. A new preliminary study by RAND researchers explores this risk, focusing particularly on how large language models, or LLMs, could aid in carrying out a biological attack. The study employs red teams—experts pretending to be malicious actors—to scrutinize LLMs across various fictional scenarios. In one scenario, the red teams asked an LLM about how to obtain and distribute specimens infected with Yersinia pestis, the bacteria that causes plague. In another, they asked the LLM for a cover story that could be used to help acquire Clostridium botulinum, which causes botulism. Initial findings show that LLMs can produce concerning outputs that could assist in planning a biological attack. However, it remains to be seen whether the capabilities of existing LLMs represent a new level of threat beyond the harmful information that is readily available online.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1697813653701.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A futuristic computer interface showing a globe, biohazard warning symbol, keyboard, and human model, image by SergeyBitos/Getty Images"
+        }
+      },
+      {
+        "title": "Israel Faces Hard Choices",
+        "descriptions": "Photo by Violeta Santos Moura/Reuters RAND's Gian Gentile spoke with NPR this week about the Israel-Hamas war. In the interview, he discusses the importance of preventing civilian casualties, the challenges posed by Hamas’s vast network of tunnels, and the tough choices ahead for Israel. “I think they can effectively destroy Hamas,” he said. “But there's going to be a lot of hard fighting and a lot of destruction. And then the question after they defeat Hamas is, what comes next?”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1697813903778.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Israeli tanks take up position near Israel's border with the Gaza Strip, in southern Israel, October 13, 2023, photo by Violeta Santos Moura/Reuters"
+        }
+      },
+      {
+        "title": "China Doesn't Get It",
+        "descriptions": "Photo by Ichiro Ohara/The Yomiuri Shimbun via Reuters From questioning the sovereignty of ex-Soviet republics, to banning all Japanese seafood imports, China has recently taken what RAND's Jeffrey Hornung calls a “series of several foolish actions.” Beijing's attempts to bully, rewrite, or lie its way to a leading position in the international community may backfire, he says: “Countries will not follow an arrogant China trying to force a version of an international order based on its distorted interpretations.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy_.fit.800x0.jpeg/1697814197380.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "The latest self-declared map released by China showing almost the entire South China Sea as its territorial waters, September 1, 2023, photo by Ichiro Ohara/The Yomiuri Shimbun via Reuters"
+        }
+      },
+      {
+        "title": "What Is the Housing Cost Burden Among U.S. Veterans?",
+        "descriptions": "A new RAND report explores the housing cost burden that U.S. veteran households face. The findings reveal that veteran households are generally better off than comparable nonveteran households. But that difference goes away among low-income households. Also, some veteran populations, such as women and renters, are more likely to experience housing cost burden. This may suggest areas to focus on moving forward.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1697814346022.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A girl on a man's shoulders putting an American flag on a house, photo by gorodenkoff/Getty Images"
+        }
+      },
+      {
+        "title": "How to Build Stackable Credentials",
+        "descriptions": "More than one million people earn short-term certificates in U.S. colleges each year. Many students can then “stack” these credentials and enroll in higher-level coursework, leading to gains in earnings (especially if students go on to earn a degree). RAND researchers have been assessing what states and colleges are doing to make stackable credentials available to more students—and building evidence on whether these programs are achieving their goals.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1697817823863.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Illustration of a Black man and a White woman looking at a chart showing bars stacked up with arrows between them, leading to a check mark in a circle, photo by Rudzhan Nagiev/Getty Images"
+        }
+      },
+      {
+        "title": "Focusing on Equity for the 2028 Olympic Games",
+        "descriptions": "Photo by Image of Sport/Reuters Los Angeles will host the 2028 Olympic and Paralympic Games. This fast-approaching global event is expected to draw 15,000 athletes—not to mention millions of spectators—further complicating L.A.'s already fraught transportation and housing situation. To help address potential problems, RAND's Center to Advance Racial Equity Policy is working with partners in the community to identify equity-centered infrastructure investments. The goal: help ensure the Games have a positive, enduring legacy.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-20/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1697818565830.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Aerial view of the Intuit Dome construction site with SoFi Stadium in the background in Inglewood, California, October 13, 2023, photo by Image of Sport/Reuters"
+        }
+      }
+    ]
+  }
+}
