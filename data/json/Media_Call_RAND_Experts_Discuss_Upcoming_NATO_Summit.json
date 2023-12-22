@@ -1,0 +1,51 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:56:33.065311",
+  "crawling_time_epoch": 1703242593,
+  "type": "Media Advisory",
+  "title": "Media Call: RAND Experts Discuss Upcoming NATO Summit",
+  "url": "https://www.rand.org/news/advisories/2023/07/05.html",
+  "descriptions": "RAND experts will discuss the upcoming NATO Summit in Vilnius, Lithuania. Topics of conversation include NATO's continued support for Ukraine, strengthening the alliance's overall defense and deterrence, the addition of Finland as a NATO member, and the potential accession of Sweden. The summit takes place July 11–12, 2023.",
+  "posted": "Jul 5, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/advisories/2023/07/05/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1688591210210.jpeg",
+    "desc": "A NATO flag flutters at the Tapa military base, Estonia April 30, 2023, photo. by Ints Kalnins/Reuters"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "What": "RAND experts will discuss the upcoming NATO Summit in Vilnius, Lithuania. Topics of conversation include NATO's continued support for Ukraine, strengthening the alliance's overall defense and deterrence, the addition of Finland as a NATO member, and the potential accession of Sweden. The summit takes place July 11–12, 2023."
+      },
+      {
+        "Who": "Confirmed experts are:"
+      },
+      {
+        "When": "Thursday, July 6, 2023\n11:30 a.m. EDT"
+      },
+      {
+        "Where": "To join this virtual conversation, please contact media@rand.org for a link."
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "tags": [
+      "Finland",
+      "International Diplomacy",
+      "North Atlantic Treaty Organization",
+      "Russia",
+      "Security Cooperation",
+      "Sweden",
+      "Ukraine",
+      "United States",
+      "Warfare and Military Operations",
+      "www.rand.org"
+    ],
+    "Article": ""
+  }
+}

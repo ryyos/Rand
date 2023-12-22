@@ -1,0 +1,54 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:48:25.877718",
+  "crawling_time_epoch": 1703242105,
+  "type": "News Release",
+  "title": "U.S. Armed Forces Capabilities in Arctic Region Pose National Security Risks, Need Strengthening",
+  "url": "https://www.rand.org/news/press/2023/11/01.html",
+  "descriptions": "The United States needs to strengthen its ability to protect its Arctic interests as the region becomes a more active security environment. Key areas for improvement include communications, infrastructure, training, equipment, tactics and the ability to scale presence.",
+  "posted": "Nov 1, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Abbie Tingstad",
+      "profession": "Adjunct Senior Physical Scientist",
+      "biography": "Abbie Tingstad is an adjunct senior physical scientist at RAND and a professor of policy analysis at the Pardee RAND Graduate School. Her research focuses on issues related to strategy and planning in defense and homeland security, and for the environment. Research examples include: examining…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/t/tingstad_abbie/_jcr_content/par/bio.crop.130x130.cm.jpeg/1691696946225.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Abbie Tingstad"
+      }
+    },
+    "researcher": [
+      {
+        "research": "Infrastructure, Immigration, and Security Operations",
+        "profile": "https://www.rand.org/hsrd/programs/infrastructure-immigration-and-security-operations.html"
+      },
+      {
+        "research": "RAND Homeland Security Research Division",
+        "profile": "https://www.rand.org/hsrd.html"
+      }
+    ],
+    "tags": [
+      "Arctic Region",
+      "China",
+      "Global Climate Change",
+      "Military Logistics",
+      "Military Strategy",
+      "Russia",
+      "United States",
+      "United States Coast Guard",
+      "www.rand.org"
+    ],
+    "Article": "The United States needs to strengthen its ability to protect its Arctic interests as the region becomes a more active security environment, according to a new RAND report. Key areas for improvement include communications, infrastructure, training, equipment, tactics, and the ability to scale presence. “Beyond strategic competition and concerns about the possibility of a NATO-Russia clash, the armed forces of the United States—particularly the U.S. Coast Guard—contend with safety, national security, law enforcement, legal, and environmental issues in the region,” said lead author Abbie Tingstad, a senior researcher at RAND. Failing to address these military needs could harm U.S. Arctic interests, contributing to Russian domination of the Arctic and increased Chinese influence in the area, the report finds. Continued low capacity may result in a perception of a security vacuum, which Russia and China could exploit. Capability deficits would limit U.S abilities to operate with and rely on allied partners and curtail the Coast Guard's ability to protect the region's peoples. Researchers recommend faster implementation of the Arctic strategies not only of the Coast Guard but of the U.S. Department of Homeland Security (DHS), the Department of Defense (DoD), and other military services. This could include regular updates of strategy documents, formalizing actions, and collaborations, advocating for a stronger emphasis on the Arctic region in national strategies and plans, and continuing to establish liaisons with other U.S. government and foreign-partner teams. They also recommend more funding for priority needs of the Coast Guard and DHS, such as icebreaking vessels and logistical hubs. The United States could also seek opportunities to benefit from commercial investments in innovation. Research collaboration between the DHS, DoD organizations, and academic institutions could be strengthened. Expanding exercises, operations, and information-sharing with international partners could also strengthen U.S. capacity and capabilities. The report is the result of a requirement of the National Defense Authorization Act (NDAA) for fiscal year 2021 for a report on the Arctic capabilities of the U.S. armed forces."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:11:28.539604",
+  "crawling_time_epoch": 1703243488,
+  "type": "News Release",
+  "title": "Food Insecurity Affects Many Active-Duty U.S. Military Families, but Root Causes Remain Unclear",
+  "url": "https://www.rand.org/news/press/2023/01/04.html",
+  "descriptions": "More than a quarter of active-duty military personnel have faced some level of food insecurity, but the underlying causes are not well understood.",
+  "posted": "Jan 4, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Beth J. Asch",
+      "profession": "Senior Economist",
+      "biography": "Beth Asch is a senior economist at the RAND Corporation and professor of policy analysis at Pardee RAND Graduate School. Her areas of study include labor economics and defense manpower. She has led numerous studies on compensation design in the military and in the federal civil service, on the…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/a/asch_beth_j/_jcr_content/par/bio.crop.130x130.cm.jpeg/1691798083017.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Beth Asch"
+      }
+    },
+    "researcher": [
+      {
+        "research": "Personnel, Readiness, and Health Program",
+        "profile": "https://www.rand.org/nsrd/prh.html"
+      },
+      {
+        "research": "National Defense Research Institute",
+        "profile": "https://www.rand.org/nsrd/ndri.html"
+      },
+      {
+        "research": "RAND National Security Research Division",
+        "profile": "https://www.rand.org/nsrd.html"
+      }
+    ],
+    "tags": [
+      "Food Insecurity",
+      "Military Families",
+      "Military Health and Health Care",
+      "National Defense Authorization Act",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "More than a quarter of active-duty military personnel have faced some level of food insecurity, but the underlying causes are not well understood, new RAND Corporation research finds. Members were classified as “food insecure” if they answered affirmatively to two or more of the six U.S. Department of Agriculture food security questions on the 2016 and 2018 Department of Defense (DoD) Status of Forces Surveys of Active-Duty Members. Data from the most recent 2020 survey was unavailable for this report, which was commissioned in January 2021 by the Office of the Secretary of Defense in response to the 2020 National Defense Authorization Act. “It's clear from the DoD surveys that food insecurity in the military is a problem that affects a wide variety of military families, but we don't yet have a good handle on why,” said Beth Asch, a senior economist at RAND and lead author of the study. “While DoD has taken an important step to understand the scope of food insecurity, more work needs to be done to grasp the underlying reasons why the rate of food insecurity reported in the survey is so high.” According to the report, food-insecure members were more likely to be early- to mid-career enlisted personnel in grades E-4 to E-6, single with children, married without children, or a racial or ethnic minority. They also were disproportionately in the Army and, to a lesser extent, the Navy. Those who lived on post in 2018 were relatively more likely to be food insecure—30 percent versus 23 percent for those who lived off post. Those who lived on post and received a basic allowance for housing (BAH) had a higher rate of food insecurity (32 percent) than both those who lived off post and received BAH (23 percent) and those who lived on post and did not receive BAH (25 percent). In general, those who lived on post should have had lower transportation costs and lived closer to the commissary, and thus should have had higher resources for food, according to the report. The analysis did not examine whether member seniority, number of dependents, or other demographic differences could explain this result. Less than a quarter of food-insecure members said it was tough to make ends meet, a figure still higher than reported by food-secure members (2.5 percent). They also were more likely to have recently provided unplanned financial support to family outside their immediate household. The study also examined military members' use of food assistance programs and found that only 14 percent of those classified as food insecure made use of such programs in 2018. The stigma associated with using food assistance programs was a barrier noted by stakeholders, as was a general lack of knowledge about programs and eligibility requirements, long application processes, and limited food pantry hours. Members also were concerned that seeking help for food insecurity assistance or general financial challenges would negatively affect security clearances, but in actuality the instances of this were quite small: In 2018 only 1.8 percent of food-insecure members and 0.9 percent of food-secure members reported that their security clearance was affected by their financial situation. Some food-insecure members supplemented their military pay with other sources of income—more than a quarter borrowed money from family or friends and 15 percent took money out of retirement or investment accounts. And while 71 percent reported some financial trouble, nearly two-thirds of them reported that their problems were occasional rather than chronic, suggesting that a significant fraction had less-frequent problems with food. Reflecting the complexity of the underlying causes of food insecurity, 69 percent of food-insecure members also reported that they had emergency savings and 29 percent reported being “very comfortable and secure” or “able to make ends meet.” “Although some food-insecure members are clearly in a tough situation, the fact that most have emergency savings but don't use it to address their food needs, and that others report being comfortable and secure, illustrates the need for further study and more-informative survey metrics,” Asch said. The study also assessed the use of a Basic Needs Allowance (BNA) to supplement household income, but found stakeholders mixed on whether the BNA would reduce food insecurity because the underlying causes have not been identified. Researchers determined that most members meeting eligibility requirements for BNA would be in the Army, while the number who would be eligible depended importantly on what elements of military compensation were included in income for determining eligibility. The authors recommend more analysis on the root causes of food insecurity and note that DoD should consider additional, more-informative metrics when surveying military personnel about the issue. They note several pressing questions that DoD needs to address. Key among them is how enlisted personnel can earn more than their civilian counterparts in the general population yet still be food insecure at higher rates (25.8 percent vs. 9 percent). This report was conducted within the Forces and Resources Policy Center of the National Defense Research Institute, a federally funded research and development center operated by the RAND National Security Research Division. Other authors of the study, “Food Insecurity Among Members of the Armed Forces and Their Dependents” are Stephanie Rennane, Thomas E. Trail, Lisa Berdie, Jason M. Ward, Dina Troyanker, Catria Gadway-Meaden, and Jonas Kempf."
+  }
+}

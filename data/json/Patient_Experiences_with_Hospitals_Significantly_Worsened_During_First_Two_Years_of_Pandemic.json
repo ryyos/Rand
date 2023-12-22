@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:53:10.157046",
+  "crawling_time_epoch": 1703242390,
+  "type": "News Release",
+  "title": "Patient Experiences with Hospitals Significantly Worsened During First Two Years of Pandemic",
+  "url": "https://www.rand.org/news/press/2023/08/25.html",
+  "descriptions": "The experiences of patients hospitalized during the COVID-19 pandemic were significantly worse than in the years before the crisis, with hospitals with higher staffing levels holding onto better scores longer.",
+  "posted": "Aug 25, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/press/2023/08/25/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1693259857987.jpeg",
+    "desc": "Doctor wearing PPE talking to patient in a hospital, photo by Morsa Images/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Marc N. Elliott",
+      "profession": "Distinguished Chair in Statistics",
+      "biography": "Marc N. Elliott is a senior principal researcher at the RAND Corporation and holds its Distinguished Chair in Statistics. His areas of interest include health equity, quality measurement, Medicare, healthcare experiences, survey sampling, experimental design, causal inference, and case-mix…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/e/elliott_marc_n/_jcr_content/par/bio.crop.130x130.cm.jpeg/1495299154938.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Marc Elliott"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "tags": [
+      "Coronavirus Disease 2019 (COVID-19)",
+      "Hospitals",
+      "Pandemic",
+      "Patient Experience",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "The experiences of patients hospitalized during the COVID-19 pandemic were significantly worse than in the years before the crisis, with hospitals with higher staffing levels holding onto better scores longer, according to a new RAND Corporation study. Patients particularly reported worse staff responsiveness and hospital cleanliness, possibly reflecting staffing shortages in the hospital workforce and the effects of protocols needed to limit the spread of COVID-19, according to researchers. Deficits were largest for hospitals that in the pre-pandemic period were lower-performing and had lower staffing levels. The findings are published in the journal JAMA Health Forum. “This unprecedented decline in patient experience was seen in every region of the United States, with relatively little regional variation,” said Marc Elliott, the study's lead author and a senior principal researcher at RAND, a nonprofit research organization. “Hospitals with higher staffing levels and better overall pre-pandemic quality were more resilient and slower to see their decline. But eventually even their patients also reported worse experiences.” The onset of the COVID-19 pandemic created unprecedented challenges for the nation's acute-care hospitals, including having health care professionals fear being exposed to COVID-19 at work and infecting family members. To comply with Centers for Disease Control guidelines related to COVID infection control, hospitals adopted new protocols involving social distancing, masks and face shields, and restricted visitor access. To examine how the pandemic-era changes affected patient experiences, the RAND study analyzed responses to the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey, which is routinely administered to patients treated at the nation's short-term acute care hospitals following their discharge. The survey is sponsored by the federal Centers for Medicare & Medicaid Services and is a widely used tool to report hospital quality to consumers. Researchers analyzed survey results from more than 9 million patients who were treated at 3,381 hospitals, compiling results from 2018 through 2021. The analysis found that by the fourth quarter of 2021, a summary measure of patient experiences was 3.6 percentage points lower across all hospitals than would have been expected without the pandemic—considered a medium-size effect for patient experience measures. Scores decreased by large amounts for questions about staff responsiveness and hospital cleanliness. Moderate declines were seen for overall hospital rating and recommendation, communication about medicines, communication with nurses, communication with doctors, and care transitions. The decline of the overall rating and hospital recommendation lagged the decline in more-specific patient experience measures, possibly reflecting lower expectations in patients' overall assessments at the onset of the pandemic, according to the study. However, as the pandemic continued, the global ratings also declined to a similar extent as the more-specific measures of patient experience. “This pattern suggests that global ratings alone do not fully capture changes in specific patient experiences, nor do they identify the areas in need of improvement, especially in the face of unusual events such as a pandemic,” Elliott said. Support for the study was provided by the federal Centers for Medicare & Medicaid Services. Other authors of the study are Megan K. Beckett of RAND; Christopher W. Cohea, Laura A. Giordano, and Chelsea Russ of the Health Services Advisory Group; William G. Lehrman, Elizabeth H. Goldstein, and Lee A. Fleisher of the Centers for Medicare & Medicaid Services; and Paul D. Cleary of the Yale School of Public Health. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

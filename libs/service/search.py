@@ -6,6 +6,7 @@ from fake_useragent import FakeUserAgent
 from icecream import ic
 from datetime import datetime
 from time import time, sleep
+from typing import Union
 
 from libs.helpers.Parser import Parser
 from libs.helpers.Writer import Writer
@@ -27,6 +28,19 @@ class Search:
             'User-Agent': self.__user_agent.random
         }
 
+
+    """  __complement_url()
+    function untuk melengkapi URL dengan menambahkan base URL.
+
+    Args:
+      pieces_url (str): Potongan URL
+
+    Exception:
+        untuk menghandle jika Potongan URL yang dikirim None
+      
+    Returns:
+      str: URL falid
+    """
     def __complement_url(self, pieces_url: str) -> str:
         try:
             if "https://" not in pieces_url:
@@ -35,7 +49,19 @@ class Search:
         except Exception:
             return pieces_url
 
-    def __retry(self, url, max_retries= 5, retry_interval= 0.2) -> Response :
+
+    """ __retry()
+    function untuk menghandle jika request gagal. 
+
+    Args:
+      url (str): URL request
+      max_retries (int): Maksimal perulangan
+      retry_interval (float | int): Selang waktu antar perulangan
+
+    Returns:
+      Response: Response hasil request
+    """
+    def __retry(self, url: str, max_retries: int= 5, retry_interval: Union[int, float] = 0.2) -> Response :
         for _ in range(max_retries):
             try:
                 response = requests.get(url=url, headers=self.__headers)
@@ -46,7 +72,17 @@ class Search:
             retry_interval+= 0.2
         return response
 
-    def __filter_tags(self, pieces_url: str):
+
+    """ __filter_tags()
+    function untuk mengambil domain dari URL.
+
+    Args:
+      pieces_url (str): Potongan URL
+    
+    Returns:
+      str: Domain dari URL
+    """
+    def __filter_tags(self, pieces_url: str) -> str:
         try:
             if "https://" in pieces_url:
                 return pieces_url.split("/")[2]
@@ -56,10 +92,22 @@ class Search:
             return pieces_url
 
 
+    """ __split_string()
+    function untuk memecah string menjadi beberapa bagian 
+    berdasarkan panjang yang ditentukan.
+
+    Args:
+      input_string (str): String input
+      many (int): Panjang string setiap list
+
+    Returns:
+      list: List string hasil pemecahan
+    """
     def __split_string(self, input_string: str, many: int):
         return [input_string[i:i+many] for i in range(0, len(input_string), many)]
 
 
+    # Filter untuk Yang website bertipe testimony
     def testimony(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -92,7 +140,7 @@ class Search:
 
 
 
-
+    # Filter untuk Yang website bertipe q&a
     def qna(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -112,7 +160,7 @@ class Search:
         return results
 
 
-
+    # Filter untuk Yang website bertipe media_advisory
     def media_advisory(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -136,6 +184,7 @@ class Search:
         return results
 
 
+    # Filter untuk Yang website bertipe essay
     def essay(self, url_artc) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -163,6 +212,7 @@ class Search:
         return results
 
 
+    # Filter untuk Yang website bertipe article
     def article(self, url_artc) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -189,6 +239,8 @@ class Search:
         results["tags"].append(self.__filter_tags(url_artc))
         return results
 
+
+    # Filter untuk Yang website bertipe blog
     def blog(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -219,6 +271,7 @@ class Search:
         return results
 
 
+    # Filter untuk Yang website bertipe announcement
     def announcement(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -244,6 +297,7 @@ class Search:
         return results
 
 
+    # Filter untuk Yang website bertipe news_release
     def news_release(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -279,6 +333,7 @@ class Search:
         return results
 
 
+    # Filter untuk Yang website bertipe commentary
     def commentary(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
@@ -322,13 +377,14 @@ class Search:
             }
         }
         
+        #Logs
         self.__logs.info(status=status,\
                         title=results.get("title"),\
                         type=results.get("type"),\
                         url=results.get("url"),\
                         )
 
-
+        # Menentukan Filter
         match self.__parser.ex(html=pieces_table, selector='div.text p.type').text():
             case "Commentary":
                 results.update({
@@ -383,6 +439,13 @@ class Search:
 
         return results
 
+
+    """
+    function utama untuk eksekusi scraping.
+
+    Args:
+      url (str): URL request
+    """
     def execute(self, url: str):
         response = self.__retry(url=url)
         html = PyQuery(response.text)

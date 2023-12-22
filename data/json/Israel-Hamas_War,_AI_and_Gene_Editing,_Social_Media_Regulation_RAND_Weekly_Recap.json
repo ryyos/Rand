@@ -1,0 +1,95 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:48:47.799802",
+  "crawling_time_epoch": 1703242127,
+  "type": "Blog",
+  "title": "Israel-Hamas War, AI and Gene Editing, Social Media Regulation: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-october-27.html",
+  "descriptions": "This weekly recap focuses on the Israel-Hamas war, the convergence of machine learning and gene editing, regulating social media while protecting free speech, and more.",
+  "posted": "Oct 27, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1698428504015.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Artificial Intelligence",
+      "Biotechnology",
+      "China",
+      "Gaza Strip",
+      "Information Operations",
+      "Israel",
+      "Law of War",
+      "Lithuania",
+      "Military Strategy",
+      "Science, Technology, and Innovation Policy",
+      "Security Cooperation",
+      "Social Media",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss Israel's failed strategy in Gaza; the importance of protecting civilians amid the Israel-Hamas war; what happens when machine learning and gene editing meet; how to dismantle the disinformation business of Chinese influence operations; regulating dangerous information on social media while protecting free speech; and Lithuania's success story.",
+    "sub_article": [
+      {
+        "title": "The Failure of Israel’s Gaza Strategy",
+        "descriptions": "Israeli airstrikes in Gaza have been intensifying, while troops and tanks are on standby in preparation for a ground invasion of the territory that could begin any day. This is likely only the start of Israel's response to the horrific attacks carried out by Hamas earlier this month. According to RAND's Raphael Cohen, Hamas’s assault underscored the inevitable—and ongoing—failure of Israel’s strategy in Gaza, which many Israeli analysts have called “mowing the grass.” The last decade and a half has been dominated by a grim cycle, Cohen says. Some Palestinians who are frustrated by the awful conditions in Gaza turn to groups like Hamas. Israel then imposes restrictions, making living conditions in Gaza even worse, and unrest grows. Hamas and others capitalize on this unrest and attack Israel. Then, Israel responds by “mowing the grass,” killing the perpetrators of the attack, along with some number of Palestinian civilians. This buys Israel, at best, a few years of relative peace, while fueling more radicalization. And then, the cycle continues. Although attention is currently focused on the immediate situation on the ground, Cohen says that, after “mowing the grass” has failed so spectacularly, it’s essential to ask what can break this deadly cycle. Once Israel’s fight against Hamas has ended, he says, it will have to rebuild Gaza into something better, give Palestinians a chance at economic prosperity, and help ensure that they have political options besides Hamas or the corrupt Palestinian Authority. This will be difficult. It may also be hard for some Israelis to stomach, considering Hamas’s atrocities. But as Cohen writes, “It is nevertheless what's necessary to end the cycle of mowing the grass only to watch it grow back.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1698425675131.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "An Israeli soldier looks out from a tank as an artillery unit gathers near Israel's border with the Gaza Strip, in southern Israel, October 12, 2023, photo by Ronen Zvulun/Reuters"
+        }
+      },
+      {
+        "title": "Sparing Civilian Lives in Gaza",
+        "descriptions": "Photo by Sameh Rahmi/Reuters The Israeli response to Hamas's deadly October 7 attacks is still in its early stages. But the moral obligation to reduce civilian harm in Gaza cannot be ignored, says RAND's Karen Sudkamp. This is especially important considering that Hamas is deeply integrated into the civilian population and infrastructure in Gaza. Previous RAND research on the U.S.-led battle to expel ISIS from the town of Raqqa, Syria, highlights key lessons that can help protect civilians as the Israel-Hamas war progresses.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1698425875243.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Smoke rises over buildings during an Israeli air strike in Gaza City, October 9, 2023, photo by Sameh Rahmi/Reuters"
+        }
+      },
+      {
+        "title": "What Happens When AI and Gene Editing Meet?",
+        "descriptions": "Genetic enhancements that prevent disease. Synthetic embryos. Scalable biological weapons. The convergence of two revolutionary technologies—machine learning and gene editing—could make these hypothetical scenarios possible. What can be done to minimize the potential risks and maximize the potential benefits? Researchers from RAND Europe and RAND explore this question in a new report. They emphasize the need to implement nimble policy, focus on data, and incentivize international collaboration.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy_.fit.800x0.jpeg/1698426545280.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Illustration depicting genetic editing, image by LuckyStep/Adobe Stock"
+        }
+      },
+      {
+        "title": "How to Dismantle the Disinformation Business",
+        "descriptions": "China's growing use of social media to manipulate and disrupt democratic societies is well documented. Despite this, there is currently a lack of U.S. policies targeting companies that benefit from their involvement in Chinese influence operations. According to experts, there are three keys to dismantling the “disinformation-for-hire” industry: sanctions, legislation that promotes transparency on social media platforms, and a Federal Trade Commission crackdown on deceptive business practices.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1698427441321.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Highlighted map showing China's influence beyond its borders, image by filo/Getty Images"
+        }
+      },
+      {
+        "title": "Protecting Free Speech and Regulating Social Media",
+        "descriptions": "Free speech is essential to democracy. But as online extremism has grown, protecting free speech has also shielded bad actors who spread hate and disinformation. The status quo simply isn’t working, say RAND experts. (If you need evidence, just look online.) That's why it’s time for a close look at the costs and benefits of the three main policy approaches used to address the problem: federal regulation, holding tech platforms liable, and requiring data transparency.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1698427655328.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Social media applications on a smartphone screen, photo by P. Kijsanayothin/Getty Images"
+        }
+      },
+      {
+        "title": "Lithuania's Success May Offer Hope to Ukraine",
+        "descriptions": "Photo by Oliver Berg/Reuters Lithuania spent 50 years under Soviet occupation. Today, this small Baltic nation is an independent, stable democracy and a leader in supporting Ukraine's fight against Russia. What united Lithuania after the Soviet collapse? According to RAND's John Tefft—who previously served as U.S. ambassador to Lithuania and Russia, among other countries—it was support across the political spectrum for achieving membership in NATO and the EU. This success story is now “an advertisement for democracy and market economics during a dark period in Eastern Europe.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-october-27/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1698427766808.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "The business district of Vilnius, Lithuania, October 4, 2023, photo by Oliver Berg/Reuters"
+        }
+      }
+    ]
+  }
+}

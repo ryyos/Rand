@@ -1,0 +1,95 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:03:11.339007",
+  "crawling_time_epoch": 1703242991,
+  "type": "Blog",
+  "title": "Dementia and National Security, Finland Joins NATO, the Four-Day School Week: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-april-07.html",
+  "descriptions": "This weekly recap focuses on the risk that dementia could pose to national security, Finland's NATO membership, the downside of a four-day school week, and more.",
+  "posted": "Apr 7, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-07/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1680896035130.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Academic Achievement",
+      "Alzheimer's Disease and Dementias",
+      "China",
+      "Environmental and Natural Resource Management",
+      "Finland",
+      "Intelligence Community",
+      "National Security Organizations",
+      "North Atlantic Treaty Organization",
+      "Security Cooperation",
+      "Sweden",
+      "Taiwan",
+      "United States",
+      "Warfare and Military Operations",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss how dementia in the national security workforce could create a security threat; Finland becoming the 31st NATO ally; learning loss associated with a four-day school week; this week’s U.S.-Taiwan news; preventing shortfalls in critical materials; and America’s dangerous short war fixation.",
+    "sub_article": [
+      {
+        "title": "Dementia in the National Security Workforce Could Create a Security Threat",
+        "descriptions": "Americans are living longer and retiring later. As these trends continue, the workforce might experience a higher prevalence of dementia than in past generations. This could have serious implications in the national security and intelligence communities. But, up until now, there has not been any publicly available research on the topic. A new RAND paper provides the first look at what appears to be an emerging security blind spot: Individuals who hold or held a security clearance and handled classified material could develop dementia and unwittingly share government secrets. How might the national security community assess this risk and address the potential threat?",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-07/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1680895088416.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "The Pentagon is seen from the air in Washington, D.C., March 3, 2022, photo by Joshua Roberts/Reuters"
+        }
+      },
+      {
+        "title": "Finland Joins NATO. Is Sweden Next?",
+        "descriptions": "Photo by EyePress News/Reuters Last year, following Russia's invasion of Ukraine, Finland and Sweden applied to join NATO. On Tuesday, Finland formally became an ally. According to RAND Europe's Charlotte Kleberg and James Black, Finland's experience assessing Russian capabilities and intentions makes it key to defending what is now the alliance's longest land border with Russia. As for Sweden, a long-term delay in its membership could leave NATO's northern flank more vulnerable to attack.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "With a Shorter School Week, Students Lose More Than Just a Day",
+        "descriptions": "In 2019, more than 1,600 U.S. schools operated on a four-day schedule—and that number may be rising. Recent RAND research shows that students in four-day districts fell behind a little every year. These small changes accumulate. Our researchers estimate that, after eight years, the damage to student achievement could equal that caused by the pandemic. District leaders must consider whether the benefits of a shorter school week outweigh the drawbacks.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "McCarthy-Tsai Meeting Does Taiwan No Favors",
+        "descriptions": "Speaker of the House Kevin McCarthy at the Friends of Ireland Caucus St. Patrick's Day luncheon in Washington, D.C., March 17, 2023 When then–House Speaker Nancy Pelosi visited Taiwan last year, China responded with nearby military exercises and missile launches. This week, Speaker Kevin McCarthy met with Taiwanese President Tsai Ing-wen in California, opting not to make the trip overseas. According to RAND's Derek Grossman, the decision to remain stateside may not deter Chinese aggression. In fact, he says, it could do the opposite if Beijing concludes “acting assertively against Taiwan, as it did after the Pelosi visit, bears fruit.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-07/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1680895396063.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Speaker of the House Kevin McCarthy at the Friends of Ireland Caucus St. Patrick’s Day Luncheon in Washington, March 17, 2023, photo by Yuri Gripas/Sipa USA/Reuters"
+        }
+      },
+      {
+        "title": "It's Time to Prevent Shortfalls in Critical Materials",
+        "descriptions": "Photo by Melanie Burton/Reuters Despite their name, rare earth elements are everywhere—from cellphones and cars to satellites and missiles. This makes China's near-total domination of the rare earth market both an economic and national security concern. In a recent study, RAND researchers looked at how the United States might break its reliance on China for these critical but hard-to-source materials. What's most important, they concluded, is for U.S. policymakers to act quickly; investments made today could take a decade or more to yield results.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "America's Dangerous Short War Obsession",
+        "descriptions": "Photo by Reuters Americans have long fixated on the idea of the short, decisive war. Unfortunately, truly quick wars in U.S. history have been few and far between. And there's little reason to expect concise conflicts in the future, say RAND experts. As a matter of defense planning, the United States should assume that any war it fights will be protracted. “The only thing worse than fighting a long war may be thinking it's possible to avoid one,” they say.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

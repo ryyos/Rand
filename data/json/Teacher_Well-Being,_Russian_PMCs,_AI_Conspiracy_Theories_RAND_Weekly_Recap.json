@@ -1,0 +1,93 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:57:08.686305",
+  "crawling_time_epoch": 1703242628,
+  "type": "Blog",
+  "title": "Teacher Well-Being, Russian PMCs, AI Conspiracy Theories: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-june-23.html",
+  "descriptions": "This weekly recap focuses on how America's teachers are doing, the proliferation of Russian private military companies, preparing for conspiracy theories about artificial intelligence, and more.",
+  "posted": "Jun 23, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-23/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1687561362062.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Artificial Intelligence",
+      "Controlled Substances and Illegal Drugs",
+      "Educator Well-Being",
+      "LGBTQ+ Populations",
+      "Mental Health Treatment",
+      "Military Strategy",
+      "Russia",
+      "Security Cooperation",
+      "Ukraine",
+      "United States",
+      "Veterans Health Care",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss the well-being of America’s teachers; why Ukraine is a breeding ground for Russian private military companies; policy changes related to psychedelics; preparing for conspiracy theories about artificial intelligence; what medical consensus says about health care for transgender veterans; and what U.S. policy in Ukraine may be lacking.",
+    "sub_article": [
+      {
+        "title": "How Are America's Teachers Doing?",
+        "descriptions": "For teachers, rates of job-related stress have returned to pre-pandemic levels. This may be good news, but teachers continue to report worse well-being than the general population of working adults. New results from our 2023 State of the American Teacher Survey provide some insights:",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-23/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1687465662684.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "A tired or stressed teacher at his desk, photo by shironosov/Getty Images"
+        }
+      },
+      {
+        "title": "Ukraine Is a Breeding Ground for Russian PMCs",
+        "descriptions": "Photo by press service of Concord/Handout via Reuters The war in Ukraine has brought the Wagner Group, Russia's largest private military company, out of the shadows. But Wagner isn't alone. The war has also led to the expansion of other private military companies—and the founding of new ones. RAND experts say this “explosion of what are essentially private armies” could have devastating impacts. Ultimately, the Ukraine war may be a catalyst for bloodshed elsewhere in the world at the hands of Russian PMCs.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "State and Local Policy Is Changing for Psychedelics. What Will the Feds Do?",
+        "descriptions": "Photo by Trevor Hughes/Reuters Psychedelics such as psilocybin, MDMA, and LSD are attracting interest as treatments for mental health conditions. This has led some states and cities to change their laws—a shift akin to what began decades ago with medical cannabis. This time around, the changes are happening much faster, say RAND experts. And as more states and localities liberalize their approach to the supply and use of psychedelics, federal policymakers will face mounting pressure to address tough policy questions.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The AI Conspiracy Theories Are Coming",
+        "descriptions": "For as long as there have been scientific breakthroughs and innovations, people have been attaching such developments to conspiracy theories. Artificial intelligence is no different, says RAND's Douglas Yeung. In fact, AI is “ready-made for conspiratorial thinking.” Thus, it's important not only to track AI conspiracy theories, but also to actively counter misinformation. “The time to do this is now,” Yeung says, “before conspiracy theories take hold in the minds of the public.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "What Medical Consensus Says About Care for Transgender Veterans",
+        "descriptions": "Recently proposed legislation would prevent the Department of Veterans Affairs from beginning to offer gender confirmation surgery and restrict its ability to provide medications that are already prescribed to transgender veterans. According to RAND's Kayla Williams, these provisions do not align with medical consensus and would harm vulnerable veterans. “Medical providers and researchers are best-positioned to determine what care is appropriate and effective,” she says.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-23/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1687466465963.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Department of Veterans Affairs sign on a VA building, photo courtesy of Department of Veterans Affairs"
+        }
+      },
+      {
+        "title": "How Not to Help Ukraine",
+        "descriptions": "Photo by Latin America News Agency via Reuters According to RAND experts, America's strategy in Ukraine is a case in which the whole is less than the sum of its parts. Individually, most U.S. decisions make sense. For instance, it's logical for Washington to be opaque about its goals in the conflict and hesitant to provide Kyiv with high-end weapons. But when judged collectively, these decisions add up to a “messy” strategy for supporting a war. Thankfully, Ukraine can still win, they say, but the United States “needs the will and strategy to embrace that victory.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

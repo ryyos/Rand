@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:57:27.682074",
+  "crawling_time_epoch": 1703242647,
+  "type": "Media Advisory",
+  "title": "RAND Experts Testify Before House Committees Today",
+  "url": "https://www.rand.org/news/advisories/2023/06/22.html",
+  "descriptions": "Two experts from the RAND Corporation will appear before congressional committees today, June 22, 2023. RAND President and CEO Jason Matheny will testify before the House Committee on Science, Space, and Technology about artificial intelligence (AI), and Benjamin Boudreaux, a RAND policy researcher, will discuss cutting-edge technologies before the House Oversight Subcommittee on Cybersecurity, Information Technology, and Government Innovation.",
+  "posted": "Jun 22, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/media-advisory.b590e4a.svg",
+    "desc": "Media Advisory"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "Who:": "Two experts from the RAND Corporation will appear before congressional committees today, June 22, 2023. RAND President and CEO Jason Matheny will testify before the House Committee on Science, Space, and Technology about artificial intelligence (AI), and Benjamin Boudreaux, a RAND policy researcher, will discuss cutting-edge technologies before the House Oversight Subcommittee on Cybersecurity, Information Technology, and Government Innovation."
+      },
+      {
+        "What:": "At a hearing titled, “Artificial Intelligence: Advancing Innovation Towards the National Interest,” Matheny will focus on AI regulation and what actions the federal government can do to make AI safer and more trustworthy. He will highlight five actions that the federal government can take to advance AI and strengthen the United States' position as a market leader: investing in potential research moonshots for trustworthy AI; accelerating AI safety and security research and development; conducting risk assessments prior to model training and safety evaluations before model deployment; ensuring that the National Institute of Standards and Technology (NIST) is adequately resourced and can participate in international standards development; and creating reporting requirements for companies developing advanced AI systems to prevent misuse. Boudreaux will testify at a hearing titled, “Using Cutting-Edge Technologies to Keep America Safe,” and discuss the importance of ensuring that government technology deployments serve the interests of the public. This includes accurately assessing both benefits and risks of such technologies, which could include privacy violations, a lack of transparency and the potential to exacerbate inequity. He will also note the importance of understanding the public's perception of technology use to establish trust and foster support."
+      },
+      {
+        "When:": "Thursday, June 22, 2023 10:00 a.m. ET - House Committee on Science, Space and Technology (Matheny) 1:00 p.m. ET - House Oversight Subcommittee on Cybersecurity, Information Technology, and Government Innovation Hearing (Boudreaux)"
+      },
+      {
+        "Where:": "House Committee on Science, Space, and Technology (Matheny):\n2318 Rayburn House Office Building\nHearing link: https://www.congress.gov/event/118th-congress/house-event/116078?s=1&r=1 House Oversight Subcommittee on Cybersecurity, Information Technology, and Government Innovation Hearing (Boudreaux):\n2154 Rayburn House Office Building\nHearing link: https://oversight.house.gov/hearing/using-cutting-edge-technologies-to-keep-america-safe/"
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Emerging Technologies",
+      "Science, Technology, and Innovation Policy",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": ""
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:58:29.824901",
+  "crawling_time_epoch": 1703242709,
+  "type": "Blog",
+  "title": "Arming Teachers, F-16s in Ukraine, Commercial Spaceflight: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-june-02.html",
+  "descriptions": "This weekly recap focuses on how teachers feel about arming teachers, what F-16s will (and won't) do for Ukraine, the need to regulate commercial spaceflight, and more.",
+  "posted": "Jun 2, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-02/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1685735103956.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "China",
+      "Fighter Aircraft",
+      "Military Personnel",
+      "Military Tactics",
+      "Military Veterans",
+      "Psychological Warfare",
+      "Russia",
+      "School Security",
+      "Space Exploration",
+      "Teachers and Teaching",
+      "Ukraine",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss teachers’ views on carrying guns and on school safety overall; what F-16s will (and won’t) do for Ukraine; regulating commercial spaceflight; the future of Chinese psychological warfare; the parallels between Putin and Brezhnev; and who we honor on Memorial Day.",
+    "sub_article": [
+      {
+        "title": "What Do Teachers Think About Carrying Guns to School?",
+        "descriptions": "Photo by Marco Bello/Reuters To learn what America's educators think about school safety generally—and about specific proposals, such as policies that would allow teachers to carry firearms in school—we surveyed nearly 1,000 K–12 teachers. Here's what we found: Based on these survey results, RAND experts suggest several areas for further research. One is developing better approaches for school safety that could help balance the frequent, lower-level forms of school violence such as bullying with lower-probability, extreme forms of violence like shootings.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-02/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1685734009263.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "White roses and an American flag are seen in a memorial outside Robb Elementary, where a gunman killed 19 children and two teachers, in Uvalde, Texas, November 29, 2022, photo by Marco Bello/Reuters"
+        }
+      },
+      {
+        "title": "What F-16s Will and Won't Do for Ukraine",
+        "descriptions": "Photo by Tech. Sgt. Matthew Lotz/U.S. Air Force After months of lobbying by Ukrainian President Volodymyr Zelenskyy, the West appears ready to provide Ukraine with U.S.-made F-16 fighter jets. According to RAND's Brynn Tannehill, a former naval aviator, F-16s will help Ukraine adopt more-Western styles of warfighting—and help its military cooperate better with those of NATO. However, these aircraft are “by no means a wonder weapon that will turn the tide of the war.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Enter Outer Space at Your Own Risk?",
+        "descriptions": "Photo by Virgin Galactic/ABACA via Reuters How safe is it for amateur astronauts and others to participate in commercial spaceflight? This is largely unknowable, say RAND's Douglas Ligor and Josh Becker—at least for now. Current law bans federal regulation of commercial space enterprises, creating a dearth of data and information about the safety of commercial spaceflight. It's time to change this, they say, and allow the Federal Aviation Administration to lead the creation of safety standards.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The Future of Chinese Psychological Warfare",
+        "descriptions": "As the U.S. military increasingly focuses on China, it is important to understand how Beijing's approach to psychological warfare is evolving. A new RAND report finds that China is leveraging a variety of technologies to improve its psychological warfare capabilities, including advanced computing, brain science, laser weapons, subliminal messaging, and holograms. The authors present a hypothetical case study to show how these capabilities could play out in a future U.S.-China contingency.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-02/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.png/1685736264856.png",
+          "width": "800",
+          "height": "450",
+          "desc": "A digital brain made up of lines, triangles, binary digits and dots, photo by Natalia Darmoroz/iStock/Getty Images Plus"
+        }
+      },
+      {
+        "title": "Putin Is Following Brezhnev to a Dead End",
+        "descriptions": "Photo by Gavriil Grigorov/Pool via Reuters Four decades ago, Leonid Brezhnev led the USSR into what many Soviets called the “era of stagnation.” Today, Vladimir Putin is taking Russia down a similar path, say RAND's William Courtney and Mark Stalczynski. Both leaders have waged wars against neighbors, repressed dissidents, and contributed to declining public morale. “These parallels hint that Putin's presidency is at risk of spiraling downward as did Brezhnev's.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Who Should We Honor on Memorial Day?",
+        "descriptions": "The United States has set aside Memorial Day to remember, honor, and salute fallen service members. But as RAND's Kayla Williams wrote in the New York Times over the holiday weekend, not all of those who should be recognized fit neatly into this box. For instance, there are service members who die outside of combat, veterans who end their lives after returning home from duty, and civilians who are killed during conflict. Can we make more space in our hearts to remember them as well?",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-june-02/_jcr_content/par/blogpost/par-blog/wrapperdiv_267892730/imagewithclass.fit.800x0.jpeg/1685734813527.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "United States Marine Corps, photo by mariusz_prusaczyk/Getty Images"
+        }
+      }
+    ]
+  }
+}

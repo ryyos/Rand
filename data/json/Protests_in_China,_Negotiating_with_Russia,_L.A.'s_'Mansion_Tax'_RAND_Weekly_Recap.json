@@ -1,0 +1,96 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:12:58.965225",
+  "crawling_time_epoch": 1703243578,
+  "type": "Blog",
+  "title": "Protests in China, Negotiating with Russia, L.A.'s 'Mansion Tax': RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2022/weekly-recap-december-02.html",
+  "descriptions": "This weekly recap focuses on protests in China amid the government's zero-COVID policy, the potential harm in negotiating with Russia, building more affordable housing in Los Angeles, and more.",
+  "posted": "Dec 2, 2022",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-02/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1670019712909.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "China",
+      "Civic Education",
+      "Coronavirus Disease 2019 (COVID-19)",
+      "Geopolitical Strategic Competition",
+      "Intelligence Community",
+      "International Diplomacy",
+      "Los Angeles",
+      "Military Strategy",
+      "Political Reform Movements",
+      "Residential Housing",
+      "Russia",
+      "Trauma",
+      "Ukraine",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss what to watch for as the situation in China unfolds; the downsides of diplomacy with Russia; why intelligence work can be traumatizing and what to do about it; defining and measuring civic infrastructure; China's potential reactions to U.S. military activities in the Indo-Pacific; and managing expectations about the efficacy of the “mansion tax” in Los Angeles.",
+    "sub_article": [
+      {
+        "title": "Protests in China: What to Watch For",
+        "descriptions": "Recent protests against China's zero-COVID policy have conjured comparisons to the 1989 Tiananmen Square pro-democracy movement. It's too soon to equate these two moments in history, says RAND's Amanda Kerrigan. But reflecting on the past can provide insights into the future. Drawing on her knowledge of the Tiananmen protests, she identifies five key questions to monitor as the situation unfolds: Watching these factors closely may suggest what trajectory the Chinese Communist Party and protesters are on as both strive to achieve their goals. Whether the protests fizzle out or garner more support, they are a reminder that “authoritarian systems, like democracies, need to be responsive to their people one way or another,” Kerrigan says.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "The Harm in Negotiating with Russia",
+        "descriptions": "Photo by Ukrainian Presidential Press Service/Reuters What is the harm in the United States pursuing a long-term settlement between Russia and Ukraine? Quite a lot, say RAND's Raphael Cohen and Gian Gentile. To start, diplomacy is unlikely to end the war or even prevent future escalation. Additionally, there may be serious costs to pursuing a settlement. For example, starting negotiations could halt the momentum Ukraine has gained in recent months. The time for diplomacy in Ukraine will hopefully come soon, our researchers say. But it doesn't seem to be today.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Intelligence Work Is Exciting and Traumatizing",
+        "descriptions": "Photo by Yuri Gripas/Reuters To many, being a secret agent is a dream job—adrenaline-filled and glamorous. It can be that way some days, says RAND's Heather Williams, who spent 13 years working in the intelligence community. But it can also be isolating, relentless, and traumatizing. A recent paper coauthored by Williams examines how lasting trauma affects intelligence personnel. The consequences of ignoring the mental and emotional costs of intelligence work can be tragic, both individually and to the nation, she says.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Understanding America's Civic Infrastructure",
+        "descriptions": "Recent events, such as the January 6 attack on the U.S. Capitol, have increased concerns about the stability of American democracy. Is the United States in need of a civic renewal? In a new report, RAND researchers take a key step toward answering this question: establishing a framework to define and measure civic infrastructure. Such a framework can be used as a tool to monitor the health of democracy and determine ways to improve it.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-02/_jcr_content/par/blogpost/par-blog/wrapperdiv_1710719032/imagewithclass.fit.800x0.jpeg/1670017859907.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "Abstract representation of civic infrastructure, image by CSA-Printstock/Getty Images, design by Pete Soriano/RAND Corporation"
+        }
+      },
+      {
+        "title": "U.S.-China Competition in the Indo-Pacific",
+        "descriptions": "Photo by SrA Duncan Bevan/U.S. Air Force Increasing Chinese militarization in the Indo-Pacific has led the United States to expand its own activities in the region over the past decade. As this continues, China's potential reactions are a crucial security consideration. A new RAND report examines how different U.S. military actions might increase the risk of escalation or aggression by Beijing. This includes activities related to defending Taiwan.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2022/weekly-recap-december-02/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1670018081006.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Military aircraft participate in an exercise near Andersen Air Force Base, Guam, Feb. 9, 2021, photo by SrA Duncan Bevan/U.S. Air Force"
+        }
+      },
+      {
+        "title": "Will the 'Mansion Tax' Expand Affordable Housing in L.A.?",
+        "descriptions": "Photo by Lucy Nicholson/Reuters Los Angeles voters recently approved the so-called “mansion tax,” which aims to raise funds for affordable housing. Projects funded by the tax that consist of 40 or more housing units must be built by a nearly 100 percent union workforce. This incentivizes smaller development, which drives up the average cost of new housing, says RAND's Jason Ward. For this reason, Angelenos may want to temper their expectations of the new tax's ability to expand affordable housing.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:06:47.136799",
+  "crawling_time_epoch": 1703243207,
+  "type": "Blog",
+  "title": "One Year of Russia's War in Ukraine: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-february-24.html",
+  "descriptions": "This weekly recap focuses on the one-year anniversary of Russia's war in Ukraine: What has stood out to RAND experts so far? And what are they watching as the conflict continues?",
+  "posted": "Feb 24, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-24/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1676992886186.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "International Diplomacy",
+      "Military Strategy",
+      "Russia",
+      "Security Cooperation",
+      "Ukraine",
+      "United States",
+      "Warfare and Military Operations",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss insights from RAND researchers as Russia's war in Ukraine reaches the one-year mark. Topics include Western support for Ukraine, Russia's revanchist and imperial ambitions, Moscow's logistical struggles, and reducing the long-term effects of the war. Plus, RAND experts offer their thoughts in an in-depth conversation on Twitter.",
+    "sub_article": [
+      {
+        "title": "One Year After Russia's Invasion of Ukraine: Experts React",
+        "descriptions": "This week marks one year since Russia's full-scale invasion of Ukraine began, setting off the largest armed conflict in Europe since World War II. Today, the fighting shows few signs of slowing down, 8 million Ukrainians have fled their home country, and the estimated death toll continues to climb into the hundreds of thousands, including many civilians. Researchers at RAND have been monitoring the war from every angle, providing insights on issues such as Russian and Ukrainian military strategy, opportunities for a peaceful resolution, and the humanitarian crisis. To help summarize these insights, we asked nearly 30 RAND experts to highlight notable takeaways from the first year of Russia’s all-out war in Ukraine—and to share what they’re watching as the conflict grinds on. Many of our experts, including Miranda Priebe, pointed out Moscow's logistical issues and mistakes on the battlefield as a standout feature of the conflict so far. “Prior to the war,” Priebe said, “many at RAND argued that Russia was weaker than other analysts assumed. Still, Russia's poor military performance has been even worse than expected.” Looking ahead to Year Two, RAND researchers are watching how a protracted war might play out. For example, RAND's Dara Massicot noted that, despite dueling offensives that appear to be in the works, both sides' capabilities are being worn down. “Ukraine will need continued and predictable support as Russia digs deep into its reserves,” she said.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Reducing the Long-Term Effects of Russia's War",
+        "descriptions": "Photo by Mikhail Metzel/Sputnik via Reuters No one can accurately predict how Russia's war might affect the international order. But according to RAND's John Tefft and Bruce McClintock, and Khrystyna Holynska of the Pardee RAND Graduate School, if the United States acts now, it may be able to shape the conflict's long-term effects. They make three broad recommendations: Stay committed to Ukraine, strike a balance between supporting Ukraine and avoiding Russian escalation, and start to consider the best long-term future of Russia.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Support to Ukraine Continues to Be for America First",
+        "descriptions": "Photo by Kevin Lamarque/Reuters A year into the war, some Americans are asking why the United States should spend tens of billions of dollars on a conflict taking place half a world away. There are, of course, strong moral arguments for helping Ukraine. But setting those aside, U.S. support for Ukraine remains in America’s own self-interest, say RAND's Raphael Cohen and Gian Gentile. “Ukraine's success protects not just the country itself but the whole of Europe and, with it, American economic and security interests.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Will Logistics Be Russia's Undoing?",
+        "descriptions": "Photo by Lisi Niesner/Reuters In the context of a war, logistics refers to the systems that tie the conflict's front lines back to the economies of the nations doing battle. Russia has experienced logistical failures since it first invaded Ukraine, says RAND's Bradley Martin. Those struggles continue today, as Russia’s economy and military face personnel challenges. And while Moscow needs to sell oil and gas to fuel its war, many of those sales help Ukraine's allies. Russia is “in a bind,” Martin says, “growing tighter by the day.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Russia's Revanchist Ambitions",
+        "descriptions": "Photo by Vladimir Pirogov/Reuters The fate of Russia's post-Soviet neighbors—amely Belarus, Moldova, Georgia, Kazakhstan, and the Baltic states—may hinge in great part on the outcome of the war in Ukraine. That's according to RAND's William Courtney. Ukraine is the “main game,” he says, but Moscow could try to seize more land and power by assaulting other nearby nations. And if it does, the West may be limited in its ability to help thwart such attacks.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

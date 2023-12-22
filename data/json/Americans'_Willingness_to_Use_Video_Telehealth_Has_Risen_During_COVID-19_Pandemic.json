@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:13:44.314763",
+  "crawling_time_epoch": 1703243624,
+  "type": "News Release",
+  "title": "Americans' Willingness to Use Video Telehealth Has Risen During COVID-19 Pandemic",
+  "url": "https://www.rand.org/news/press/2022/11/07/index1.html",
+  "descriptions": "Americans' use and willingness to use video telehealth has increased since the beginning of the COVID-19 pandemic, rising most sharply among Black Americans and people with less education.",
+  "posted": "Nov 7, 2022",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/press/2022/11/07/index1/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1667914751413.jpeg",
+    "desc": "Black father with young, sick child having a telemedicine appointment with a doctor, photo by Geber86/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Shira H. Fischer",
+      "profession": "Physician Policy Researcher",
+      "biography": "Shira Fischer is a physician policy researcher at the RAND Corporation. Her research focuses on health information technology research and policy. She recently published two papers on the uptake of telehealth in the wake of COVID-19 and another on use of poison call center data to track…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/f/fischer_shira_h/_jcr_content/par/bio.crop.130x130.cm.jpeg/1689716261039.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Shira Fischer"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Health Care",
+        "profile": "https://www.rand.org/health-care.html"
+      }
+    ],
+    "tags": [
+      "Coronavirus Disease 2019 (COVID-19)",
+      "Health Care Access",
+      "Pandemic",
+      "Telemedicine",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "Americans' use and willingness to use video telehealth has increased since the beginning of the COVID-19 pandemic, rising most sharply among Black Americans and people with less education, according to a new RAND Corporation study. Following a representative survey panel of Americans from March 2019 through March 2021, researchers found that the willingness to use video telehealth increased overall from 51 percent in February 2019 to 62 percent in March 2021. Some of the largest changes occurred in subgroups that had the lowest levels of willingness to use video telehealth before the pandemic, rising from 42 percent to 67 percent among Black adults and from 30 percent to 56 percent among adults with less than a high school education. The study is published in the November edition of the journal Health Affairs. “Our findings suggest that more Americans are becoming comfortable with telehealth and using video technology,” said Shira H. Fischer, the study's lead author and a physician scientist at RAND, a nonprofit research organization. “This is important because there are concerns that lack of access to or willingness to use video telehealth may exacerbate disparities in the delivery of high-quality health care.” Use of telehealth has increased rapidly during the COVID-19 pandemic as health care providers offered telephone or video visits to reduce the potential for virus spread and have generally maintained that access. Before the pandemic, some groups including Black Americans, people with lower incomes, and adults with lower educational attainment, were less willing to engage in video telehealth. While the reasons are uncertain, researchers say some people have a lower trust of technology and lower rates of access to high-quality internet service. While audio-only telehealth visits can increase access to care, experts say this may come at the expense of quality. Evidence of the quality of audio-only visits is scant and many clinicians report that audio-only visits are not as effective. Studies have shown that clinicians can miss visual cues and struggle to establish rapport with patients, and audio-only visits are shorter. Some insurance companies and other health care payers have signaled they may stop reimbursing for audio-only visits when the public health emergency ends. The new RAND study followed about 1,600 adults who participate in the RAND American Life Panel and completed surveys during February 2019, May 2020, August 2020, and March 2021 about their use and attitudes toward telehealth. The RAND study found that in May 2020, 12 percent of people had used video telehealth since the beginning of the pandemic, which was more than three times the proportion who had reported having used it when asked in February 2019. The percentage of those who reported having video telehealth visits increased to almost 20 percent by August 2020 and 45 percent by March 2021. RAND researchers found that over the course of the study period, the willingness to use telehealth increased among all subgroups, with the exception of people who were uninsured and those in the non-Hispanic/other race and ethnicity category, whose willingness remained unchanged. Researchers found that increased exposure to telehealth triggered by the pandemic, as well as positive experiences with the modality, may have influenced people's willingness to use video telehealth. Further, people may have become more willing to use video telehealth because telehealth was suddenly delivered by patients' trusted providers (in addition to telehealth-only providers) and in the context of hybrid (in-person and telehealth) care models that could leverage the advantages of both modalities. “As telehealth establishes a more-permanent place in the delivery of health care, it will be important to address sources of variation in patients' willingness to use video telehealth to ensure equitable access to quality care,” Fischer said. Other authors of the study are Zachary Predmore, Elizabeth Roth, Lori Uscher-Pines, Matthew Baird, and Joshua Breslau. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

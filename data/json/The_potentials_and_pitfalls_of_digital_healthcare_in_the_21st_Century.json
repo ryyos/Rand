@@ -1,0 +1,29 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:13:35.784589",
+  "crawling_time_epoch": 1703243615,
+  "type": "Announcement",
+  "title": "The potentials and pitfalls of digital healthcare in the 21st Century",
+  "url": "https://www.rand.org/randeurope/about/news/2022/cchsr-annual-lecture.html",
+  "descriptions": "Professor Jonathan Benger CBE is Interim Chief Clinical Information Officer (CCIO) and Portfolio Lead for the Digital Citizen in the Transformation Directorate of NHS England, will explore what “digital healthcare” really means, and how a misunderstanding of the benefits that technology can and cannot achieve is preventing us from realising the full potential of digital development and innovation.",
+  "posted": "Nov 18, 2022",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/randeurope/about/news/2022/cchsr-annual-lecture/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1669644484663.jpeg",
+    "desc": "Person using digital medical sphere 3D rendering, photo by sdecoret/Adobe Stock"
+  },
+  "content": {
+    "spotlight": {
+      "quoted": "The Cambridge Centre for Health Services Research (CCHSR) runs a dynamic programme of collaborative research between RAND Europe and the University of Cambridge, with the aim to inform policy on health services.",
+      "name": "",
+      "profile": null,
+      "profession": "",
+      "profile_picture": {
+        "url_pict": null,
+        "width": null,
+        "height": null,
+        "desc": null
+      },
+      "Article": "sdecoret/Adobe Stock During his lecture, Professor Jonathan Benger explored what “digital healthcare” really means, and how a misunderstanding of the benefits that technology can and cannot achieve is preventing us from realising the full potential of digital development and innovation. What follows is a summary of his remarks. We are currently experiencing a “third industrial revolution” as we enter the digital age, and huge advances in science and medicine promise a parallel “bio revolution” that will increase our ability to treat disease and enhance quality of life substantially in a way that will be personalised to the individual. However, the delivery of health and care today remains challenged by a long-standing mismatch between supply and demand and a powerful imbalance between our willingness to invest in prevention vs cure and health vs care on a background of profound international workforce shortages. Digital technologies are proposed as a potential solution, however the extent to which they can really address these issues is unclear, and “digital transformation” of healthcare always seems to be a decade away. This lecture considered these challenges by examining the potentials and pitfalls associated with five “digital domains”: self-service, wearables, artificial intelligence, big data and digital transformation. Misconceptions in relation to what digital technologies can achieve, misleading comparisons with other sectors and attempts to transform health and care that start from the premise that digital technologies are an end in themselves, rather than a way of enabling fundamental process change, are proving consistently problematic. Most importantly, a failure to consider the profoundly human element of healthcare, which is at it’s heart a transaction between two human beings, and the risks of increasing entrenched inequalities, are substantially hindering progress. Only by recognising how digital technologies can supplement and enhance, rather than replace, the healthcare encounter will it be possible to improve. Digital technologies are not magic; they are a tool, and if we are to make real progress we must first understand our problems, define the solutions and only then decide how digital technologies can enable and support. Policy makers and healthcare leaders must understand digital technologies; how they work and what they can and cannot do, or work closely with those that have these skills. It is also essential to build and maintain trust in public, patients and staff while working relentlessly to use these digital tools in ways that include the most disadvantaged populations in our society. Of paramount importance is to understand the humanity in healthcare and how digital can augment and improve, not replace the fundamental elements of healing."
+    }
+  }
+}

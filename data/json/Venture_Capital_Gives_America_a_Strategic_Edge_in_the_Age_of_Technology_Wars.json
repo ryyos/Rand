@@ -1,0 +1,34 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:04:22.420385",
+  "crawling_time_epoch": 1703243062,
+  "type": "Commentary",
+  "title": "Venture Capital Gives America a Strategic Edge in the Age of Technology Wars",
+  "url": "https://www.rand.org/pubs/commentary/2023/03/venture-capital-gives-america-a-strategic-edge-in-the.html",
+  "descriptions": "U.S. early-stage hardware startups are seriously disadvantaged by a persistent lack of financing. Congress authorized the U.S. Department of Defense to spend $75 million to invest in dual-use hardware startups. But the Pentagon has proven reticent to embrace a venture capital–style approach, even though research has demonstrated it is optimal for driving innovation.",
+  "posted": "Mar 20, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/commentary/2023/03/venture-capital-gives-america-a-strategic-edge-in-the/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1679358199903.jpeg",
+    "desc": "An Air Force pararescue jump expert loads a simulated injured survivor into Kitty Hawk’s Heaviside vehicle at Wright-Patterson Air Force Base in Ohio, May, 2021, photo courtesy of Kitty Hawk"
+  },
+  "content": {
+    "source": "(Fortune)",
+    "author": {
+      "name": "Daniel Egel Michael J. McNerney",
+      "profil": "https://www.rand.org/about/people/e/egel_daniel.html",
+      "profession": "Senior Economist; Professor of Policy Analysis, Pardee RAND Graduate School",
+      "username": "",
+      "contact": null
+    },
+    "tags": [
+      "Military Acquisition and Procurement",
+      "Military Budgets and Defense Spending",
+      "Military Technology",
+      "Science, Technology, and Innovation Policy",
+      "United States",
+      "United States Department of Defense",
+      "www.rand.org"
+    ],
+    "Article": "Since the Cold War, America's technological leadership has provided the U.S. military a qualitative advantage over its adversaries. That edge is now threatened by China's rapid development of technologies with both civilian and military applications. U.S. early-stage hardware startups are seriously disadvantaged by a persistent lack of financing. Meanwhile, China has been pouring money into Chinese—as well as U.S. and European—tech startups. Recognizing this problem, Congress authorized the U.S. Department of Defense to spend $75 million to invest in dual-use hardware startups. However, the Pentagon has proven reticent to embrace a venture capital–style approach, even though research has demonstrated it is optimal for driving innovation. The Pentagon has proven reticent to embrace a venture capital-style approach, even though research has demonstrated it is optimal for driving innovation. There is precedent for this type of approach within the United States. The U.S. intelligence community invests nearly $60 million in public funds each year through a venture capital fund called In-Q-Tel. Respected in VC circles, In-Q-Tel invests in startups working on A.I., virtual reality, biotech, data analysis, robotics, sensors, and more. Similarly, the United Kingdom invests more than $120 million annually and NATO plans to invest an additional $70 million per year in companies that build dual-use technologies. In 2019, Congress directed the Pentagon to do something similar to In-Q-Tel. The goals were straightforward: nudge more private sector development of hardware with national security applications—and deter the kind of strategic acquisitions China has been pursuing. In response, the Pentagon launched the National Security Innovation Capital (NSIC) program. The Silicon Valley–based NSIC awards prototype development contracts to early-stage startups building dual-use hardware. These contracts provide funding to the startups to produce government-specific prototypes. So far, it has awarded contracts of about $20 million to 12 startups working on things like batteries, metal foams, and optical communications. Two things, however, are holding NSIC back. First, at the Pentagon's direction, NSIC is investing only in prototype contracts. While such a conservative approach is understandable, given that venture capital investments are in some ways uncharted territory for the Pentagon, greater risk tolerance may be necessary to drive innovation. Research we did at RAND concluded that equity investing provides startup firms with more flexibility, particularly those producing dual-use technologies. Further, using the equity investing model—which is allowed by Congress—NSIC could reinvest returns from successful investments in new ventures. This is the approach used by In-Q-Tel. The inconsistent and relatively limited funding given to NSIC makes it less effective than it could be. The inconsistent and relatively limited funding given to NSIC makes it less effective than it could be. Despite a $75 million authorization from Congress, the Defense Department initially committed (PDF) only $5 million for this effort. In year two, the Pentagon made no request (PDF) for NSIC funding; Congress appropriated $15 million anyway. During the most recent funding cycle, the Defense Innovation Unit—which houses the NSIC—was told to fund the program “out of its existing budget.” The Pentagon has a vast array of near-term and long-term tradeoffs to consider, but this particular decision led the Senate Armed Services Committee to chastise the Pentagon for being “short-sighted.” Congress took important steps in 2022 to improve America's technological competitiveness with China in both the economic and national security spheres. The U.S. intelligence community and U.S. allies abroad are doing the same. The NSIC program could serve as an important tool to help the United States maintain its technological edge if the U.S. Defense Department gave it the flexibility and funding envisioned by Congress. Daniel Egel is a senior economist and Michael McNerney is a senior defense researcher at the nonprofit, nonpartisan RAND Corporation. Both are faculty members at the Pardee RAND Graduate School. This commentary originally appeared on Fortune on March 17, 2023. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

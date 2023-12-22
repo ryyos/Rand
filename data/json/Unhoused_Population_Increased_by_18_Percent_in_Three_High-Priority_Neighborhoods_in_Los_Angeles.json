@@ -1,0 +1,55 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:09:18.363197",
+  "crawling_time_epoch": 1703243358,
+  "type": "News Release",
+  "title": "Unhoused Population Increased by 18 Percent in Three High-Priority Neighborhoods in Los Angeles",
+  "url": "https://www.rand.org/news/press/2023/01/26.html",
+  "descriptions": "A year-long count of unhoused people in three hot-spot neighborhoods in Los Angeles found that their numbers rose by an average of 18 percent over the period, despite periodic encampment cleanups and other efforts to address the problem.",
+  "posted": "Jan 26, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Jason M. Ward",
+      "profession": "Co-Director, RAND Center on Housing and Homelessness",
+      "biography": "Jason Ward is an economist at RAND, co-director of the RAND Center on Housing and Homelessness, and a professor of policy analysis at Pardee RAND Graduate School. His work uses the tools of applied microeconomics to study housing and homelessness policy, labor markets, and education and health…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/w/ward_jason_m/_jcr_content/par/bio.crop.130x130.cm.jpeg/1600774842640.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Jason Ward"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Center on Housing and Homelessness in Los Angeles",
+        "profile": "https://www.rand.org/well-being/community-health-and-environmental-policy/centers/housing-and-homelessness-los-angeles.html"
+      },
+      {
+        "research": "Community Health and Environmental Policy",
+        "profile": "https://www.rand.org/well-being/community-health-and-environmental-policy.html"
+      },
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "tags": [
+      "Community Health and Well-Being",
+      "Homeless Populations",
+      "Homelessness",
+      "Los Angeles",
+      "Neighborhoods",
+      "www.rand.org"
+    ],
+    "Article": "A year-long count of unhoused people in three hot-spot neighborhoods in Los Angeles found that their numbers rose by an average of 18 percent over the period, despite periodic encampment cleanups and other efforts to address the problem, according to a new RAND Corporation report. The count of unsheltered people conducted from September 2021 to October 2022 in Hollywood, downtown's Skid Row, and Venice found the rise in the number of unhoused people varied by neighborhood. The increase was 14.5 percent in Hollywood, 13 percent on Skid Row, and 32 percent in Venice. Among more than 400 unhoused people surveyed by researchers during the first six months of the project, nearly 80 percent reported being continuously homeless for over a year, and 57 percent reported being continuously homeless for more than three years. About half of the sample reported a chronic health and/or mental health condition. Among this group, 90 percent indicated interest in receiving housing and 29 percent reported being on a wait list for housing. “This project provides new insights about the unhoused in these three high-priority neighborhoods and demonstrates that there is a lot to be learned by measuring progress on homelessness more regularly than the once-a-year count of unsheltered people conducted by the Los Angeles Homeless Services Authority,” said Jason Ward, the report's lead author and an associate economist at RAND, a nonprofit research organization. The RAND study, called the Los Angeles Longitudinal Enumeration and Demographic Survey (LA LEADS) Project, was conducted by the research organization's professional survey staff. Counts of unhoused people during the study period were conducted roughly every two weeks in Skid Row and monthly in Hollywood and Venice. The RAND project is the largest count of unhoused people in Los Angeles outside the annual point-in-time effort managed by the Los Angeles Homeless Services Authority. The county-wide count, conducted primarily by teams of trained volunteers over a few days every January, has been the primary data source for the number of unhoused people in the region for more than a decade. While the RAND study is designed differently than the annual county-wide tally, RAND researchers conducted some analysis of small survey areas that had either exact or highly similar boundaries. While some of the counts of unhoused people were similar, after totaling up the counts for all the comparison areas, the RAND counts were 15 percent larger over a similar period of time than the comparable counts compiled during the Los Angeles Homeless Services Authority's last census in January 2022. However, RAND researchers noted that the set of comparison areas were an arbitrary subset of the larger neighborhoods that were amenable to exact or very close geographic matching. “Our findings suggest that in many cases, volunteer-led counts result in accurate estimates of the area's unsheltered population,” Ward said. “But in other cases, we see evidence of fairly large discrepancies that suggest possible room for improvements to the Los Angeles Homeless Services Authority process.” Such improvement strategies could include providing better guidance to volunteers or using more-specialized teams of enumerators for dense or high-profile areas of the county. During the year-long count, the RAND team found that the number of unhoused people in the study neighborhoods varied by as much as 24 percent from month to month. This was likely influenced, at least in part, by activities such as encampment cleanups and other events that prompted people to move. But the numbers rebounded soon after the declines were noted. Among the unhoused people surveyed by the RAND project, between 83 percent and 87 percent said they would accept offers of placement into permanent supportive housing, a hotel or motel, or a private shelter setting. About 29 percent reported being on a wait list and 40 percent reported that they had been offered housing since experiencing homelessness in Los Angeles. The most common reasons that respondents cited for not moving into housing were never being contacted for move-in (44 percent), lack of privacy (40 percent), housing safety (35 percent), and paperwork issues (29 percent). About seven out of 10 unsheltered individuals surveyed were men, half were Black, and about six out of 10 were aged 45 years or older. The respondents from Skid Row were more likely to be older than the respondents in Hollywood and Venice, and also were more likely to be Black. “Our study contributes to a relatively scant body of evidence about the sizes and characteristics of unsheltered people in these three Los Angeles neighborhoods, their experiences, and their preferences for housing,” Ward said. “Improving the accuracy and informativeness of data measuring the size and locations of the region's unhoused residents is critical to forming effective policies and measuring their success.” The report, “Recent Trends Among the Unsheltered in Three Los Angeles Neighborhoods: An Annual Report from the Los Angeles Longitudinal Enumeration and Demographic Survey (LA LEADS) Project,” is available at www.rand.org. Support for the project was provided by the Lowy Family Group through its funding of the RAND Center on Housing and Homelessness in Los Angeles. Other authors of the report are Rick Garvey and Sarah B. Hunter. The RAND Social and Economic Well-Being division seeks to actively improve the health, and social and economic well-being of populations and communities throughout the world."
+  }
+}

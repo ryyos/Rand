@@ -1,0 +1,37 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:49:00.273519",
+  "crawling_time_epoch": 1703242140,
+  "type": "News Release",
+  "title": "RAND Factbook Highlights Demographic, Mental Health and Labor Participation of Military Veterans",
+  "url": "https://www.rand.org/news/press/2023/10/24.html",
+  "descriptions": "A factbook, accompanied by a collection of infographics, explores trends and estimates about the demographics of veterans. It focuses on the size, sex, age, race/ethnicity, educational attainment, and geographic distribution of the veteran population as compared with nonveterans.",
+  "posted": "Oct 24, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/etc/rand/designs/common/placeholders/teasers/news-release.b590e4a.svg",
+    "desc": "News Release"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "",
+      "profession": "",
+      "biography": "",
+      "profile_picture": {
+        "url_pict": null,
+        "width": null,
+        "height": null,
+        "desc": null
+      }
+    },
+    "researcher": [],
+    "tags": [
+      "www.rand.org"
+    ],
+    "Article": "A factbook highlighting information about the demographics, mental health and labor market outcomes for U.S. military veterans has been released by the nonprofit RAND Corporation in advance of the Veterans Day holiday. The publication, which is accompanied by a collection of infographics about the findings, draws upon a variety of nationally representative datasets to generate evidence-based, representative baseline estimates related to veterans. It is intended to serve as a resource for individuals and groups interested in the welfare of U.S. veterans. The report explores trends and estimates about the demographics of the veteran population by drawing primarily from the American Community Survey. The document focuses on current and historical estimates of the size, sex, age, race/ethnicity, educational attainment, and geographic distribution of the veteran population as compared with nonveterans. The report details trends about the mental health of veterans by drawing primarily from the National Survey on Drug Use and Health. It focuses specifically on trends in psychological distress and suicidality, substance use disorders and behaviors, and mental health and alcohol/drug use treatment among veterans and nonveterans. In addition, the factbook explores trends and statistics focused on veterans' participation in the labor market, drawing primarily from the Current Population Survey. That section focuses on trends in veteran unemployment, labor force participation, industry and sector of employment, hours worked, family income, and college enrollment among working-age adults. The factbook was sponsored by the RAND Epstein Family Veterans Policy Research Institute, which is dedicated to conducting innovative, evidence-based research and analysis to improve the lives of those who have served in the U.S. military. The RAND Education and Labor division is dedicated to improving education and expanding economic opportunities for all through research and analysis."
+  }
+}

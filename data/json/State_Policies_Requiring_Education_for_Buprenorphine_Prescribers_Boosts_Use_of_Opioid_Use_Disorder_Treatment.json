@@ -1,0 +1,43 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:59:22.518229",
+  "crawling_time_epoch": 1703242762,
+  "type": "News Release",
+  "title": "State Policies Requiring Education for Buprenorphine Prescribers Boosts Use of Opioid Use Disorder Treatment",
+  "url": "https://www.rand.org/news/press/2023/05/26.html",
+  "descriptions": "States that want to increase access to buprenorphine, a lifesaving medication used to treat opioid use disorder, should consider efforts to enhance professional education and clinician knowledge.",
+  "posted": "May 26, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/press/2023/05/26/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1685067621438.jpeg",
+    "desc": "Close up of a doctor filling out a prescription, photo by francisblack/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Bradley D. Stein",
+      "profession": "Director, Opioid Policy, Tools, and Information Center (OPTIC)",
+      "biography": "Bradley Stein (he/him) is director of the NIH-funded RAND-USC Schaeffer Opioid Policy Center and a senior physician policy researcher at the RAND Corporation. A health services and policy researcher and practicing child and adolescent psychiatrist, Dr. Stein's research focuses on better…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/s/stein_bradley/_jcr_content/par/bio.crop.130x130.cm.jpeg/1563487518505.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Bradley Stein"
+      }
+    },
+    "researcher": [],
+    "tags": [
+      "Health Care Education and Training",
+      "Opioids",
+      "Pharmaceutical Drugs",
+      "Physicians",
+      "Substance Use Disorder Treatment",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "States that want to increase access to buprenorphine, a lifesaving medication used to treat opioid use disorder, should consider efforts to enhance professional education and clinician knowledge, according to a new RAND Corporation study. Examining six state-level policies aimed at boosting use of buprenorphine, researchers found that requiring buprenorphine prescribers to receive additional education beyond the initially required instruction, as well as continuing medical education related to substance misuse, were both associated with a significant increase in use of the treatment. The findings are published in the latest edition of the journal JAMA Health Forum. “Many studies suggest that physicians and other health providers are apprehensive about whether they have sufficient knowledge about using buprenorphine to treat opioid use disorder,” said Bradley D. Stein, the study's lead author and a physician scientist at RAND, a nonprofit research organization. “We found that requiring additional ongoing education seems to help address this worry, empowering them to make greater use of their training.” The study analyzed the effects of six different state-level policies: rules requiring additional education for buprenorphine prescribers beyond the initial X-waiver training that had been required; continuing medical education related to substance misuse and addiction; extending Medicaid coverage to buprenorphine treatment; expanding Medicaid coverage generally; mandating prescriber use of prescription drug monitoring programs; and regulating pain management clinics. The number of fatal opioid overdoses in the United States continues to soar and an estimated 5.6 million people in the nation have an opioid use disorder. Medication treatment for opioid use disorder is considered the standard of care, improving quality of life and decreasing fatal overdose rates. The new study made use of records that capture 90 percent of prescriptions filled at U.S. retail pharmacies, identifying buprenorphine prescriptions filled between 2006 and 2018. Researchers used a variety of sources to identify when states implemented any of the six policies being reviewed. Researchers analyzed the records to identify new episodes of buprenorphine treatment for opioid use disorder, comparing trends in the use of the medication to when states adopted the various policies. The results were compiled at the county level, controlling for local characteristics that may influence buprenorphine prescribing. During the study period, the national use of buprenorphine rose sharply, the researchers found. The number of months of buprenorphine treatment per 1,000 people increased from 1.5 in 2006 to 22.8 in 2018. The data showed that during this time, requiring education for buprenorphine prescribers beyond the initial training needed for a waiver was associated with significant increases in the number of months of buprenorphine treatment per person in the year following implementation of such a policy. Under such rules, use of buprenorphine increased by about 9 treatment months per 1,000 people during the first year, rising to more than 14 months of treatment per 1,000 population in the fifth year following implementation. Requiring continuing medical education related to substance misuse or addiction for physician licensure also was associated with increases. Under such rules, use of buprenorphine increased by about 7 treatment months per 1,000 people during the first year, rising to more than 11 months of treatment per 1,000 population in the fifth year. The study found that prescription drug monitoring programs, pain management clinic laws, and Medicaid policies had no association with buprenorphine dispensing. “Our findings suggest that requiring education for buprenorphine prescribers and training in substance use disorder treatment for medical providers are actionable proposals for increasing buprenorphine utilization and ultimately serving more patients,” said Stein, who is director of the RAND-USC Schaeffer Opioid Policy Tools and Information Center. “The potential benefits of training on the treatment of patients with substance use disorders is particularly important given the requirement for such training for most prescribing clinicians in the recently passed federal Consolidated Appropriations Act.” Support for the study was provided by the Foundation for Opioid Response Efforts and the National Institute on Drug Abuse of the National Institutes of Health under award numbers P50DA046351, R01DA048500, and K01DA042139. The content presented in this release is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. Other authors of the study are Brendan K. Saloner of the Johns Hopkins Bloomberg School of Public Health; Olivia K. Golan of the Georgia State University School of Public Health; Barbara Andraka-Christou of University of Central Florida; Christina Andrews of the University of South Carolina Arnold School of Public Health; Andrew W. Dick and Flora Sheng, both of the RAND Corporation; Corey S. Davis of the Network for Public Health Law; and Adam J. Gordon of the VA Salt Lake City Health Care System. RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries."
+  }
+}

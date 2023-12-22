@@ -1,0 +1,47 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:11:02.394896",
+  "crawling_time_epoch": 1703243462,
+  "type": "Media Advisory",
+  "title": "Virtual Event: Flournoy, Durnan Join Panel on Net Assessment in the 21st Century",
+  "url": "https://www.rand.org/news/advisories/2023/01/06.html",
+  "descriptions": "RAND will host a virtual conversation among national security experts examining the importance of net assessment and the role it can play in U.S.-China competition.",
+  "posted": "Jan 6, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/advisories/2023/01/06/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1673046779256.jpeg",
+    "desc": "Black and white photo of chess pieces on a chess board, photo by funky-data/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "What": "RAND will host a virtual conversation among national security experts examining the importance of net assessment and the role it can play in U.S.-China competition."
+      },
+      {
+        "When": "January 10, 2023 - 4:30-5:45 p.m. ET"
+      },
+      {
+        "Who": "Michèle Flournoy, former U.S. Under Secretary of Defense for Policy and cofounder, WestExec Advisors Jaymie Durnan, cofounder and chairman of the Andrew W. Marshall Foundation Jeffrey McKitrick and Robert Angevine, coeditors of Reflections on Net Assessment Vago Muradian, founder and editor of Defense & Aerospace Report, who will moderate the discussion."
+      },
+      {
+        "RSVP": "To join this virtual conversation, please contact media@rand.org."
+      },
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "tags": [
+      "China",
+      "Geopolitical Strategic Competition",
+      "Military Strategy",
+      "United States",
+      "United States Department of Defense",
+      "www.rand.org"
+    ],
+    "Article": "The U.S. Department of Defense defines net assessment as “the comparative analysis of military, technological, political, economic, and other factors affecting the relative military capability of nations. It is an analysis and potential response to a what-if scenario, describing the challenges and opportunities that need attention from senior defense officials.” The Pentagon's Office of Net Assessment, under Andrew Marshall's leadership, helped the United States achieve its priority national security goals during the Cold War era. The U.S. is now experiencing an equally tumultuous era, with new challenges and rivals."
+  }
+}

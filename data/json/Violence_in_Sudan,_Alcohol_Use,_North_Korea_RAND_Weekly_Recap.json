@@ -1,0 +1,94 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:01:56.020205",
+  "crawling_time_epoch": 1703242916,
+  "type": "Blog",
+  "title": "Violence in Sudan, Alcohol Use, North Korea: RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-april-28.html",
+  "descriptions": "This weekly recap focuses on the violence in Sudan, preventing alcohol-related deaths, the North Korean nuclear threat, and more.",
+  "posted": "Apr 28, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-28/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1682707409998.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "China",
+      "Earth Sciences",
+      "Geopolitical Strategic Competition",
+      "International Diplomacy",
+      "International Economic Relations",
+      "North Korea",
+      "Nuclear Weapons and Warfare",
+      "Russia",
+      "Substance Use Harm Reduction",
+      "Sudan",
+      "Supply Chain Management",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss why the violence in Sudan is partly the international community’s fault; great-power competition beyond the Indo-Pacific and Europe; a promising alcohol abstinence program in South Dakota; what an economic “Joint Chiefs of Staff” might look like; how Kim Jong-un's fears shape North Korea's nuclear agenda; and why critical minerals are more critical than ever.",
+    "sub_article": [
+      {
+        "title": "Violence in Sudan: It's Partly the International Community's Fault",
+        "descriptions": "Recent fighting in Sudan has left hundreds dead and millions more trapped without food, water, or electricity. Thousands of residents and foreigners have fled the country. It's unclear what will happen next. But according to RAND's Jacqueline Burns, a former adviser to the U.S. special envoy for Sudan and South Sudan, it will be “a long path toward a permanent cessation of hostilities,” as she said in a CBS News interview. Burns also wrote in the New York Times this week about what led to the unrest. While rising tensions between two rival generals were a factor, the problems in Sudan stretch back much further, she says. Over the last decade, the United States, NATO, and other international interveners have focused on brokering peace deals in Sudan that split power between armed groups. Meanwhile, women, internally displaced persons, and anyone who is not part of a rebel movement are often excluded from the process. As Burns reiterated in an interview with NPR, this approach rarely leads to sustainable peace. “If the international community continues to prioritize the voices of the armed and corrupt over those seeking real political reform and representation,” she wrote, “we can expect nothing less than the continued cycle of violence and human suffering witnessed over the past week in Sudan.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539_830847769/imagewithclass_copy.fit.800x0.jpeg/1682705124122.jpeg",
+          "width": "800",
+          "height": "451",
+          "desc": "A burned vehicle in Khartoum, Sudan, April 26, 2023, photo by El-Tayeb Siddig/Reuters"
+        }
+      },
+      {
+        "title": "Great-Power Competition Beyond the Indo-Pacific and Europe",
+        "descriptions": "For the last 15 years, the United States has made countering the rise of China in the Indo-Pacific and checking Russian revanchism in Europe core priorities of its national security strategy. A new RAND report examines how Washington, Beijing, and Moscow might compete elsewhere in the world—primarily in Africa, the Middle East, and Latin America. The authors also look at where and why competition in these secondary theaters could turn into conflict.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-april-28/_jcr_content/par/blogpost/par-blog/wrapperdiv_169610539/imagewithclass_copy.fit.800x0.jpeg/1682705315816.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "A vintage political world map, image by dikobraziy/Getty Images"
+        }
+      },
+      {
+        "title": "The Effects of South Dakota's Alcohol Abstinence Program",
+        "descriptions": "Photo courtesy of the Utah Department of Public Safety Excessive alcohol use accounts for one in eight deaths among people ages 20 to 64. In South Dakota, officials are trying to address this through a program called 24/7 Sobriety. It focuses on people arrested multiple times for drunken driving or other offenses, requiring abstinence from drinking and frequent alcohol testing. A recent RAND study showed that this approach is making a difference: Participants who had been arrested for drunken driving had about a 50 percent lower risk of dying.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "A Civilian U.S. 'Joint Chiefs' for Economic Competition?",
+        "descriptions": "The economic and technological rivalry between the United States and China continues to intensify. How might the United States gain an edge? RAND's Barry Pavel and Daniel Egel recommend establishing a civilian equivalent to the Joint Chiefs of Staff—a new “Economic JCS” that includes at least the secretaries of Commerce, State, and Treasury. Such a body could help ensure that geopolitical outcomes “are more favorable for the American way of life and less so for the authoritarians.”",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "How Kim Jong-un's Fears Shape North Korea's Nuclear Agenda",
+        "descriptions": "Photo by KRT via Reuters Over the last year, North Korea has ramped up its missile launches and other provocations. Leader Kim Jong-un also announced plans for an “exponential increase” in nuclear weapons. Kim tells his people that this buildup is necessary for the country's defense. Meanwhile, many North Koreans are suffering without food or electrical power. The real reason for Kim's hyped-up threats, says RAND's Bruce Bennett, is likely concern for his own survival and continued control of North Korea.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "Critical Minerals Are More Critical Than Ever",
+        "descriptions": "Photo by Mike Hughlett/Minneapolis Star Tribune/TNS/ABACA via Reuters Critical minerals—such as lithium, titanium, and nickel—are in extremely high demand. Not only are they widely used in the aerospace and defense industries, but they are also essential for clean energy technologies. As accessing these raw materials becomes increasingly difficult and costly, U.S. national security needs could end up in competition with climate security needs, says RAND's Fabian Villalobos and Morgan Bazilian of the Colorado School of Mines. Such a scenario may be damaging to both endeavors.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

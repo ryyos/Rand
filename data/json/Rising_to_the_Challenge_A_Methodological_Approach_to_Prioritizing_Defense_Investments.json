@@ -1,0 +1,33 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 17:59:04.894995",
+  "crawling_time_epoch": 1703242744,
+  "type": "Commentary",
+  "title": "Rising to the Challenge: A Methodological Approach to Prioritizing Defense Investments",
+  "url": "https://www.rand.org/pubs/commentary/2023/05/rising-to-the-challenge-a-methodological-approach-to.html",
+  "descriptions": "Meeting the Pentagon's goals to invest efficiently in military capabilities calls for a methodological process hinging on five key elements: aligning strategies with tasks, understanding what drives military innovation, embracing specificity in problem-solving, preparing for an unknown future, and assessing technology investments for prioritization.",
+  "posted": "May 30, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/commentary/2023/05/rising-to-the-challenge-a-methodological-approach-to/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1686177504769.jpeg",
+    "desc": "Marine Corps Lance Cpl. Billy Tate guides a weapons loader operator carrying a harpoon missile during a hot loading validation event at Marine Corps Air Station Iwakuni, Japan, March 25, 2023, photo by Cpl. Tyler Harmon/U.S. Marine Corps"
+  },
+  "content": {
+    "source": "(The RAND Blog)",
+    "author": {
+      "name": "Christopher A. Mouton",
+      "profil": "https://www.rand.org/about/people/m/mouton_christopher_a.html",
+      "profession": "Senior Engineer; Professor, Pardee RAND Graduate School",
+      "username": "",
+      "contact": null
+    },
+    "tags": [
+      "Decisionmaking",
+      "Forecasting Methodology",
+      "Military Budgets and Defense Spending",
+      "Military Strategy",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "The newly released National Defense Science and Technology Strategy (PDF)—developed collaboratively by the U.S. military services, the U.S. Office of the Secretary of Defense, and U.S. partners and allies—stresses the need for a rigorous analytical approach to building enduring advantages for the U.S. Joint Force in a resource-constrained environment. Released in May, the strategy underscores the need for a methodological process to identify and prioritize investments in military capabilities with the greatest potential to meet current and future warfighting needs. Such a process will require analysts to harness the analytic power of modeling and simulation to assess which emerging technologies offer the greatest operational values for the available resource investments. Meeting the Pentagon's goals to invest efficiently in military capabilities calls for a methodological process hinging on five key elements: aligning strategies with tasks, understanding what drives military innovation, embracing specificity in problem-solving, preparing for an unknown future, and assessing technology investments for prioritization. Meeting the Pentagon's goals to invest efficiently in military capabilities calls for a methodological process hinging on five key elements. The first element is applying the strategies-to-tasks framework. This framework aligns operational resources with strategic objectives through a hierarchical approach. In other words, the framework traces the connections from overarching objectives and strategies, defined by the highest leadership, down to the operational tasks performed by military units. This systematic approach ensures that strategy at one level translates into objectives at the next-lower level, thereby creating a hierarchy of objectives. The second element is understanding what drives military innovation. History has shown that significant innovation within the Department of Defense (DoD) begins with strategic thinking—that is, innovation is often driven by the identification of strategically significant operational issues that need resolution. Conversely, innovation usually fails to occur when the DoD fails to recognize the connection between a strategic and an operational problem. The third element is the need for specificity in the operational problems to be solved. Precise problem definitions facilitate focused discussions and effective strategizing. A problem-specific approach not only addresses the operational challenges more accurately but also aids in identifying the key impediments to resolution, which in turn allows for the development of technological innovations that can ensure long-term operational resilience. The fourth element—preparing for an unknown future—acknowledges that when making predictions about “the future, one must be careful (PDF) not to be too wrong.” It is imperative that military planners be adaptable and prepared for a wide array of plausible futures rather than fixate on a single “most likely” prediction. It is crucial for military strategists to be flexible and devise plans that are robust to a range of possible scenarios. Finally, effective analytic methodologies must be employed to assess and prioritize alternative technology investments, because scarce resources must be efficiently directed toward technologies with the greatest potential for impact. These assessments depend on the use of validated analyses, modeling, and simulations to compare the performance of emerging technologies against existing ones. By combining these five elements, a comprehensive approach to overcoming the complexities of tomorrow's battlefield can be pursued. And the call put forth by the new National Defense Science and Technology Strategy can be answered by embracing the types of rigorous analysis, comparative methodologies, and forward-thinking strategies that are necessary to build enduring advantages for the U.S. Joint Force. Christopher Mouton is acting director of the Acquisition and Technology Policy Program, part of the RAND National Security Research Division. He is also a senior engineer at the RAND Corporation, and a professor at the Pardee RAND Graduate School. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:13:46.027363",
+  "crawling_time_epoch": 1703243626,
+  "type": "News Release",
+  "title": "Prevalence of Dementia Is Declining Among Older Americans; Inequalities Reduced but Still Persist",
+  "url": "https://www.rand.org/news/press/2022/11/07.html",
+  "descriptions": "The prevalence of dementia in the United States is declining among people over age 65, dropping 3.7 percentage points from 2000 to 2016.",
+  "posted": "Nov 7, 2022",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/press/2022/11/07/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1667911502599.jpeg",
+    "desc": "Older white woman with a blank stare holding her hadn to her forehead, photo by fizkes/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Peter Hudomiet",
+      "profession": "Economist",
+      "biography": "Peter Hudomiet is an economist at the RAND Corporation. His research interests include applied econometrics, labor economics, economics of aging, and health economics.",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/h/hudomiet_peter/_jcr_content/par/bio.crop.130x130.cm.jpeg/1495298494097.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Peter Hudomiet"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "tags": [
+      "Alzheimer's Disease and Dementias",
+      "United States",
+      "www.rand.org"
+    ],
+    "Article": "The prevalence of dementia in the United States is declining among people over age 65, dropping 3.7 percentage points from 2000 to 2016, according to a new RAND Corporation study. The age-adjusted prevalence of dementia declined from 12.2 percent of people over age 65 in 2000 to 8.5 percent of people over age 65 in 2016—a nearly one-third drop from the 2000 level. The prevalence of dementia decreased over the entire period, but the rate of decline was more rapid between 2000 and 2004. Differences in the prevalence of dementia between Black men and white men of non-Hispanic ethnicity narrowed between 2000 and 2016, with the prevalence of dementia dropping by 7.3 percentage points among Black men as compared to 2.7 percentage points among white men. The findings are published in the latest edition of the journal Proceedings of the National Academy of Sciences. “The reasons for the decline in the prevalence of dementia are not certain, but this trend is good news for older Americans and the systems that support them,” said Peter Hudomiet, the study's lead author and an economist at RAND, a nonprofit research organization. “This decline may help reduce the expected strain on families, nursing homes, and other support systems as the American population ages.” Michael D. Hurd and Susann Rohwedder of RAND are coauthors of the study. The prevalence of dementia was higher among women than men over the entire period, but the difference shrank between 2000 and 2016. Among men, the prevalence of dementia decreased by 3.2 percentage points from 10.2 percent to 7.0 percent. The decrease was larger among women—3.9 percentage points from 13.6 percent to 9.7 percent. In 2021, about 6.2 million U.S. adults aged 65 or older lived with dementia. Because age is the strongest risk factor for dementia, it has been predicted that increasing life expectancies will substantially increase the prevalence of Alzheimer's disease and related dementias from about 50 million to 150 million worldwide by 2050. However, there is growing evidence that age-adjusted dementia prevalence has been declining in developed countries, possibly because of rising levels of education, a reduction in smoking, and better treatment of key cardiovascular risk factors such as high blood pressure. Any change in these age-specific rates has important implications for projected prevalence and associated costs, such as payments for nursing care by households, insurance companies, and the government. The new RAND study employs a novel model to assess cognitive status based on a broad set of cognitive measures elicited from more than 21,000 people who participate in the national Health and Retirement Study, a large population-representative survey that has been fielded for more than two decades. The model increases the precision of dementia classification by using the longitudinal dimension of the data. Importantly for the study, the model is constructed to ensure the dementia classification is calibrated within population subgroups and, therefore, it is equipped to produce accurate estimates of dementia prevalence by age, sex, education, race, and ethnicity, and by a measure of lifetime earnings. The RAND study found that education was an important factor that contributed, in a statistical sense, to the reduction in dementia, explaining about 40 percent of the reduction in dementia prevalence among men and 20 percent of the reduction among women. The fraction of college-educated men in the study increased from 21.5 percent in 2000 to 33.7 percent in 2016, and the fraction of college-educated women increased from 12.3 percent to 23 percent over this period. Trends in the level of education differ across demographic groups, which may affect differences in dementia prevalence in the future. For example, while women traditionally had lower levels of education than men, among younger generations, women are more educated. While racial and ethnic minority groups still have lower education levels than non-Hispanic White individuals, the gaps across racial and ethnic groups have shrunk. “Closing the education gap across racial and ethnic groups may be a powerful tool to reduce some health inequalities and dementia differences in particular, an important public health policy goal,” Hudomiet said. The age-adjusted prevalence of dementia tended to be higher among racial and ethnic minority individuals, both among men and women. However, among men, the difference in the prevalence between non-Hispanic Black and White individuals narrowed while it remained stable among women. Among non-Hispanic White men, the prevalence of dementia decreased from 9.3 percent to 6.6 percent. Among non-Hispanic Black men, the rate fell from 17.2 percent to 9.9 percent. Support for the study, which is titled “Trends in Inequalities in the Prevalence of Dementia in the U.S.,” was provided by a grant from National Institute on Aging. The RAND Social and Economic Well-Being division seeks to actively improve the health, social and economic well-being of populations and communities throughout the world."
+  }
+}

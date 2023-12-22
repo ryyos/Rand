@@ -1,0 +1,95 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:08:38.190194",
+  "crawling_time_epoch": 1703243318,
+  "type": "Blog",
+  "title": "The War in Ukraine, Software Supply Chain Risk, 'Hacking Equity': RAND Weekly Recap",
+  "url": "https://www.rand.org/pubs/articles/2023/weekly-recap-february-3.html",
+  "descriptions": "This weekly recap focuses on lessons about defense strategy from the war in Ukraine, U.S.-France cooperation in the Indo-Pacific, software supply chain risk, and more.",
+  "posted": "Feb 3, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-3/_jcr_content/par/teaser.crop.250x187.cm.jpeg/1675446224292.jpeg",
+    "desc": "RAND Weekly Recap"
+  },
+  "content": {
+    "tags": [
+      "Association of Southeast Asian Nations",
+      "Cybersecurity",
+      "France",
+      "International Diplomacy",
+      "Military Strategy",
+      "Policy Gaming",
+      "Robust Decision Making",
+      "Russia",
+      "Security Cooperation",
+      "Supply Chain Management",
+      "Ukraine",
+      "United States",
+      "Warfare and Military Operations",
+      "www.rand.org"
+    ],
+    "Article": "This week, we discuss what the U.S. military might learn from the war in Ukraine; how the United States and France could further cooperate in the Indo-Pacific; mitigating software supply chain risk; U.S. policy toward Southeast Asia; decisionmaking under deep uncertainty; and how RAND is helping students understand policy analysis.",
+    "sub_article": [
+      {
+        "title": "What Can the U.S. Military Learn from the War in Ukraine?",
+        "descriptions": "When other countries fight a war using American military equipment and tactics—as is the case in Ukraine today—policymakers have a window to gain insights into whether U.S. defense investments have paid off. The United States last had such a window in the 1973 Arab-Israeli War, also known as the Yom Kippur War, when Israel's near-defeat prompted a thorough reexamination of U.S. military weapons and strategy. The Yom Kippur War led to a new doctrine and continues to shape how the U.S. military plans for the future. According to RAND's Raphael Cohen and Gian Gentile, Russia's war in Ukraine once again poses questions about how the United States prepares for conflict—not only which weapons it buys, but also how it envisions great-power wars in the 21st century. For example, how relevant is the tank? Do helicopters still have a place on the modern battlefield? Will future wars be short, sharp affairs or grinding, protracted struggles? If the United States does learn the lessons of this war, as it did after the Yom Kippur War 50 years ago, then it may secure the U.S. military's edge for decades to come, Cohen and Gentile say. But if it doesn't, it may not get a second chance.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "U.S.-France Cooperation in the Indo-Pacific",
+        "descriptions": "Photo by Master Sgt. Shelia L. Cooper/U.S. Army The United States and France share goals in the Indo-Pacific, including promoting free access in the region and preventing nuclear proliferation. Washington, however, seems to overlook France as an Indo-Pacific power. A new report by RAND's Stephanie Pezard identifies ways the U.S. Army can further cooperate with France in the region. These include increased information-sharing, combined partnerships with other countries, and participation in joint exercises and training.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-3/_jcr_content/par/blogpost/par-blog/wrapperdiv_1696105391/imagewithclass_copy.fit.800x0.jpeg/1675736552203.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "U.S. Army soldiers and French soldiers conduct a water obstacle course at Camp Papeari Tahiti, French Polynesia, May 11, 2022, photo by Master Sgt. Shelia L. Cooper/U.S. Army"
+        }
+      },
+      {
+        "title": "Software Supply Chain Risk Is Growing. What Can Be Done?",
+        "descriptions": "Software supply chain security is a top concern for private companies and government agencies. But given the tremendous number of open-source software packages and libraries, estimating and reducing this risk is a big challenge. Solutions start with filling in the “massive gap in our understanding of software dependency,” says RAND's Sasha Romanosky. Fortunately, the data needed to map out the extensive network of open-source software already exists.",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-3/_jcr_content/par/blogpost/par-blog/wrapperdiv_655378184/imagewithclass_copy.fit.800x0.jpeg/1675444863079.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Screen showing computer code with malicious code logged error, photo by solarseven/Getty Images"
+        }
+      },
+      {
+        "title": "U.S. Policy Toward Southeast Asia: 'Heavy Lifting Remains'",
+        "descriptions": "Photo by Cindy Liu/Reuters According to RAND's Derek Grossman, the Biden administration's policy toward Southeast Asia has improved, but there is still work to be done. For example, the White House does not have a viable economic strategy, and its emphasis on containing China could alienate key countries in the region. But as long as the U.S.-China competition does not boil over, then Southeast Asian states will feel comfortable deepening their ties with Washington.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      },
+      {
+        "title": "How to Make Policy Decisions When You Can't Predict the Future",
+        "descriptions": "How can policymakers make decisions when there's deep uncertainty about what the future might hold? RAND's Robert Lempert explains that, while there's no crystal ball, there are tools that can help. Lempert's work uses powerful modeling to stress-test policies that address critical issues such as climate change. “Think of it as peering into the multiverse,” he says, with “humans and computers working together to look at thousands and thousands of futures.”",
+        "image": {
+          "url_image": "https://www.rand.org/content/rand/pubs/articles/2023/weekly-recap-february-3/_jcr_content/par/blogpost/par-blog/wrapperdiv_1035350401/imagewithclass.fit.800x0.jpeg/1675445086835.jpeg",
+          "width": "800",
+          "height": "450",
+          "desc": "Abstract 3D illustration of business or programming flowchart/block diagram, photo by Olena_T/Getty Images"
+        }
+      },
+      {
+        "title": "RAND Hackathon Introduces Undergrads to Policy Analysis",
+        "descriptions": "RAND conducted a yearlong count of people experiencing homelessness in three Los Angeles neighborhoods: Hollywood, Venice, and Skid Row. Despite encampment cleanups and other clearance activities in these “hot spots,” the number of unhoused people rose by an average of 18 percent. The findings may help inform the development of effective homelessness policy.",
+        "image": {
+          "url_image": null,
+          "width": null,
+          "height": null,
+          "desc": null
+        }
+      }
+    ]
+  }
+}

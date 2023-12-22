@@ -1,0 +1,51 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:13:51.271898",
+  "crawling_time_epoch": 1703243631,
+  "type": "News Release",
+  "title": "Second Annual RAND-AUC Consortium Policy Hackathon to Focus on Justice Reinvestment",
+  "url": "https://www.rand.org/news/press/2022/10/26.html",
+  "descriptions": "Undergraduate students from four Atlanta University Center (AUC) Consortium schools will collaborate with Pardee RAND doctoral students to identify potential justice reinvestment policy options during a virtual hackathon offered by the nonprofit, nonpartisan RAND Corporation, Pardee RAND Graduate School, and the AUC.",
+  "posted": "Oct 26, 2022",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/press/2022/10/26/_jcr_content/par/teaser.crop.250x187.rt.jpeg/1666829550520.jpeg",
+    "desc": "Silhouette of a police officer in blue over silhouettes of various people in browns and tans, photo by wildpixel/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Todd A. Richmond",
+      "profession": "Director, Pardee RAND Tech + Narrative Lab",
+      "biography": "Todd Richmond is the director of the Tech + Narrative Lab and a professor at the Pardee RAND Graduate School. Richmond is also a musician and self-described \"conceptual troublemaker.\" Early in his career as a chemistry professor at The Claremont Colleges, he incorporated multimedia and web…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/r/richmond_todd/_jcr_content/par/bio.crop.130x130.cm.jpeg/1525198966524.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Todd Richmond"
+      }
+    },
+    "researcher": [
+      {
+        "research": "Pardee RAND Graduate School",
+        "profile": "https://www.pardeerand.edu"
+      },
+      {
+        "research": "Technology Applications and Implications at Pardee RAND",
+        "profile": "https://www.pardeerand.edu/degree-program/policy-engagement-streams/technology-applications-and-implications.html"
+      }
+    ],
+    "tags": [
+      "Corrections",
+      "Emerging Technologies",
+      "Police-Community Relations",
+      "Racial Equity",
+      "Science, Technology, and Innovation Policy",
+      "www.rand.org"
+    ],
+    "Article": "Undergraduate students from four Atlanta University Center (AUC) Consortium schools will collaborate with Pardee RAND doctoral students to identify potential justice reinvestment policy options during a virtual hackathon offered by the nonprofit, nonpartisan RAND Corporation, Pardee RAND Graduate School, and the AUC. Justice reinvestment aims to reduce spending on corrections and reinvest identified savings on other strategies to increase public safety and hold offenders accountable. The hackathon pairs students from Clark Atlanta University, Morehouse College, Morris Brown College, and Spelman College with Pardee RAND students to analyze available data and propose justice reinvestment policy solutions for a more-equitable and effective criminal justice system. “Justice reinvestment is an extremely challenging topic with broad societal implications, so it's exciting for these students to have the opportunity to address a real-world issue of such magnitude,” said Todd Richmond, hackathon organizer and director of the Pardee RAND Tech + Narrative Lab. “This hackathon is also unique because of the process—the combination of undergraduates, graduate students, and professional researchers from diverse backgrounds helps bring critical and underrepresented perspectives and expertise to the table.” Several RAND researchers will serve as advisors for the teams as they analyze justice reinvestment efforts and data sets, identify missing elements, explore narrative approaches, and propose possible next steps. The hackathon is part of RAND's NextGen Initiative, an effort that aims to deepen understanding of critical policy issues among emerging leaders, and offered through Pardee RAND, which offers a Master of Philosophy and a doctorate in policy analysis. The hackathon kicks off on October 26 with final presentations on November 2. For more information, please visit https://www.pardeerand.edu/research/tech-and-narrative-lab/equity-hackathon.html. Follow @PardeeRAND and @RANDCorporation using #HackingEquity."
+  }
+}

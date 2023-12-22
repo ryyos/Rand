@@ -1,0 +1,41 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:04:53.535056",
+  "crawling_time_epoch": 1703243093,
+  "type": "Media Advisory",
+  "title": "RAND Experts Available to Comment on 20th Anniversary of Iraq War",
+  "url": "https://www.rand.org/news/advisories/2023/03/15.html",
+  "descriptions": "RAND Corporation experts are available to comment on the 20th anniversary of the Iraq War, being marked on March 20, 2023. They can discuss the historical implications of the war and the decisionmaking that led up to it; the war's lasting impact on returning veterans and on current U.S. foreign and defense policies; and the relevance of Iraq to today's geopolitical climate, including Russia's war with Ukraine, competition with China, and the balance of power in the Middle East.",
+  "posted": "Mar 15, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/advisories/2023/03/15/_jcr_content/par/teaser.crop.250x187.ct.jpeg/1678921801685.jpeg",
+    "desc": "Iraqi citizens pull down a statue of Sadamm Hussein with the help of U.S. soldiers in the town of Kerbala, south west of Baghdad, April 6, 2003, photo by Reuters photographer/Reuters"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "sub_content": [
+      {
+        "Interviews": "To arrange an interview, contact the RAND Office of Media Relations:\n(703) 414-4795 or\n(310) 451-6913, or\nsend an email to media@rand.org."
+      }
+    ],
+    "tags": [
+      "International Diplomacy",
+      "Iraq",
+      "Security Cooperation",
+      "United States",
+      "Warfare and Military Operations",
+      "RAND Army Research Division",
+      "Strategy, Doctrine, and Resources",
+      "RAND National Security Research Division",
+      "International Security and Defense Policy Program",
+      "RAND Project AIR FORCE",
+      "",
+      "www.rand.org"
+    ],
+    "Article": "RAND Corporation experts are available to comment on the 20th anniversary of the Iraq War, being marked on March 20, 2023. They can discuss the historical implications of the war and the decisionmaking that led up to it; the war's lasting impact on returning veterans and on current U.S. foreign and defense policies; and the relevance of Iraq to today's geopolitical climate, including Russia's war with Ukraine, competition with China, and the balance of power in the Middle East. Experts available include: More information on RAND's work related to Iraq may be found here: /topics/iraq.html."
+  }
+}

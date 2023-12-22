@@ -1,0 +1,48 @@
+{
+  "domain": "www.rand.org",
+  "crawling_time": "2023-12-22 18:01:16.608481",
+  "crawling_time_epoch": 1703242876,
+  "type": "News Release",
+  "title": "Providing Legal Counsel at Initial Bail Hearings Reduces Use of Cash Bail, Lowers Incarceration",
+  "url": "https://www.rand.org/news/press/2023/05/05.html",
+  "descriptions": "Providing defendants with legal counsel during their initial bail hearing decreases use of monetary bail and pretrial detention, without increasing the likelihood that defendants fail to appear at the subsequent preliminary hearing.",
+  "posted": "May 5, 2023",
+  "image": {
+    "thumbnail": "https://www.rand.org/content/rand/news/press/2023/05/05/_jcr_content/par/teaser.crop.250x187.lt.jpeg/1696467197595.jpeg",
+    "desc": "A lawyer and defendant in the courtroom, photo by gorodenkoff/Getty Images"
+  },
+  "content": {
+    "media_relations": {
+      "contact1": "(703) 414-4795",
+      "contact2": "(310) 451-6913",
+      "email": "media@rand.org"
+    },
+    "spotlight": {
+      "name": "Shamena Anwar",
+      "profession": "Senior Economist",
+      "biography": "Shamena Anwar is an economist at the RAND Corporation. Her main areas of interest include evaluating criminal justice system reforms and studying racial disparities. Her previous work has examined the role that race plays in areas such as motor vehicle searches, parole release decisions, and…",
+      "profile_picture": {
+        "url_pict": "https://www.rand.org/content/rand/about/people/a/anwar_shamena/_jcr_content/par/bio.crop.130x130.cm.jpeg/1520431435751.jpeg",
+        "width": "130",
+        "height": "130",
+        "desc": "Photo of Shamena Anwar"
+      }
+    },
+    "researcher": [
+      {
+        "research": "RAND Social and Economic Well-Being",
+        "profile": "https://www.rand.org/well-being.html"
+      }
+    ],
+    "tags": [
+      "Access to Justice",
+      "Court Staffing and Funding",
+      "Criminal Justice",
+      "Legal Case and Court Management",
+      "Pittsburgh",
+      "Public Defense",
+      "www.rand.org"
+    ],
+    "Article": "Providing defendants with legal counsel during their initial bail hearing decreases use of monetary bail and pretrial detention, without increasing the likelihood that defendants fail to appear at the subsequent preliminary hearing, according to a new RAND Corporation study. Researchers found that having legal counsel at bail hearings increased the probability of being released without monetary bail by 21 percent and reduced the probability that an individual was in jail three days after their bail hearing by 10 percent. The analysis, based on a field experiment in Pittsburgh where public defenders were assigned to a limited number of initial bail hearings, is one of the few high-quality studies of what happens when legal services are provided to defendants at an initial bail hearing. The findings are published in the journal Science Advances. “These results clearly show that public defenders have a substantial impact on defendants receiving a favorable outcome at the initial bail hearing,” said Shamena Anwar, one of the study's authors and a senior economist at RAND, a nonprofit research organization. In the United States, during the first court appearance after an arrest, a judge makes a decision about the conditions necessary for a defendant to be released from jail until the case is resolved. Most jurisdictions operate a cash bail system in which a judge determines an amount a person must pay to be released from detention. Recent studies have provided substantial evidence that pretrial detention leads to worse outcomes for both the defendant and society at large, with longer jail stays and higher chances of conviction in the short term, and worse recidivism and employment outcomes over the long term. Prior to this study, an open question was whether providing a lawyer at the bail hearing will have an impact on defendant outcomes. While defendants have a right to an attorney at all critical stages of a criminal prosecution, bail hearings are not considered a critical stage in many jurisdictions, in part because they are short, non-evidentiary hearings (often lasting less than five minutes) that are often conducted in an assembly line fashion without much input from the defendant or prosecution. The RAND study analyzes the results from a unique year-long initiative in the Pittsburgh Municipal Court where public defenders were available to represent newly arrested people at some initial bail hearings. The jurisdiction only had sufficient resources to provide public defenders for half of the shifts that did not already have public defenders. The RAND team created a public defender work schedule such that the shifts in which a public defender was working had defendants and judges who were on average nearly identical to those in which a public defender was not working. This meant the study was akin to a randomized control trial, allowing researchers to rigorously measure the impact of providing a public defender at a defendant's initial bail hearing. The study was in the field from April 2019 to March 2020. Researchers found that while those who did not have legal representation received some type of non-monetary release 49 percent of the time, those with public defenders received a non-monetary release 59 percent of the time—a large increase. This reduction in the use of monetary bail in turn led to a decline in the percentage of individuals who were in jail immediately after their bail hearing. In particular, while 45.4 percent of those without a public defender were in jail following their bail hearing, this percentage was 40.8 percent among those with a public defender. However, the intervention did result in a short-term increase in rearrests on theft charges among those who had public defenders. Based upon prior survey work that asked people how they perceive the costs of incarceration and theft, RAND researchers suggest that a theft incident would have to be at least 8.5 times as costly as a day in detention for most jurisdictions to find this tradeoff undesirable. “This study is particularly relevant given that roughly half of the counties in the United States do not currently provide defense representation at the bail hearing,” Anwar said. “These results should be helpful for jurisdictions that are considering providing defense representation at bail hearings, although more research in this area is needed to understand the extent to which the results we find here are generalizable to other jurisdictions with different bail hearing procedures.” Support for the study was provided by Arnold Ventures. Other authors of the study are Shawn Bushway and John Engberg. The RAND Social and Economic Well-Being division seeks to actively improve the health, social, and economic well-being of populations and communities throughout the world."
+  }
+}
