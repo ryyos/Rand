@@ -10095,3 +10095,207 @@
 12/22/2023 05:19:27 PM - DEBUG - https://www.rand.org:443 "GET /news/press/2022/03/14.html HTTP/1.1" 200 15841
 12/22/2023 05:19:28 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
 12/22/2023 05:19:30 PM - DEBUG - https://www.rand.org:443 "GET /news.html?page=30 HTTP/1.1" 200 20146
+12/22/2023 05:35:10 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:37:50 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:37:53 PM - DEBUG - https://www.rand.org:443 "GET /news.html?page=1 HTTP/1.1" 200 26260
+12/22/2023 05:37:53 PM - INFO - type: Commentary
+12/22/2023 05:37:53 PM - INFO - title: The U.S. Military Needs to Build Arctic Capabilities and Capacity
+12/22/2023 05:37:53 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/the-us-military-needs-to-build-arctic-capabilities.html
+12/22/2023 05:37:53 PM - INFO - status: 200
+12/22/2023 05:37:53 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:37:54 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/the-us-military-needs-to-build-arctic-capabilities.html HTTP/1.1" 200 17696
+12/22/2023 05:37:54 PM - INFO - type: Commentary
+12/22/2023 05:37:54 PM - INFO - title: Elements of an Eventual Russia-Ukraine Armistice and the Prospect for Regional Stability in Europe
+12/22/2023 05:37:54 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/elements-of-an-eventual-russia-ukraine-armistice-and.html
+12/22/2023 05:37:54 PM - INFO - status: 200
+12/22/2023 05:37:54 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:37:56 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/elements-of-an-eventual-russia-ukraine-armistice-and.html HTTP/1.1" 200 15291
+12/22/2023 05:37:56 PM - INFO - type: Commentary
+12/22/2023 05:37:56 PM - INFO - title: Vietnam's Show of Welcome for Xi Reflects Growing Self-Confidence
+12/22/2023 05:37:56 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/vietnams-show-of-welcome-for-xi-reflects-growing-self.html
+12/22/2023 05:37:56 PM - INFO - status: 200
+12/22/2023 05:37:56 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:37:57 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/vietnams-show-of-welcome-for-xi-reflects-growing-self.html HTTP/1.1" 200 14987
+12/22/2023 05:37:57 PM - INFO - type: News Release
+12/22/2023 05:37:57 PM - INFO - title: Number of People Affected by Tropical Cyclones Has Increased Sharply Since 2002
+12/22/2023 05:37:57 PM - INFO - url: https://www.rand.org/news/press/2023/12/20.html
+12/22/2023 05:37:57 PM - INFO - status: 200
+12/22/2023 05:37:57 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:37:59 PM - DEBUG - https://www.rand.org:443 "GET /news/press/2023/12/20.html HTTP/1.1" 200 17517
+12/22/2023 05:37:59 PM - INFO - type: Commentary
+12/22/2023 05:37:59 PM - INFO - title: PALM10: Japan's Chance to Engage with Pacific Island Countries
+12/22/2023 05:37:59 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/palm10-japans-chance-to-engage-with-pacific-island.html
+12/22/2023 05:37:59 PM - INFO - status: 200
+12/22/2023 05:37:59 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:00 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/palm10-japans-chance-to-engage-with-pacific-island.html HTTP/1.1" 200 21100
+12/22/2023 05:38:00 PM - INFO - type: Commentary
+12/22/2023 05:38:00 PM - INFO - title: Deepfakes Aren't the Disinformation Threat They're Made Out to Be
+12/22/2023 05:38:00 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/deepfakes-arent-the-disinformation-threat-theyre-made.html
+12/22/2023 05:38:00 PM - INFO - status: 200
+12/22/2023 05:38:00 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:02 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/deepfakes-arent-the-disinformation-threat-theyre-made.html HTTP/1.1" 200 18899
+12/22/2023 05:38:02 PM - INFO - type: Commentary
+12/22/2023 05:38:02 PM - INFO - title: Learning from the OpenAI Staff Mutiny
+12/22/2023 05:38:02 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/learning-from-the-openai-staff-mutiny.html
+12/22/2023 05:38:02 PM - INFO - status: 200
+12/22/2023 05:38:03 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:04 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/learning-from-the-openai-staff-mutiny.html HTTP/1.1" 200 17107
+12/22/2023 05:38:04 PM - INFO - type: Commentary
+12/22/2023 05:38:04 PM - INFO - title: Looking Back on the Big Policy Stories of 2023
+12/22/2023 05:38:04 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/looking-back-on-the-big-policy-stories-of-2023.html
+12/22/2023 05:38:04 PM - INFO - status: 200
+12/22/2023 05:38:04 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:06 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/looking-back-on-the-big-policy-stories-of-2023.html HTTP/1.1" 200 26374
+12/22/2023 05:38:06 PM - INFO - type: Commentary
+12/22/2023 05:38:06 PM - INFO - title: Place Matters: Navigating Heart Health Through Place-Based Policy
+12/22/2023 05:38:06 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/place-matters-navigating-heart-health-through-place.html
+12/22/2023 05:38:06 PM - INFO - status: 200
+12/22/2023 05:38:06 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:08 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/place-matters-navigating-heart-health-through-place.html HTTP/1.1" 200 18881
+12/22/2023 05:38:08 PM - INFO - type: Commentary
+12/22/2023 05:38:08 PM - INFO - title: Testing the Waters: Using Wastewater Surveillance as an Early Warning System
+12/22/2023 05:38:08 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/testing-the-waters-using-wastewater-surveillance-as.html
+12/22/2023 05:38:08 PM - INFO - status: 200
+12/22/2023 05:38:08 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:10 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/testing-the-waters-using-wastewater-surveillance-as.html HTTP/1.1" 200 17954
+12/22/2023 05:38:10 PM - INFO - type: Commentary
+12/22/2023 05:38:10 PM - INFO - title: A Precarious Moment for Yemen's Truce
+12/22/2023 05:38:10 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/a-precarious-moment-for-yemens-truce.html
+12/22/2023 05:38:10 PM - INFO - status: 200
+12/22/2023 05:38:10 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:12 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/a-precarious-moment-for-yemens-truce.html HTTP/1.1" 200 21467
+12/22/2023 05:38:12 PM - INFO - type: Commentary
+12/22/2023 05:38:12 PM - INFO - title: Treat Psychedelics Like Cannabis?
+12/22/2023 05:38:12 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/treat-psychedelics-like-cannabis.html
+12/22/2023 05:38:12 PM - INFO - status: 200
+12/22/2023 05:38:12 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:14 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/treat-psychedelics-like-cannabis.html HTTP/1.1" 200 15493
+12/22/2023 05:38:14 PM - INFO - type: Commentary
+12/22/2023 05:38:14 PM - INFO - title: Three Myths About Hiring People with Convictions
+12/22/2023 05:38:14 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/three-myths-about-hiring-people-with-convictions.html
+12/22/2023 05:38:14 PM - INFO - status: 200
+12/22/2023 05:38:14 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:15 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/three-myths-about-hiring-people-with-convictions.html HTTP/1.1" 200 15427
+12/22/2023 05:38:15 PM - INFO - type: Commentary
+12/22/2023 05:38:15 PM - INFO - title: COP28: How Latin America and the Caribbean Could Benefit from Reducing Emissions
+12/22/2023 05:38:15 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/cop28-how-latin-america-and-the-caribbean-could-benefit.html
+12/22/2023 05:38:15 PM - INFO - status: 200
+12/22/2023 05:38:15 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:17 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/cop28-how-latin-america-and-the-caribbean-could-benefit.html HTTP/1.1" 200 16702
+12/22/2023 05:38:18 PM - INFO - type: Commentary
+12/22/2023 05:38:18 PM - INFO - title: America's Indo-Pacific Alliances Are Astonishingly Strong
+12/22/2023 05:38:18 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/americas-indo-pacific-alliances-are-astonishingly-strong.html
+12/22/2023 05:38:18 PM - INFO - status: 200
+12/22/2023 05:38:18 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:21 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/americas-indo-pacific-alliances-are-astonishingly-strong.html HTTP/1.1" 200 25893
+12/22/2023 05:38:21 PM - INFO - type: Commentary
+12/22/2023 05:38:21 PM - INFO - title: Resilient Reconstruction in Ukraine
+12/22/2023 05:38:21 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/resilient-reconstruction-in-ukraine.html
+12/22/2023 05:38:21 PM - INFO - status: 200
+12/22/2023 05:38:21 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:23 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/resilient-reconstruction-in-ukraine.html HTTP/1.1" 200 18208
+12/22/2023 05:38:23 PM - INFO - type: Commentary
+12/22/2023 05:38:23 PM - INFO - title: The Nuclear Shadows of the Ukraine War as Seen Through a Chinese Lens
+12/22/2023 05:38:23 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/the-nuclear-shadows-of-the-ukraine-war-as-seen-through.html
+12/22/2023 05:38:23 PM - INFO - status: 200
+12/22/2023 05:38:23 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:25 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/the-nuclear-shadows-of-the-ukraine-war-as-seen-through.html HTTP/1.1" 200 20198
+12/22/2023 05:38:25 PM - INFO - type: Announcement
+12/22/2023 05:38:25 PM - INFO - title: BRACE Centre funded for a further five years to evaluate initiatives which seek to join up and transform patient care
+12/22/2023 05:38:25 PM - INFO - url: https://www.rand.org/randeurope/about/news/2023/brace-five-year-funding.html
+12/22/2023 05:38:25 PM - INFO - status: 200
+12/22/2023 05:38:25 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:26 PM - DEBUG - https://www.rand.org:443 "GET /randeurope/about/news/2023/brace-five-year-funding.html HTTP/1.1" 200 14649
+12/22/2023 05:38:26 PM - INFO - type: Announcement
+12/22/2023 05:38:26 PM - INFO - title: RAND Europe to Evaluate Government Treatment and Recovery Funding
+12/22/2023 05:38:26 PM - INFO - url: https://www.rand.org/randeurope/about/news/2023/gov-treatment-recovery.html
+12/22/2023 05:38:26 PM - INFO - status: 200
+12/22/2023 05:38:26 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:28 PM - DEBUG - https://www.rand.org:443 "GET /randeurope/about/news/2023/gov-treatment-recovery.html HTTP/1.1" 200 13813
+12/22/2023 05:38:28 PM - INFO - type: Commentary
+12/22/2023 05:38:28 PM - INFO - title: Displaced in Gaza: The Least-Bad Option
+12/22/2023 05:38:28 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/displaced-in-gaza-the-least-bad-option.html
+12/22/2023 05:38:28 PM - INFO - status: 200
+12/22/2023 05:38:28 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:29 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/displaced-in-gaza-the-least-bad-option.html HTTP/1.1" 200 19367
+12/22/2023 05:38:29 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:32 PM - DEBUG - https://www.rand.org:443 "GET /news.html?page=2 HTTP/1.1" 200 26241
+12/22/2023 05:38:32 PM - INFO - type: Commentary
+12/22/2023 05:38:32 PM - INFO - title: North Korea's Satellite Launch: Part of a Bigger Problem for Kim Jong-un?
+12/22/2023 05:38:32 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/north-koreas-satellite-launch-part-of-a-bigger-problem.html
+12/22/2023 05:38:32 PM - INFO - status: 200
+12/22/2023 05:38:32 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:33 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/north-koreas-satellite-launch-part-of-a-bigger-problem.html HTTP/1.1" 200 16394
+12/22/2023 05:38:33 PM - INFO - type: News Release
+12/22/2023 05:38:33 PM - INFO - title: Rise in Child Suicide in the U.S. Linked in Part to the Nation's Opioid Crisis
+12/22/2023 05:38:33 PM - INFO - url: https://www.rand.org/news/press/2023/12/04.html
+12/22/2023 05:38:33 PM - INFO - status: 200
+12/22/2023 05:38:33 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:35 PM - DEBUG - https://www.rand.org:443 "GET /news/press/2023/12/04.html HTTP/1.1" 200 17131
+12/22/2023 05:38:35 PM - INFO - type: Commentary
+12/22/2023 05:38:35 PM - INFO - title: Can NATO Supercharge Military Greening?
+12/22/2023 05:38:35 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/12/can-nato-supercharge-military-greening.html
+12/22/2023 05:38:35 PM - INFO - status: 200
+12/22/2023 05:38:35 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:36 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/12/can-nato-supercharge-military-greening.html HTTP/1.1" 200 18231
+12/22/2023 05:38:36 PM - INFO - type: Commentary
+12/22/2023 05:38:36 PM - INFO - title: Book Review: 'Forgotten Warriors: The Long History of Women in Combat' by Sarah Percy
+12/22/2023 05:38:36 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/book-review-forgotten-warriors-the-long-history-of.html
+12/22/2023 05:38:36 PM - INFO - status: 200
+12/22/2023 05:38:36 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:39 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/book-review-forgotten-warriors-the-long-history-of.html HTTP/1.1" 200 16978
+12/22/2023 05:38:39 PM - INFO - type: Commentary
+12/22/2023 05:38:39 PM - INFO - title: One More Chance for COP Reform
+12/22/2023 05:38:39 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/one-more-chance-for-cop-reform.html
+12/22/2023 05:38:39 PM - INFO - status: 200
+12/22/2023 05:38:39 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:41 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/one-more-chance-for-cop-reform.html HTTP/1.1" 200 17441
+12/22/2023 05:38:41 PM - INFO - type: Commentary
+12/22/2023 05:38:41 PM - INFO - title: Creating the Uncrewed-Centric Navy of the Mid-21st Century
+12/22/2023 05:38:41 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/creating-the-uncrewed-centric-navy-of-the-mid-21st.html
+12/22/2023 05:38:41 PM - INFO - status: 200
+12/22/2023 05:38:41 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:42 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/creating-the-uncrewed-centric-navy-of-the-mid-21st.html HTTP/1.1" 200 21598
+12/22/2023 05:38:42 PM - INFO - type: Announcement
+12/22/2023 05:38:42 PM - INFO - title: New report focuses on the challenge of moderating online hate speech
+12/22/2023 05:38:42 PM - INFO - url: https://www.rand.org/randeurope/about/news/2023/moderating-hate-speech.html
+12/22/2023 05:38:42 PM - INFO - status: 200
+12/22/2023 05:38:42 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:44 PM - DEBUG - https://www.rand.org:443 "GET /randeurope/about/news/2023/moderating-hate-speech.html HTTP/1.1" 200 12949
+12/22/2023 05:38:44 PM - INFO - type: Testimony
+12/22/2023 05:38:44 PM - INFO - title: Enhancing Security in a Changing Arctic
+12/22/2023 05:38:44 PM - INFO - url: https://www.rand.org/pubs/testimonies/CTA3097-1.html
+12/22/2023 05:38:44 PM - INFO - status: 200
+12/22/2023 05:38:44 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:45 PM - DEBUG - https://www.rand.org:443 "GET /pubs/testimonies/CTA3097-1.html HTTP/1.1" 200 14688
+12/22/2023 05:38:46 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:48 PM - DEBUG - https://www.rand.org:443 "GET /content/dam/rand/pubs/testimonies/CTA3000/CTA3097-1/RAND_CTA3097-1.pdf HTTP/1.1" 200 None
+12/22/2023 05:38:48 PM - INFO - type: Commentary
+12/22/2023 05:38:48 PM - INFO - title: From the Ashes of Hamas-Israel War, Can Economics Drive Peace?
+12/22/2023 05:38:48 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/from-the-ashes-of-hamas-israel-war-can-economics-drive.html
+12/22/2023 05:38:48 PM - INFO - status: 200
+12/22/2023 05:38:48 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:50 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/from-the-ashes-of-hamas-israel-war-can-economics-drive.html HTTP/1.1" 200 17660
+12/22/2023 05:38:50 PM - INFO - type: Commentary
+12/22/2023 05:38:50 PM - INFO - title: BBC's Gaza Service Demonstrates Power of Radio During Conflict
+12/22/2023 05:38:50 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/bbcs-gaza-service-demonstrates-power-of-radio-during.html
+12/22/2023 05:38:50 PM - INFO - status: 200
+12/22/2023 05:38:50 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:51 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/bbcs-gaza-service-demonstrates-power-of-radio-during.html HTTP/1.1" 200 19570
+12/22/2023 05:38:51 PM - INFO - type: Commentary
+12/22/2023 05:38:51 PM - INFO - title: Deterrence of North Korean Limited Nuclear Attacks
+12/22/2023 05:38:51 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/deterrence-of-north-korean-limited-nuclear-attacks.html
+12/22/2023 05:38:51 PM - INFO - status: 200
+12/22/2023 05:38:51 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:53 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/deterrence-of-north-korean-limited-nuclear-attacks.html HTTP/1.1" 200 19391
+12/22/2023 05:38:53 PM - INFO - type: Commentary
+12/22/2023 05:38:53 PM - INFO - title: South Korea's Surprisingly Successful China Policy
+12/22/2023 05:38:53 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/south-koreas-surprisingly-successful-china-policy.html
+12/22/2023 05:38:53 PM - INFO - status: 200
+12/22/2023 05:38:53 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443
+12/22/2023 05:38:55 PM - DEBUG - https://www.rand.org:443 "GET /pubs/commentary/2023/11/south-koreas-surprisingly-successful-china-policy.html HTTP/1.1" 200 18531
+12/22/2023 05:38:55 PM - INFO - type: Commentary
+12/22/2023 05:38:55 PM - INFO - title: The Israel-Hamas War Has Upended the Terrorist Threat Matrix
+12/22/2023 05:38:55 PM - INFO - url: https://www.rand.org/pubs/commentary/2023/11/the-israel-hamas-war-has-upended-the-terrorist-threat.html
+12/22/2023 05:38:55 PM - INFO - status: 200
+12/22/2023 05:38:55 PM - DEBUG - Starting new HTTPS connection (1): www.rand.org:443

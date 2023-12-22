@@ -41,7 +41,7 @@ class Search:
                 response = requests.get(url=url, headers=self.__headers)
                 return response
             except Exception as err:
-                ic(err)
+                self.__logs.err(message=err, url=url)
             sleep(retry_interval)
             retry_interval+= 0.2
         return response
@@ -61,7 +61,7 @@ class Search:
 
 
     def testimony(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         body = html.find(selector="#srch")
@@ -94,7 +94,7 @@ class Search:
 
 
     def qna(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         body = html.find(selector="#srch > article > div.constrain-width")
@@ -114,7 +114,7 @@ class Search:
 
 
     def media_advisory(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         side_right = html.find('#srch > article > div > div > div:last-child')
@@ -137,7 +137,7 @@ class Search:
 
 
     def essay(self, url_artc) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         body = html.find(selector="#srch > article")
@@ -146,7 +146,7 @@ class Search:
         results = {
             "article": self.__parser.ex(html=body, selector="div.body-text p").text(),
             "overview": self.__parser.ex(html=body, selector="div.overview > p").text(),
-            "topine": self.__parser.ex(html=body, selector="div.topline > div > ul > li").text(),
+            "topline": self.__parser.ex(html=body, selector="div.topline > div > ul > li").text(),
             "tags": [self.__parser.ex(html=tag, selector="a").text() for tag in side.find(selector="aside.related-topics > ul > li")
             ],
             "image": [
@@ -164,7 +164,7 @@ class Search:
 
 
     def article(self, url_artc) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         body = html.find(selector="#srch > article > div.body-wrap")
@@ -190,7 +190,7 @@ class Search:
         return results
 
     def blog(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         body = html.find(selector="#srch > article > div.constrain-width")
@@ -220,7 +220,7 @@ class Search:
 
 
     def announcement(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         side_right = html.find(selector="#rightcolumn > aside")
@@ -245,7 +245,7 @@ class Search:
 
 
     def news_release(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         side_right = html.find('#srch > article > div > div > div:last-child')
@@ -280,7 +280,7 @@ class Search:
 
 
     def commentary(self, url_artc: str) -> dict:
-        response = requests.get(url=url_artc, headers=self.__headers)
+        response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
         header = html.find('#srch > article > div.post-heading')
@@ -291,7 +291,7 @@ class Search:
             "author": {
                 "name": self.__parser.ex(html=footer, selector="p.authors > a").text(),
                 "profil": self.__complement_url(self.__parser.ex(html=footer, selector="p.authors > a").attr('href')),
-                "position": self.__parser.ex(html=footer, selector="div.blog-column-left h4").text(),
+                "profession": self.__parser.ex(html=footer, selector="div.blog-column-left h4").text(),
                 "username": self.__parser.ex(html=footer, selector="div.blog-column-left p > a").text(),
                 "contact": self.__parser.ex(html=footer, selector="div.blog-column-left p > a").attr('href')
             },
@@ -317,7 +317,7 @@ class Search:
             "descriptions": self.__parser.ex(html=pieces_table, selector='div.text p.desc').text(),
             "posted": self.__parser.ex(html=pieces_table, selector='div.text p.date').text(),
             "image": {
-                "thumb": self.__complement_url(self.__parser.ex(html=pieces_table, selector='div.img-wrap a img').attr('src')),
+                "thumbnail": self.__complement_url(self.__parser.ex(html=pieces_table, selector='div.img-wrap a img').attr('src')),
                 "desc": self.__parser.ex(html=pieces_table, selector='div.img-wrap a img').attr('alt'),
             }
         }
@@ -384,7 +384,7 @@ class Search:
         return results
 
     def execute(self, url: str):
-        response = requests.get(url=url, headers=self.__headers)
+        response = self.__retry(url=url)
         html = PyQuery(response.text)
         table = html.find(selector='#results > ul')
 

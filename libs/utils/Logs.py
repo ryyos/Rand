@@ -30,9 +30,7 @@ class Logs:
         logger.info(f"url: {url}")
         logger.info(f"status: {status}")
 
-    def err(self,response: any, requests: str) -> None:
+    def err(self, message: str, url: str) -> None:
         logger = logging.getLogger()
-        logger.error(f"requests: {requests}")
-        logger.error(f"code: {response.get('code')}")
-        logger.error(f"type: {response.get('type')}")
-        logger.error(f"message: {response.get('message')}")
+        logger.error(f"url: {url}")
+        logger.error(f"message: {message}")
