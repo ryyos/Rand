@@ -35,6 +35,16 @@ class Search:
             return pieces_url
 
 
+    def filter_tags(self, pieces_url: str):
+        try:
+            if "https://" in pieces_url:
+                return pieces_url.split("/")[2]
+            else:
+                return "www.rand.org"
+        except Exception:
+            return pieces_url
+
+
     def split_string(self, input_string: str, many: int):
         return [input_string[i:i+many] for i in range(0, len(input_string), many)]
 
@@ -59,10 +69,10 @@ class Search:
                 "name": self.__parser.ex(html=body, selector="div.product-header.full-bg-gray > div > div.eight.columns > div > p > a").text(),
                 "profile": self.complement_url(self.__parser.ex(html=body, selector="div.product-header.full-bg-gray > div > div.eight.columns > div > p > a").attr('href')),
             },
-            "topics": [
+            "tags": [
                 {
                     "tag": self.__parser.ex(html=tag, selector="a").text(),
-                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                    "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
                 } for tag in side.find(selector="aside:nth-child(2) > ul > li")],
             "details": [
                 {
@@ -84,10 +94,10 @@ class Search:
 
         results = {
             "article": self.__parser.ex(html=body, selector="div.body-text > p").text(),
-            "topics": [
+            "tags": [
                 {
                     "tag": self.__parser.ex(html=tag, selector="a").text(),
-                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                    "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
                 } for tag in side.find(selector="aside.related-topics > ul > li")],
             "questions": [q.text.replace("\r", "") for q in body.find(selector="div.body-text > div.q-a > h2.question")],
             "answers": [self.__parser.ex(html=ans, selector="p").text() for ans in body.find("div.body-text > div.q-a")],
@@ -113,8 +123,8 @@ class Search:
             "sub_content": [{
                 self.__parser.ex(html=sub, selector="h2").text(): self.__parser.ex(html=sub, selector="p").text()
             }for sub in self.__parser.ex(html=html, selector="#srch > article > div > div > div.eight.columns div")],
-            "topics": [{
-              "url": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+            "tags": [{
+              "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
               "tag": self.__parser.ex(html=tag, selector="a").text()
             }for tag in self.__parser.ex(html=side_right, selector="aside:last-child > ul > li")],
             "Article": self.__parser.ex(html=html, selector="#srch > article > div > div > div:first-child > p").text(),
@@ -134,10 +144,10 @@ class Search:
             "article": self.__parser.ex(html=body, selector="div.body-text p").text(),
             "overview": self.__parser.ex(html=body, selector="div.overview > p").text(),
             "topine": self.__parser.ex(html=body, selector="div.topline > div > ul > li").text(),
-            "topics": [
+            "tags": [
                 {
                     "tag": self.__parser.ex(html=tag, selector="a").text(),
-                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                    "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
                 } for tag in side.find(selector="aside.related-topics > ul > li")
             ],
             "image": [
@@ -162,10 +172,10 @@ class Search:
             "article": self.__parser.ex(html=body, selector="div.body-text p").text(),
             "overview": self.__parser.ex(html=body, selector="div.overview > p").text(),
             "topine": self.__parser.ex(html=body, selector="div.topline > div > ul > li").text(),
-            "topics": [
+            "tags": [
                 {
                     "tag": self.__parser.ex(html=tag, selector="a").text(),
-                    "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+                    "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
                 } for tag in side.find(selector="aside.related-topics > ul > li")
             ],
             "image": [
@@ -188,9 +198,9 @@ class Search:
         side = html.find(selector="#srch > article > div.constrain-width > div.blog-column-right")
 
         results = {
-            "topic": [{
+            "tags": [{
                 "tag": self.__parser.ex(html=tag, selector="a").text(),
-                "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr("href"))
+                "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr("href"))
             }for tag in self.__parser.ex(html=side, selector="aside.related-topics > ul > li")],
             "Article": self.__parser.ex(html=body, selector="div.body-text > p").text(),
             "sub_article": [
@@ -264,8 +274,8 @@ class Search:
                 "research": self.__parser.ex(html=res, selector="a").text(),
                 "profile": self.complement_url(self.__parser.ex(html=res, selector="a").attr('href'))
             }for res in self.__parser.ex(html=side_right, selector="aside:nth-child(3) > ul:nth-child(7) > li")],
-            "topics": [{
-              "url": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+            "tags": [{
+              "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
               "tag": self.__parser.ex(html=tag, selector="a").text()
             }for tag in self.__parser.ex(html=side_right, selector="aside:nth-child(3) > ul:nth-child(5) > li")],
             "Article": self.__parser.ex(html=html, selector="#srch > article > div > div > div:first-child > p").text(),
@@ -290,8 +300,8 @@ class Search:
                 "username": self.__parser.ex(html=footer, selector="div.blog-column-left p > a").text(),
                 "contact": self.__parser.ex(html=footer, selector="div.blog-column-left p > a").attr('href')
             },
-            "topic": [{
-                "blog": self.complement_url(self.__parser.ex(html=tag, selector="a").attr('href')),
+            "tags": [{
+                "domain": self.filter_tags(self.__parser.ex(html=tag, selector="a").attr('href')),
                 "tag": self.__parser.ex(html=tag, selector="a").text(),
             } for tag in self.__parser.ex(html=footer, selector="div.blog-column-right ul > li")],
             "Article": self.__parser.ex(html=footer, selector="div.body-text p").text()
