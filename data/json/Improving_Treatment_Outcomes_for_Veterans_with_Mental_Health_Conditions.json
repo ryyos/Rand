@@ -1,7 +1,7 @@
 {
   "domain": "www.rand.org",
-  "crawling_time": "2023-12-22 17:49:15.390932",
-  "crawling_time_epoch": 1703242155,
+  "crawling_time": "2024-01-02 10:24:51.300593",
+  "crawling_time_epoch": 1704165891,
   "type": "Testimony",
   "title": "Improving Treatment Outcomes for Veterans with Mental Health Conditions",
   "url": "https://www.rand.org/pubs/testimonies/CTA3043-1.html",
@@ -25,28 +25,14 @@
       "Veterans Health Care",
       "www.rand.org"
     ],
-    "details": [
-      {
-        "Copyright": "RAND Corporation"
-      },
-      {
-        "Availability": "Web-Only"
-      },
-      {
-        "Pages": "12"
-      },
-      {
-        "DOI": "https://doi.org/10.7249/CTA3043-1"
-      },
-      {
-        "Document Number": "CT-A3043-1"
-      },
-      {
-        "Year": "2023"
-      },
-      {
-        "Series": "Testimonies"
-      }
-    ]
+    "details": {
+      "Copyright": "RAND Corporation",
+      "Availability": "Web-Only",
+      "Pages": "12",
+      "DOI": "https://doi.org/10.7249/CTA3043-1",
+      "Document Number": "CT-A3043-1",
+      "Year": "2023",
+      "Series": "Testimonies"
+    }
   }
 }

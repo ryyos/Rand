@@ -1,7 +1,7 @@
 {
   "domain": "www.rand.org",
-  "crawling_time": "2023-12-22 17:55:12.107247",
-  "crawling_time_epoch": 1703242512,
+  "crawling_time": "2024-01-02 10:28:34.451806",
+  "crawling_time_epoch": 1704166114,
   "type": "Commentary",
   "title": "All Is Not Well on Russian Front Lines",
   "url": "https://www.rand.org/pubs/commentary/2023/07/all-is-not-well-on-russian-front-lines.html",
@@ -15,10 +15,10 @@
     "source": "(New York Times)",
     "author": {
       "name": "Dara Massicot",
-      "profil": "https://www.rand.org/about/people/m/massicot_dara.html",
-      "profession": "Senior Policy Researcher",
-      "username": "@MassDara",
-      "contact": "https://www.twitter.com/MassDara"
+      "profil": "https://www.rand.org/pubs/authors/m/massicot_dara.html",
+      "profession": "",
+      "username": "",
+      "contact": null
     },
     "tags": [
       "Military Personnel",

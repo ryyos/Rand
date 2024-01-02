@@ -13,7 +13,7 @@ from libs.helpers.Writer import Writer
 from libs.service.downloader import Downloader
 
 from libs.utils.Logs import Logs
-from libs.utils.filter import filter_invalid_chars
+from libs.utils.named import filter_invalid_chars
 
 class Search:
     def __init__(self) -> None:
@@ -59,7 +59,7 @@ class Search:
       retry_interval (float | int): Selang waktu antar perulangan
 
     Returns:
-      Response: Response hasil request
+      response: Response hasil request
     """
     def __retry(self, url: str, max_retries: int= 5, retry_interval: Union[int, float] = 0.2) -> Response :
         for _ in range(max_retries):
@@ -117,23 +117,25 @@ class Search:
 
 
         ic(body.find(selector="#download > div > div > table tr:nth-child(2) > td.dl > span.format-pdf > a").attr('href'))
-        path = f"data/pdf/{filter_invalid_chars(self.__parser.ex(html=body, selector='#RANDTitleHeadingId').text().replace(' ', '_'))}.pdf"
+        PATH = f"data/pdf/{filter_invalid_chars(self.__parser.ex(html=body, selector='#RANDTitleHeadingId').text())}.pdf"
 
-        self.__download.ex(path=path, \
+        self.__download.ex(path=PATH, \
                            url=self.__complement_url(body.find(selector="#download > div > div > table tr:nth-child(2) > td.dl > span.format-pdf > a").attr('href')))
+        
         results = {
-            "path_data_pdf": path,
+            "path_data_pdf": PATH,
             "descriptions": self.__parser.ex(html=body, selector="div.product-body > div.product-main > div.abstract.product-page-abstract > p").text(),
             "author": {
                 "name": self.__parser.ex(html=body, selector="div.product-header.full-bg-gray > div > div.eight.columns > div > p > a").text(),
                 "profile": self.__complement_url(self.__parser.ex(html=body, selector="div.product-header.full-bg-gray > div > div.eight.columns > div > p > a").attr('href')),
             },
             "tags": [self.__parser.ex(html=tag, selector="a").text() for tag in side.find(selector="aside:nth-child(2) > ul > li")],
-            "details": [
+            "details": 
                 {
-                    PyQuery(detail).text().split(": ")[0] : PyQuery(detail).text().split(": ")[-1]
-                } for detail in side.find(selector="aside.document-details > ul li")],
+                    PyQuery(detail).text().split(": ")[0] : PyQuery(detail).text().split(": ")[-1] for detail in side.find(selector="aside.document-details > ul li")
+                }
         }
+
 
         results["tags"].append(self.__filter_tags(url_artc))
         return results
@@ -213,7 +215,7 @@ class Search:
 
 
     # Filter untuk Yang website bertipe article
-    def article(self, url_artc) -> dict:
+    def article(self, url_artc: str) -> dict:
         response = self.__retry(url=url_artc)
         html = PyQuery(response.text)
 
@@ -455,6 +457,6 @@ class Search:
 
         for line in table.find('li'):
             results = self.exstract_data(pieces_table=line, status=response.status_code)
-            self.__writer.write_json(path=f'data/json/{filter_invalid_chars(results.get("title").replace(" ", "_"))}.json', content=results)
+            self.__writer.write_json(path=f'data/json/{filter_invalid_chars(results.get("title"))}.json', content=results)
             
 

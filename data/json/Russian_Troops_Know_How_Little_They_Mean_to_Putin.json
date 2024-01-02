@@ -1,7 +1,7 @@
 {
   "domain": "www.rand.org",
-  "crawling_time": "2023-12-22 18:06:52.041463",
-  "crawling_time_epoch": 1703243212,
+  "crawling_time": "2024-01-02 10:35:34.480039",
+  "crawling_time_epoch": 1704166534,
   "type": "Commentary",
   "title": "Russian Troops Know How Little They Mean to Putin",
   "url": "https://www.rand.org/pubs/commentary/2023/02/russian-troops-know-how-little-they-mean-to-putin.html",
@@ -15,10 +15,10 @@
     "source": "(New York Times)",
     "author": {
       "name": "Dara Massicot",
-      "profil": "https://www.rand.org/about/people/m/massicot_dara.html",
-      "profession": "Senior Policy Researcher",
-      "username": "@MassDara",
-      "contact": "https://www.twitter.com/MassDara"
+      "profil": "https://www.rand.org/pubs/authors/m/massicot_dara.html",
+      "profession": "",
+      "username": "",
+      "contact": null
     },
     "tags": [
       "Military Strategy",

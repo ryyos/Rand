@@ -1,7 +1,7 @@
 {
   "domain": "www.rand.org",
-  "crawling_time": "2023-12-22 17:51:14.072294",
-  "crawling_time_epoch": 1703242274,
+  "crawling_time": "2024-01-02 10:26:08.959565",
+  "crawling_time_epoch": 1704165968,
   "type": "Testimony",
   "title": "Preparing the Federal Response to Advanced Technologies",
   "url": "https://www.rand.org/pubs/testimonies/CTA2953-1.html",
@@ -24,25 +24,13 @@
       "Science and Technology Legislation",
       "www.rand.org"
     ],
-    "details": [
-      {
-        "Availability": "Web-Only"
-      },
-      {
-        "Pages": "5"
-      },
-      {
-        "DOI": "https://doi.org/10.7249/CTA2953-1"
-      },
-      {
-        "Document Number": "CT-A2953-1"
-      },
-      {
-        "Year": "2023"
-      },
-      {
-        "Series": "Testimonies"
-      }
-    ]
+    "details": {
+      "Availability": "Web-Only",
+      "Pages": "5",
+      "DOI": "https://doi.org/10.7249/CTA2953-1",
+      "Document Number": "CT-A2953-1",
+      "Year": "2023",
+      "Series": "Testimonies"
+    }
   }
 }

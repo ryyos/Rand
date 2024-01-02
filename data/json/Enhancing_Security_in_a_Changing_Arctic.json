@@ -1,7 +1,7 @@
 {
   "domain": "www.rand.org",
-  "crawling_time": "2023-12-22 17:46:39.403597",
-  "crawling_time_epoch": 1703241999,
+  "crawling_time": "2024-01-02 10:22:53.326854",
+  "crawling_time_epoch": 1704165773,
   "type": "Testimony",
   "title": "Enhancing Security in a Changing Arctic",
   "url": "https://www.rand.org/pubs/testimonies/CTA3097-1.html",
@@ -28,28 +28,14 @@
       "United States",
       "www.rand.org"
     ],
-    "details": [
-      {
-        "Copyright": "RAND Corporation"
-      },
-      {
-        "Availability": "Web-Only"
-      },
-      {
-        "Pages": "12"
-      },
-      {
-        "DOI": "https://doi.org/10.7249/CTA3097-1"
-      },
-      {
-        "Document Number": "CT-A3097-1"
-      },
-      {
-        "Year": "2023"
-      },
-      {
-        "Series": "Testimonies"
-      }
-    ]
+    "details": {
+      "Copyright": "RAND Corporation",
+      "Availability": "Web-Only",
+      "Pages": "12",
+      "DOI": "https://doi.org/10.7249/CTA3097-1",
+      "Document Number": "CT-A3097-1",
+      "Year": "2023",
+      "Series": "Testimonies"
+    }
   }
 }
